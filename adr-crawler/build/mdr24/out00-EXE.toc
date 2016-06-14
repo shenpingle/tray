@@ -1,0 +1,9 @@
+('C:\\Users\\Administrator\\Desktop\\Robot project\\adr-crawler\\build\\mdr24\\mdr24.exe',
+ True,
+ False,
+ None,
+ None,
+ [],
+ None,
+ False,
+ 1465198205L)

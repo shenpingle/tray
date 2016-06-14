@@ -1,0 +1,2460 @@
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:show_id:220014200423233840384823100000 is repeat!
+INFO:root:show_id:220014200796906070385103100000 is repeat!
+INFO:root:total: 35, batch:0, step:100
+INFO:root:total: 35, batch:1, step:100
+INFO:root:show_id:220014201617964940385880100000 is repeat!
+INFO:root:show_id:220014201644115180386016100000 is repeat!
+INFO:root:show_id:220014201968566130386817100000 is repeat!
+INFO:root:show_id:220014201969011390386819100000 is repeat!
+INFO:root:show_id:220014201969757560386821100000 is repeat!
+INFO:root:show_id:220014201972300090386834100000 is repeat!
+INFO:root:show_id:220014201973470410386842100000 is repeat!
+INFO:root:show_id:220014201973649300386843100000 is repeat!
+INFO:root:show_id:220014201974132180386846100000 is repeat!
+INFO:root:show_id:220014201976413950386865100000 is repeat!
+INFO:root:total: 25, batch:0, step:100
+INFO:root:total: 25, batch:1, step:100
+INFO:root:show_id:220014202710302890387854100000 is repeat!
+INFO:root:show_id:220014202719713320387908100000 is repeat!
+INFO:root:show_id:220014202730396260387963100000 is repeat!
+INFO:root:show_id:220014202746986740388019100000 is repeat!
+INFO:root:show_id:220014202754408870388034100000 is repeat!
+INFO:root:show_id:220014202765488760388078100000 is repeat!
+INFO:root:show_id:220014202772192530388085100000 is repeat!
+INFO:root:show_id:220014202781358030388092100000 is repeat!
+INFO:root:show_id:220014202788434830388094100000 is repeat!
+INFO:root:show_id:220014202796959540388102100000 is repeat!
+INFO:root:show_id:220014202802723430388109100000 is repeat!
+INFO:root:show_id:220014202809260080388114100000 is repeat!
+INFO:root:show_id:220014202814457710388139100000 is repeat!
+INFO:root:show_id:220014202821251830388145100000 is repeat!
+INFO:root:show_id:220014202826819190388152100000 is repeat!
+INFO:root:show_id:220014202832898480388159100000 is repeat!
+INFO:root:show_id:220014202839670850388168100000 is repeat!
+INFO:root:show_id:220014202845685610388173100000 is repeat!
+INFO:root:show_id:220014202852354650388176100000 is repeat!
+INFO:root:show_id:220014202860811630388180100000 is repeat!
+INFO:root:show_id:220014202867606540388184100000 is repeat!
+INFO:root:total: 73, batch:0, step:100
+INFO:root:total: 73, batch:1, step:100
+INFO:root:show_id:220014203311098460388509100000 is repeat!
+INFO:root:show_id:220014203311497610388536100000 is repeat!
+INFO:root:show_id:220014203312302420388540100000 is repeat!
+INFO:root:show_id:220014203312396040388543100000 is repeat!
+INFO:root:show_id:220014203312508060388545100000 is repeat!
+INFO:root:show_id:220014203332738800388845100000 is repeat!
+INFO:root:show_id:220014203350508620389580100000 is repeat!
+INFO:root:show_id:220014203377673940390625100000 is repeat!
+INFO:root:show_id:220014203378899870390664100000 is repeat!
+INFO:root:show_id:220014203444740160391664100000 is repeat!
+INFO:root:show_id:220014203522933160392147100000 is repeat!
+INFO:root:show_id:220014203541347650392513100000 is repeat!
+INFO:root:show_id:220014203648207220395364100000 is repeat!
+INFO:root:show_id:220014203648348390395365100000 is repeat!
+INFO:root:show_id:220014203648490140395366100000 is repeat!
+INFO:root:show_id:220014203665667210395424100000 is repeat!
+INFO:root:show_id:220014203673983200395461100000 is repeat!
+INFO:root:show_id:220014203688961070395487100000 is repeat!
+INFO:root:show_id:220014203694069220395502100000 is repeat!
+INFO:root:show_id:220014203700338980395511100000 is repeat!
+INFO:root:show_id:220014203704259270395516100000 is repeat!
+INFO:root:show_id:220014203710096250395529100000 is repeat!
+INFO:root:show_id:220014203713607760395533100000 is repeat!
+INFO:root:show_id:220014203716564230395558100000 is repeat!
+INFO:root:show_id:220014203721160810395564100000 is repeat!
+INFO:root:show_id:220014203728201200395570100000 is repeat!
+INFO:root:show_id:220014203731748360395572100000 is repeat!
+INFO:root:show_id:220014203735059340395580100000 is repeat!
+INFO:root:show_id:220014203742463890395594100000 is repeat!
+INFO:root:show_id:220014203751753020395601100000 is repeat!
+INFO:root:show_id:220014203818099960395665100000 is repeat!
+INFO:root:show_id:220014203823069500395668100000 is repeat!
+INFO:root:show_id:220014203826121490395671100000 is repeat!
+INFO:root:total: 53, batch:0, step:100
+INFO:root:total: 53, batch:1, step:100
+INFO:root:show_id:220014204192614190396103100000 is repeat!
+INFO:root:show_id:220014204198571290396259100000 is repeat!
+INFO:root:show_id:220014204206389360396491100000 is repeat!
+INFO:root:show_id:220014204214340640396746100000 is repeat!
+INFO:root:show_id:220014204218199330396945100000 is repeat!
+INFO:root:show_id:220014204223351810397120100000 is repeat!
+INFO:root:show_id:220014204223883480397138100000 is repeat!
+INFO:root:show_id:220014204228639260397263100000 is repeat!
+INFO:root:show_id:220014204237968090397541100000 is repeat!
+INFO:root:show_id:220014204271469120398490100000 is repeat!
+INFO:root:show_id:220014204293937540399199100000 is repeat!
+INFO:root:show_id:220014204297305820399244100000 is repeat!
+INFO:root:show_id:220014204300733530399293100000 is repeat!
+INFO:root:show_id:220014204401546900400291100000 is repeat!
+INFO:root:show_id:220014204405675310400410100000 is repeat!
+INFO:root:show_id:220014204409004870400496100000 is repeat!
+INFO:root:show_id:220014204409030050400494100000 is repeat!
+INFO:root:show_id:220014204417793740400735100000 is repeat!
+INFO:root:show_id:220014204435708590401264100000 is repeat!
+INFO:root:show_id:220014204440891870401424100000 is repeat!
+INFO:root:show_id:220014204443431540401493100000 is repeat!
+INFO:root:show_id:220014204478499280402498100000 is repeat!
+INFO:root:show_id:220014204489592570402802100000 is repeat!
+INFO:root:show_id:220014204712806830403618100000 is repeat!
+INFO:root:total: 74, batch:0, step:100
+INFO:root:total: 74, batch:1, step:100
+INFO:root:show_id:220014205046236840403745100000 is repeat!
+INFO:root:show_id:220014205049254860403822100000 is repeat!
+INFO:root:show_id:220014205052879900403882100000 is repeat!
+INFO:root:show_id:220014205066282820404149100000 is repeat!
+INFO:root:show_id:220014205070402900404261100000 is repeat!
+INFO:root:show_id:220014205074585330404365100000 is repeat!
+INFO:root:show_id:220014205080930040404512100000 is repeat!
+INFO:root:show_id:220014205084837170404623100000 is repeat!
+INFO:root:show_id:220014205086423580404667100000 is repeat!
+INFO:root:show_id:220014205090368380404760100000 is repeat!
+INFO:root:show_id:220014205092082650404786100000 is repeat!
+INFO:root:show_id:220014205105574090405111100000 is repeat!
+INFO:root:show_id:220014205107240260405192100000 is repeat!
+INFO:root:show_id:220014205148325370406316100000 is repeat!
+INFO:root:show_id:220014205151513710406361100000 is repeat!
+INFO:root:show_id:220014205151710940406365100000 is repeat!
+INFO:root:show_id:220014205151977180406371100000 is repeat!
+INFO:root:show_id:220014205259093900407214100000 is repeat!
+INFO:root:show_id:220014205284613900407908100000 is repeat!
+INFO:root:show_id:220014205300241660408362100000 is repeat!
+INFO:root:show_id:220014205301344770408395100000 is repeat!
+INFO:root:show_id:220014205306783500408525100000 is repeat!
+INFO:root:show_id:220014205313039260408697100000 is repeat!
+INFO:root:show_id:220014205319928000408921100000 is repeat!
+INFO:root:show_id:220014205330444210409236100000 is repeat!
+INFO:root:show_id:220014205340333800409470100000 is repeat!
+INFO:root:show_id:220014205354967260409953100000 is repeat!
+INFO:root:show_id:220014205389219360410744100000 is repeat!
+INFO:root:total: 48, batch:0, step:100
+INFO:root:total: 48, batch:1, step:100
+INFO:root:show_id:220014205912839470411332100000 is repeat!
+INFO:root:show_id:220014205924309520411569100000 is repeat!
+INFO:root:show_id:220014205934090660411857100000 is repeat!
+INFO:root:show_id:220014205942524660412031100000 is repeat!
+INFO:root:show_id:220014205947627350412196100000 is repeat!
+INFO:root:show_id:220014205952374280412310100000 is repeat!
+INFO:root:show_id:220014205958411450412481100000 is repeat!
+INFO:root:show_id:220014205970487370412675100000 is repeat!
+INFO:root:show_id:220014205990066900413129100000 is repeat!
+INFO:root:show_id:220014205993236040413190100000 is repeat!
+INFO:root:show_id:220014206000050770413345100000 is repeat!
+INFO:root:show_id:220014206008868030413551100000 is repeat!
+INFO:root:show_id:220014206132365650414743100000 is repeat!
+INFO:root:show_id:220014206133488880414780100000 is repeat!
+INFO:root:show_id:220014206162222190415328100000 is repeat!
+INFO:root:show_id:220014206181818630415546100000 is repeat!
+INFO:root:show_id:220014206183113610415551100000 is repeat!
+INFO:root:show_id:220014206187074580415589100000 is repeat!
+INFO:root:show_id:220014206188458030415594100000 is repeat!
+INFO:root:show_id:220014206188974290415602100000 is repeat!
+INFO:root:show_id:220014206190610430415614100000 is repeat!
+INFO:root:show_id:220014206195890070415656100000 is repeat!
+INFO:root:show_id:220014206220810670415933100000 is repeat!
+INFO:root:show_id:220014206221276510415948100000 is repeat!
+INFO:root:show_id:220014206230268400416092100000 is repeat!
+INFO:root:show_id:220014206234683310416110100000 is repeat!
+INFO:root:show_id:220014206259454370416162100000 is repeat!
+INFO:root:total: 60, batch:0, step:100
+INFO:root:total: 60, batch:1, step:100
+INFO:root:show_id:220014206767575090416470100000 is repeat!
+INFO:root:show_id:220014206770503400416489100000 is repeat!
+INFO:root:show_id:220014206772987600416515100000 is repeat!
+INFO:root:show_id:220014206783706410416616100000 is repeat!
+INFO:root:show_id:220014206784072610416623100000 is repeat!
+INFO:root:show_id:220014206788467990416674100000 is repeat!
+INFO:root:show_id:220014206792870750416747100000 is repeat!
+INFO:root:show_id:220014206798604460416880100000 is repeat!
+INFO:root:show_id:220014206817993400417293100000 is repeat!
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,tradename,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2015-01-08','否','无','否','怀疑','2015-01-07','国药准字H20023626','静脉滴注','否','急性扁桃体炎','一般','无','1407114','注射剂','2015-01-08','1.5克','0000-00-00','否','2015-01-07','否','34112','2015-01-07','医疗机构','玉溪市红塔区妇幼保健院','否','1日1次','上海新亚药业有限公司','注射用头孢噻肟钠','玉溪市红塔区妇幼保健院','痊愈','5304021013367201500002'); 
+
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,tradename,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2015-01-08','否','无','否','并用','2015-01-07','国药准字H20044305','静脉滴注','否','急性扁桃体炎','一般','无','A14091004-2','注射剂','2015-01-08','150毫升','0000-00-00','否','2015-01-07','否','34112','2015-01-07','医疗机构','玉溪市红塔区妇幼保健院','否','1日1次','四川科伦药业股份有限公司','氯化钠注射液','玉溪市红塔区妇幼保健院','痊愈','5304021013367201500002'); 
+
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapclinic(reportdate,ismatchingclinic,trackdate,unmatchclinic,happendate,id,isimporthospital,unittype,reportunitname,reporttype,imphospitalname,kickbacktype,statereportdate,bianma)values('2015-01-08','否','0000-00-00','荨麻疹','2015-01-07','34112','否','医疗机构','玉溪市红塔区妇幼保健院','一般','玉溪市红塔区妇幼保健院','痊愈','2015-01-08','5304021013367201500002'); 
+
+INFO:root:show_id:220014206983275470419200100000	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into business_gather(reportpersonmail,reportunitappraise,provinceremark,otherimportinfo,provinceunitname,trackdate,relationunitappraise,municipalunitname,avoirdupois,ismedicationmatch,sex,clinicno,oldsickness,fungiblereportunit,municipaladrdateanalyse,municipaladrtypeanalyse,happendate,reportpersonautograph,ethic,sufferername,homebuliang,personappraisegraph,reportpersongraph,reportpersonappraise,reportunitphone,provinceuseagainanalyse,provinceappraisedate,useagain,municipalappraisedate,comments,id,municipalstopmedicationanalyse,municipalremark,unittype,reportunitname,isimportmedication,reportpersonwork,provinceadrdateanalyse,isned,hospitalname,municipalappraise,medicationlist,sufferertype,stopresult,isror,reporttypedetail,adrlist,examplesource,show_id,infection,relationpersonremark,birthday,reporttype,pastbuliang,relationpersonappraise,provinceappraisegraph,reportunitlinkman,statereportdate,ispass,contacttele,municipaluseagainanalyse,isattachments,relationunitremark,inforsource,provinceadrtypeanalyse,isimporthospital,reportdate,age,reportunitautograph,provinceappraise,municipalotherrelatedanalyse,provincestopmedicationanalyse,reportpersonphone,municipalappraisegraph,provinceotherrelatedanalyse,unitappraisegraph,kickbacktype,firsttraced,depictdispose,bianma,isadrmatch)values('','可能','关联性评价:可能','','玉溪市药品不良反应与药物滥用监测中心','0000-00-00','可能','红塔区药品不良反应与药物滥用监测中心','12(公斤)','否','女','无','急性扁桃体炎','','有','是','2015-01-07','代建华','白族','李欣怡','无','代建华','合娅涛','可能','0877-2032723','未再使用','2015-01-20','未再使用','2015-01-16','','34112','是','关联性评价:可能','医疗机构','玉溪市红塔区妇幼保健院','否','医生','有','无','玉溪市红塔区妇幼保健院','可能','[注射用头孢噻肟钠:非标准],[氯化钠注射液:非标准]','儿童','是','否','已知 一般','[荨麻疹:非标准]','上报个例','220014206983275470419200100000','不明显','','2011-06-01','一般','无','可能','杨李涛','合娅涛','2015-01-08','否','13988460145','未再使用','无','','','是','否','2015-01-08','4.0','合娅涛','可能','不明','未停药或未减量','13908779710','红塔区食品药品监督管理局','不明','合娅涛','痊愈','首次报告','患儿因“急性扁桃体炎”于2015年1月7日13：15分到我院就诊，并给予输液治疗，在输入“注射用头孢噻肟钠1.5g+氯化钠注射液150ml，30滴/分，一日一次”完毕后，其家属发现患儿额头出现红色皮疹.查体：精神可，颈部、胸部、额头、背部可见大片皮疹、心肺无异常，余（-）。考虑过敏性荨麻疹。立即给予“复方甘草酸铵注射液1.5毫升肌肉注射，马来酸氯苯那敏片1.5mg/次、醋酸泼尼松片2.5mg/次口服”大约30分钟后患儿皮疹消退，未见异常。','5304021013367201500002','否'); 
+
+INFO:root:show_id:220014206985265930419220100000 is repeat!
+INFO:root:show_id:220014207002103510419560100000 is repeat!
+INFO:root:show_id:220014207006911660419667100000 is repeat!
+INFO:root:show_id:220014207007915910419723100000 is repeat!
+INFO:root:show_id:220014207008270010419692100000 is repeat!
+INFO:root:show_id:220014207014695470419890100000 is repeat!
+INFO:root:show_id:220014207019728290420024100000 is repeat!
+INFO:root:show_id:220014207026894120420201100000 is repeat!
+INFO:root:show_id:220014207037371600420479100000 is repeat!
+INFO:root:show_id:220014207052037120420945100000 is repeat!
+INFO:root:show_id:220014207056798910421082100000 is repeat!
+INFO:root:show_id:220014207060920450421145100000 is repeat!
+INFO:root:show_id:220014207067316170421302100000 is repeat!
+INFO:root:show_id:220014207068840870421331100000 is repeat!
+INFO:root:show_id:220014207071357150421419100000 is repeat!
+INFO:root:show_id:220014207074424080421504100000 is repeat!
+INFO:root:show_id:220014207087131890421792100000 is repeat!
+INFO:root:show_id:220014207124408260422017100000 is repeat!
+INFO:root:show_id:220014207217984400422129100000 is repeat!
+INFO:root:total: 77, batch:0, step:100
+INFO:root:total: 77, batch:1, step:100
+INFO:root:show_id:201515155218421000000024523952 is repeat!
+INFO:root:show_id:201519172640265000000001002162 is repeat!
+INFO:root:show_id:220014207644939360422697100000 is repeat!
+INFO:root:show_id:220014207656403690422980100000 is repeat!
+INFO:root:show_id:220014207662013420423113100000 is repeat!
+INFO:root:show_id:220014207674992530423453100000 is repeat!
+INFO:root:show_id:220014207678264360423553100000 is repeat!
+INFO:root:show_id:220014207716969800424729100000 is repeat!
+INFO:root:show_id:220014207858929220426459100000 is repeat!
+INFO:root:show_id:220014207870083820426668100000 is repeat!
+INFO:root:show_id:220014207874974300426773100000 is repeat!
+INFO:root:show_id:220014207881122960426905100000 is repeat!
+INFO:root:show_id:220014207889509440427095100000 is repeat!
+INFO:root:show_id:220014207904143220427504100000 is repeat!
+INFO:root:show_id:220014207905759710427564100000 is repeat!
+INFO:root:show_id:220014207913750790427756100000 is repeat!
+INFO:root:show_id:220014207923749560427998100000 is repeat!
+INFO:root:show_id:220014207931669430428170100000 is repeat!
+INFO:root:show_id:220014207931969370428198100000 is repeat!
+INFO:root:show_id:220014207932074750428166100000 is repeat!
+INFO:root:show_id:220014207934670580428222100000 is repeat!
+INFO:root:show_id:220014207934882070428239100000 is repeat!
+INFO:root:show_id:220014207939347560428351100000 is repeat!
+INFO:root:show_id:220014207943604020428428100000 is repeat!
+INFO:root:show_id:220014207946965950428471100000 is repeat!
+INFO:root:show_id:220014207947239050428503100000 is repeat!
+INFO:root:show_id:220014207949615080428572100000 is repeat!
+INFO:root:show_id:220014207951466400428631100000 is repeat!
+INFO:root:show_id:220014207955088450428683100000 is repeat!
+INFO:root:show_id:220014207959244370428852100000 is repeat!
+INFO:root:show_id:220014207962831430428867100000 is repeat!
+INFO:root:show_id:220014207966663280428903100000 is repeat!
+INFO:root:show_id:220014207970398520428920100000 is repeat!
+INFO:root:show_id:220014207973376240428931100000 is repeat!
+INFO:root:show_id:220014207976964300428960100000 is repeat!
+INFO:root:total: 0, batch:0, step:100
+INFO:root:total: 4, batch:0, step:100
+INFO:root:total: 4, batch:1, step:100
+INFO:root:total: 66, batch:0, step:100
+INFO:root:total: 66, batch:1, step:100
+INFO:root:show_id:220014210237030200429716100000 is repeat!
+INFO:root:show_id:220014210246095790429894100000 is repeat!
+INFO:root:show_id:220014210258630050430200100000 is repeat!
+INFO:root:show_id:220014210258987430430201100000 is repeat!
+INFO:root:show_id:220014210265575550430472100000 is repeat!
+INFO:root:show_id:220014210268915170430560100000 is repeat!
+INFO:root:show_id:220014210279181150430905100000 is repeat!
+INFO:root:show_id:220014210283016030431028100000 is repeat!
+INFO:root:show_id:220014210291737700431272100000 is repeat!
+INFO:root:show_id:220014210301523800431581100000 is repeat!
+INFO:root:show_id:220014210306672450431729100000 is repeat!
+INFO:root:show_id:220014210313176810431952100000 is repeat!
+INFO:root:show_id:220014210314217950431986100000 is repeat!
+INFO:root:show_id:220014210317538340432115100000 is repeat!
+INFO:root:show_id:220014210327773360432470100000 is repeat!
+INFO:root:show_id:220014210329406860432553100000 is repeat!
+INFO:root:show_id:220014210329773480432583100000 is repeat!
+INFO:root:show_id:220014210352590400433075100000 is repeat!
+INFO:root:show_id:220014210451072590434081100000 is repeat!
+INFO:root:show_id:220014210456286320434229100000 is repeat!
+INFO:root:show_id:220014210458099260434270100000 is repeat!
+INFO:root:show_id:220014210461440770434394100000 is repeat!
+INFO:root:show_id:220014210473924340434718100000 is repeat!
+INFO:root:show_id:220014210474498550434729100000 is repeat!
+INFO:root:show_id:220014210486187580435070100000 is repeat!
+INFO:root:show_id:220014210496551370435359100000 is repeat!
+INFO:root:show_id:220014210502682770435476100000 is repeat!
+INFO:root:show_id:220014210506963080435562100000 is repeat!
+INFO:root:show_id:220014210521226800435794100000 is repeat!
+INFO:root:show_id:220014210530400800435991100000 is repeat!
+INFO:root:show_id:220014210531320000435995100000 is repeat!
+INFO:root:show_id:220014210535537750436119100000 is repeat!
+INFO:root:show_id:220014210542742860436215100000 is repeat!
+INFO:root:show_id:220014210550282910436410100000 is repeat!
+INFO:root:show_id:220014210553312360436484100000 is repeat!
+INFO:root:show_id:220014210557186640436494100000 is repeat!
+INFO:root:total: 84, batch:0, step:100
+INFO:root:total: 84, batch:1, step:100
+INFO:root:show_id:220014211110181610437481100000 is repeat!
+INFO:root:show_id:220014211115164650437635100000 is repeat!
+INFO:root:show_id:220014211116724850437674100000 is repeat!
+INFO:root:show_id:220014211118004010437744100000 is repeat!
+INFO:root:show_id:220014211122231290437841100000 is repeat!
+INFO:root:show_id:220014211122578120437847100000 is repeat!
+INFO:root:show_id:220014211131070270438128100000 is repeat!
+INFO:root:show_id:220014211138325480438347100000 is repeat!
+INFO:root:show_id:220014211139396940438398100000 is repeat!
+INFO:root:show_id:220014211143280010438509100000 is repeat!
+INFO:root:show_id:220014211143285240438510100000 is repeat!
+INFO:root:show_id:220014211145940150438602100000 is repeat!
+INFO:root:show_id:220014211149324430438686100000 is repeat!
+INFO:root:show_id:220014211153460950438819100000 is repeat!
+INFO:root:show_id:220014211153900930438824100000 is repeat!
+INFO:root:show_id:220014211157942980438946100000 is repeat!
+INFO:root:show_id:220014211160342730439022100000 is repeat!
+INFO:root:show_id:220014211164765630439158100000 is repeat!
+INFO:root:show_id:220014211174147560439435100000 is repeat!
+INFO:root:show_id:220014211176746220439522100000 is repeat!
+INFO:root:show_id:220014211178872340439568100000 is repeat!
+INFO:root:show_id:220014211180941280439626100000 is repeat!
+INFO:root:show_id:220014211183921850439704100000 is repeat!
+INFO:root:show_id:220014211186752120439777100000 is repeat!
+INFO:root:show_id:220014211189329240439861100000 is repeat!
+INFO:root:show_id:220014211192972480439933100000 is repeat!
+INFO:root:show_id:220014211193787080439978100000 is repeat!
+INFO:root:show_id:220014211198702270440098100000 is repeat!
+INFO:root:show_id:220014211200961620440150100000 is repeat!
+INFO:root:show_id:220014211205069620440242100000 is repeat!
+INFO:root:show_id:220014211208455520440304100000 is repeat!
+INFO:root:show_id:220014211211313810440356100000 is repeat!
+INFO:root:show_id:220014211215826570440422100000 is repeat!
+INFO:root:show_id:220014211218039320440444100000 is repeat!
+INFO:root:show_id:220014211220463360440455100000 is repeat!
+INFO:root:show_id:220014211299990580440918100000 is repeat!
+INFO:root:show_id:220014211300449670440916100000 is repeat!
+INFO:root:show_id:220014211312233290441142100000 is repeat!
+INFO:root:show_id:220014211312640580441158100000 is repeat!
+INFO:root:show_id:220014211318984950441289100000 is repeat!
+INFO:root:show_id:220014211321079420441314100000 is repeat!
+INFO:root:show_id:220014211321963670441353100000 is repeat!
+INFO:root:show_id:220014211324118080441419100000 is repeat!
+INFO:root:show_id:220014211327127010441494100000 is repeat!
+INFO:root:show_id:220014211332728850441666100000 is repeat!
+INFO:root:show_id:220014211338847810441817100000 is repeat!
+INFO:root:show_id:220014211344654750442027100000 is repeat!
+INFO:root:show_id:220014211344907730442034100000 is repeat!
+INFO:root:show_id:220014211347507800442125100000 is repeat!
+INFO:root:show_id:220014211375873110442829100000 is repeat!
+INFO:root:show_id:220014211390672500443217100000 is repeat!
+INFO:root:show_id:220014211413974450443732100000 is repeat!
+INFO:root:total: 46, batch:0, step:100
+INFO:root:total: 46, batch:1, step:100
+INFO:root:show_id:220014211980695330444947100000 is repeat!
+INFO:root:show_id:220014211996486100445297100000 is repeat!
+INFO:root:show_id:220014211998720340445330100000 is repeat!
+INFO:root:show_id:220014211999915460445351100000 is repeat!
+INFO:root:show_id:220014212002557630445433100000 is repeat!
+INFO:root:show_id:220014212008472650445597100000 is repeat!
+INFO:root:show_id:220014212023846590445956100000 is repeat!
+INFO:root:show_id:220014212034216570446231100000 is repeat!
+INFO:root:show_id:220014212052160440446662100000 is repeat!
+INFO:root:show_id:220014212057393370446786100000 is repeat!
+INFO:root:show_id:220014212065139200446925100000 is repeat!
+INFO:root:show_id:220014212069121940446950100000 is repeat!
+INFO:root:show_id:220014212111775970447288100000 is repeat!
+INFO:root:show_id:220014212158023960447573100000 is repeat!
+INFO:root:show_id:220014212170591030447786100000 is repeat!
+INFO:root:show_id:220014212174652080447861100000 is repeat!
+INFO:root:total: 61, batch:0, step:100
+INFO:root:total: 61, batch:1, step:100
+INFO:root:show_id:201517953095300000000001071193 is repeat!
+INFO:root:show_id:220014212860267090451888100000 is repeat!
+INFO:root:show_id:220014212868910450452079100000 is repeat!
+INFO:root:show_id:220014212902842350453125100000 is repeat!
+INFO:root:show_id:220014212903276430453156100000 is repeat!
+INFO:root:show_id:220014212906455090453242100000 is repeat!
+INFO:root:show_id:220014212937949490453835100000 is repeat!
+INFO:root:show_id:220014213045037170454893100000 is repeat!
+INFO:root:show_id:220014213047802950454980100000 is repeat!
+INFO:root:show_id:220014213069929220455582100000 is repeat!
+INFO:root:show_id:220014213076858400455745100000 is repeat!
+INFO:root:show_id:220014213125494600456924100000 is repeat!
+INFO:root:show_id:220014213135409760457318100000 is repeat!
+INFO:root:show_id:220014213140935650457427100000 is repeat!
+INFO:root:total: 21, batch:0, step:100
+INFO:root:total: 21, batch:1, step:100
+INFO:root:show_id:220014213699306280458214100000 is repeat!
+INFO:root:show_id:220014213757637890459857100000 is repeat!
+INFO:root:show_id:220014213762958870460011100000 is repeat!
+INFO:root:show_id:220014213775110230460355100000 is repeat!
+INFO:root:show_id:220014213780000610460549100000 is repeat!
+INFO:root:show_id:220014213783492160460630100000 is repeat!
+INFO:root:show_id:	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2014-12-15','否','无','否','怀疑','2014-12-15','国药准字H50022100','静脉滴注','否','支持对症','一般','14040015','注射剂','2015-01-16','250毫升','0000-00-00','否','2014-12-25','否','34113','2014-12-15','医疗机构','元阳县民族医院','否','1日1次','西南药业股份有限公司','复方氨基酸注射液','元阳县民族医院','好转','5325281009507201500001'); 
+
+INFO:root:show_id:	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapclinic(reportdate,ismatchingclinic,trackdate,unmatchclinic,happendate,id,isimporthospital,unittype,reportunitname,reporttype,imphospitalname,kickbacktype,statereportdate,bianma)values('2014-12-15','否','0000-00-00','发热','2014-12-15','34113','否','医疗机构','元阳县民族医院','一般','元阳县民族医院','好转','2015-01-16','5325281009507201500001'); 
+
+INFO:root:show_id:220014213787893820460757100000	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into business_gather(reportpersonmail,reportunitappraise,provinceremark,otherimportinfo,provinceunitname,trackdate,relationunitappraise,municipalunitname,avoirdupois,ismedicationmatch,sex,clinicno,oldsickness,fungiblereportunit,municipaladrdateanalyse,municipaladrtypeanalyse,happendate,reportpersonautograph,ethic,sufferername,homebuliang,personappraisegraph,reportpersongraph,reportpersonappraise,reportunitphone,provinceuseagainanalyse,provinceappraisedate,useagain,municipalappraisedate,comments,id,municipalstopmedicationanalyse,municipalremark,unittype,reportunitname,isimportmedication,reportpersonwork,provinceadrdateanalyse,isned,hospitalname,municipalappraise,medicationlist,sufferertype,stopresult,isror,reporttypedetail,adrlist,examplesource,show_id,infection,relationpersonremark,birthday,reporttype,pastbuliang,relationpersonappraise,provinceappraisegraph,reportunitlinkman,statereportdate,ispass,contacttele,municipaluseagainanalyse,isattachments,relationunitremark,inforsource,provinceadrtypeanalyse,isimporthospital,reportdate,age,reportunitautograph,provinceappraise,municipalotherrelatedanalyse,provincestopmedicationanalyse,reportpersonphone,municipalappraisegraph,provinceotherrelatedanalyse,unitappraisegraph,kickbacktype,firsttraced,depictdispose,bianma,isadrmatch)values('','可能','关联性评价:可能','','红河哈尼族彝族自治州药品不良反应与药物滥用监测中心','0000-00-00','可能','元阳县药品不良反应监测中心','63(公斤)','否','男','','急性化脓性阑尾炎','元阳县药品不良反应监测中心','有','是','2014-12-15','李怡','彝族','李俊','无','李怡','岳青','可能','5622080','未再使用','2015-01-19','未再使用','2015-01-16','','34113','是','关联性评价:可能','医疗机构','元阳县民族医院','否','护士','有','无','元阳县民族医院','可能','[复方氨基酸注射液:非标准]','成人','是','否','已知 一般','[发热:非标准]','上报个例','220014213787893820460757100000','不明显','','1996-08-18','一般','无','可能','李黎芳','刘永明','2015-01-16','否','15752640073','未再使用','无','','','是','否','2014-12-15','18.0','李怡','可能','否','是','15752640073','卢建明','不明','李怡','好转','首次报告','患者因急性化脓性阑尾炎在输复方氨基酸注射液半小时后出现全身酸痛难忍，查：体温40摄氏度，p108次/分，R22次/分，BP106/47mmHg,痛苦面容，其它无特殊。立即更换液体，给予双氯芬酸钠1枚塞肛，密切观察病情，2小时后症状好转。','5325281009507201500001','否'); 
+
+INFO:root:show_id:220014213792352290460820100000 is repeat!
+INFO:root:show_id:220014213942540130462532100000 is repeat!
+INFO:root:show_id:220014213967525740463346100000 is repeat!
+INFO:root:show_id:220014213979881440463649100000 is repeat!
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:total: 77, batch:0, step:100
+INFO:root:total: 77, batch:1, step:100
+INFO:root:show_id:220014216267756420465426100000 is repeat!
+INFO:root:show_id:220014216272385160465480100000 is repeat!
+INFO:root:show_id:220014216281752980465580100000 is repeat!
+INFO:root:show_id:220014216310404600466290100000 is repeat!
+INFO:root:show_id:220014216313853700466444100000 is repeat!
+INFO:root:show_id:220014216328214320466880100000 is repeat!
+INFO:root:show_id:220014216341274750467367100000 is repeat!
+INFO:root:show_id:220014216342706100467398100000 is repeat!
+INFO:root:show_id:220014216352203080467712100000 is repeat!
+INFO:root:show_id:220014216353561010467794100000 is repeat!
+INFO:root:show_id:220014216359342230467998100000 is repeat!
+INFO:root:show_id:220014216362615350468095100000 is repeat!
+INFO:root:show_id:220014216522128130470625100000 is repeat!
+INFO:root:show_id:220014216525803050470734100000 is repeat!
+INFO:root:show_id:220014216535744190471106100000 is repeat!
+INFO:root:show_id:220014216541604070471338100000 is repeat!
+INFO:root:show_id:220014216544558550471446100000 is repeat!
+INFO:root:show_id:220014216547117920471529100000 is repeat!
+INFO:root:show_id:220014216556891070471898100000 is repeat!
+INFO:root:show_id:220014216561824520472049100000 is repeat!
+INFO:root:show_id:220014216566411500472187100000 is repeat!
+INFO:root:show_id:220014216566420020472192100000 is repeat!
+INFO:root:show_id:220014216593140930473044100000 is repeat!
+INFO:root:show_id:220014216594084360473078100000 is repeat!
+INFO:root:show_id:220014216609932480473300100000 is repeat!
+INFO:root:show_id:220014216633250510473457100000 is repeat!
+INFO:root:show_id:220014216641809750473497100000 is repeat!
+INFO:root:show_id:220014216737384060473816100000 is repeat!
+INFO:root:show_id:220014216749848570473828100000 is repeat!
+INFO:root:show_id:220014216756214620473833100000 is repeat!
+INFO:root:show_id:220014216760810290473876100000 is repeat!
+INFO:root:show_id:220014216765950910473880100000 is repeat!
+INFO:root:total: 102, batch:0, step:100
+INFO:root:total: 102, batch:1, step:100
+INFO:root:total: 102, batch:2, step:100
+INFO:root:show_id:220014217150431480474267100000 is repeat!
+INFO:root:show_id:220014217161168350474535100000 is repeat!
+INFO:root:show_id:220014217167047870474745100000 is repeat!
+INFO:root:show_id:220014217167094260474758100000 is repeat!
+INFO:root:show_id:220014217174852600475024100000 is repeat!
+INFO:root:show_id:220014217177522120475124100000 is repeat!
+INFO:root:show_id:220014217179681580475216100000 is repeat!
+INFO:root:show_id:220014217180576030475231100000 is repeat!
+INFO:root:show_id:220014217182241490475275100000 is repeat!
+INFO:root:show_id:220014217183247740475340100000 is repeat!
+INFO:root:show_id:220014217188077950475529100000 is repeat!
+INFO:root:show_id:220014217190076130475623100000 is repeat!
+INFO:root:show_id:220014217192498050475719100000 is repeat!
+INFO:root:show_id:220014217195282480475794100000 is repeat!
+INFO:root:show_id:220014217195329390475840100000 is repeat!
+INFO:root:show_id:220014217195366680475804100000 is repeat!
+INFO:root:show_id:220014217196415620475876100000 is repeat!
+INFO:root:show_id:220014217200536890475984100000 is repeat!
+INFO:root:show_id:220014217205649680476146100000 is repeat!
+INFO:root:show_id:220014217206113740476182100000 is repeat!
+INFO:root:show_id:220014217207934670476228100000 is repeat!
+INFO:root:show_id:220014217207947430476248100000 is repeat!
+INFO:root:show_id:220014217210209420476312100000 is repeat!
+INFO:root:show_id:220014217217909890476571100000 is repeat!
+INFO:root:show_id:220014217221972900476709100000 is repeat!
+INFO:root:show_id:220014217224072310476794100000 is repeat!
+INFO:root:show_id:220014217226194180476867100000 is repeat!
+INFO:root:show_id:220014217228392650476949100000 is repeat!
+INFO:root:show_id:220014217230947960477085100000 is repeat!
+INFO:root:show_id:220014217236729810477242100000 is repeat!
+INFO:root:show_id:220014217236918830477257100000 is repeat!
+INFO:root:show_id:220014217238526470477253100000 is repeat!
+INFO:root:show_id:220014217240951640477332100000 is repeat!
+INFO:root:show_id:220014217246110090477457100000 is repeat!
+INFO:root:show_id:220014217248553000477519100000 is repeat!
+INFO:root:show_id:220014217255522550477675100000 is repeat!
+INFO:root:show_id:220014217259151640477725100000 is repeat!
+INFO:root:show_id:220014217268050100477801100000 is repeat!
+INFO:root:show_id:220014217369621500478801100000 is repeat!
+INFO:root:show_id:220014217374657480478928100000 is repeat!
+INFO:root:show_id:220014217385907000479319100000 is repeat!
+INFO:root:show_id:220014217406973930480031100000 is repeat!
+INFO:root:show_id:220014217410136430480151100000 is repeat!
+INFO:root:show_id:220014217411918710480232100000 is repeat!
+INFO:root:show_id:220014217414922530480307100000 is repeat!
+INFO:root:show_id:220014217417430620480393100000 is repeat!
+INFO:root:show_id:220014217417613850480438100000 is repeat!
+INFO:root:show_id:220014217418699330480429100000 is repeat!
+INFO:root:show_id:220014217419967580480477100000 is repeat!
+INFO:root:show_id:220014217423187750480558100000 is repeat!
+INFO:root:show_id:220014217423560850480586100000 is repeat!
+INFO:root:show_id:220014217428393120480692100000 is repeat!
+INFO:root:show_id:220014217430025290480753100000 is repeat!
+INFO:root:show_id:220014217430793210480803100000 is repeat!
+INFO:root:show_id:220014217432494730480814100000 is repeat!
+INFO:root:show_id:220014217433967220480865100000 is repeat!
+INFO:root:show_id:220014217441236260481043100000 is repeat!
+INFO:root:show_id:220014217450874970481210100000 is repeat!
+INFO:root:show_id:220014217451085370481260100000 is repeat!
+INFO:root:show_id:220014217452651970481299100000 is repeat!
+INFO:root:show_id:220014217459269070481380100000 is repeat!
+INFO:root:show_id:220014217487096860481657100000 is repeat!
+INFO:root:show_id:220014217548744420481797100000 is repeat!
+INFO:root:show_id:220014217610098840481932100000 is repeat!
+INFO:root:total: 65, batch:0, step:100
+INFO:root:total: 65, batch:1, step:100
+INFO:root:show_id:220014218009677840482236100000 is repeat!
+INFO:root:show_id:220014218018011600482422100000 is repeat!
+INFO:root:show_id:220014218023133400482556100000 is repeat!
+INFO:root:show_id:220014218024812280482593100000 is repeat!
+INFO:root:show_id:220014218033803500482877100000 is repeat!
+INFO:root:show_id:220014218042946770483225100000 is repeat!
+INFO:root:show_id:220014218050086480483464100000 is repeat!
+INFO:root:show_id:220014218052432370483542100000 is repeat!
+INFO:root:show_id:220014218063904150483971100000 is repeat!
+INFO:root:show_id:220014218066598940484077100000 is repeat!
+INFO:root:show_id:220014218080066800484514100000 is repeat!
+INFO:root:show_id:220014218081052730484545100000 is repeat!
+INFO:root:show_id:220014218088451470484782100000 is repeat!
+INFO:root:show_id:220014218089388750484789100000 is repeat!
+INFO:root:show_id:220014218093745720484926100000 is repeat!
+INFO:root:show_id:220014218097063400485061100000 is repeat!
+INFO:root:show_id:220014218098222420485071100000 is repeat!
+INFO:root:show_id:220014218100459980485134100000 is repeat!
+INFO:root:show_id:220014218105862510485310100000 is repeat!
+INFO:root:show_id:220014218106508140485346100000 is repeat!
+INFO:root:show_id:220014218111169480485434100000 is repeat!
+INFO:root:show_id:220014218113522880485544100000 is repeat!
+INFO:root:show_id:220014218126481770485745100000 is repeat!
+INFO:root:show_id:220014218209240600486132100000 is repeat!
+INFO:root:show_id:220014218218512290486335100000 is repeat!
+INFO:root:show_id:220014218226760110486522100000 is repeat!
+INFO:root:show_id:220014218233235550486677100000 is repeat!
+INFO:root:show_id:220014218245101570487024100000 is repeat!
+INFO:root:show_id:220014218246559750487075100000 is repeat!
+INFO:root:show_id:220014218259315150487413100000 is repeat!
+INFO:root:show_id:220014218261120700487486100000 is repeat!
+INFO:root:show_id:220014218261462610487457100000 is repeat!
+INFO:root:show_id:220014218265541090487603100000 is repeat!
+INFO:root:show_id:220014218270778260487777100000 is repeat!
+INFO:root:show_id:220014218288105420488277100000 is repeat!
+INFO:root:show_id:220014218304809040488634100000 is repeat!
+INFO:root:show_id:220014218320263850489054100000 is repeat!
+INFO:root:total: 56, batch:0, step:100
+INFO:root:total: 56, batch:1, step:100
+INFO:root:show_id:220014218869253120489933100000 is repeat!
+INFO:root:show_id:220014218917439060491243100000 is repeat!
+INFO:root:show_id:220014218938385650492001100000 is repeat!
+INFO:root:show_id:220014218942444910492171100000 is repeat!
+INFO:root:show_id:220014218952804520492552100000 is repeat!
+INFO:root:show_id:220014218971437280493097100000 is repeat!
+INFO:root:show_id:220014219079591910494094100000 is repeat!
+INFO:root:show_id:220014219091756440494380100000 is repeat!
+INFO:root:show_id:220014219112331950495063100000 is repeat!
+INFO:root:show_id:220014219113647530495126100000 is repeat!
+INFO:root:show_id:220014219119783090495359100000 is repeat!
+INFO:root:show_id:220014219125139320495530100000 is repeat!
+INFO:root:show_id:220014219128594260495677100000 is repeat!
+INFO:root:show_id:220014219131963870495816100000 is repeat!
+INFO:root:show_id:220014219134383660495866100000 is repeat!
+INFO:root:show_id:220014219138451390495994100000 is repeat!
+INFO:root:show_id:220014219138475350496016100000 is repeat!
+INFO:root:show_id:220014219144379010496215100000 is repeat!
+INFO:root:show_id:220014219149691490496349100000 is repeat!
+INFO:root:show_id:220014219157176840496631100000 is repeat!
+INFO:root:show_id:220014219157957080496679100000 is repeat!
+INFO:root:show_id:220014219165216440496871100000 is repeat!
+INFO:root:show_id:220014219167668160496981100000 is repeat!
+INFO:root:show_id:220014219174254870497292100000 is repeat!
+INFO:root:show_id:220014219182905950497667100000 is repeat!
+INFO:root:show_id:220014219184897620497695100000 is repeat!
+INFO:root:show_id:220014219190798480497888100000 is repeat!
+INFO:root:show_id:220014219241803970498265100000 is repeat!
+INFO:root:total: 68, batch:0, step:100
+INFO:root:total: 68, batch:1, step:100
+INFO:root:show_id:220014219740062630498869100000 is repeat!
+INFO:root:show_id:220014219764372380499613100000 is repeat!
+INFO:root:show_id:220014219777120790500198100000 is repeat!
+INFO:root:show_id:220014219784231220500484100000 is repeat!
+INFO:root:show_id:220014219793018650500801100000 is repeat!
+INFO:root:show_id:220014219817528960501809100000 is repeat!
+INFO:root:show_id:220014219958384980507093100000 is repeat!
+INFO:root:show_id:220014219961036380507203100000 is repeat!
+INFO:root:show_id:220014219963879330507271100000 is repeat!
+INFO:root:show_id:220014219976555340507714100000 is repeat!
+INFO:root:show_id:220014219979814940507842100000 is repeat!
+INFO:root:show_id:220014219984284550508004100000 is repeat!
+INFO:root:show_id:220014219985511250508049100000 is repeat!
+INFO:root:show_id:220014219990544180508261100000 is repeat!
+INFO:root:show_id:220014219994750580508390100000 is repeat!
+INFO:root:show_id:220014219997152240508488100000 is repeat!
+INFO:root:show_id:220014219999893900508615100000 is repeat!
+INFO:root:show_id:220014220000953440508666100000 is repeat!
+INFO:root:show_id:220014220012880890509052100000 is repeat!
+INFO:root:show_id:220014220018346240509232100000 is repeat!
+INFO:root:show_id:220014220029188210509614100000 is repeat!
+INFO:root:show_id:220014220040063220510058100000 is repeat!
+INFO:root:show_id:220014220047810450510300100000 is repeat!
+INFO:root:show_id:220014220128846970510709100000 is repeat!
+INFO:root:show_id:220014220129416730510712100000 is repeat!
+INFO:root:show_id:220014220142798660510755100000 is repeat!
+INFO:root:show_id:220014220162016800510785100000 is repeat!
+INFO:root:total: 10, batch:0, step:100
+INFO:root:total: 10, batch:1, step:100
+INFO:root:show_id:220014220857550300512466100000 is repeat!
+INFO:root:show_id:220014220858116110512471100000 is repeat!
+INFO:root:show_id:220014221140669770513164100000 is repeat!
+INFO:root:total: 14, batch:0, step:100
+INFO:root:total: 14, batch:1, step:100
+INFO:root:show_id:220014221494593340513322100000 is repeat!
+INFO:root:show_id:220014221500166320513324100000 is repeat!
+INFO:root:show_id:220014221812824190514469100000 is repeat!
+INFO:root:show_id:220014221828237450514494100000 is repeat!
+INFO:root:total: 70, batch:0, step:100
+INFO:root:total: 70, batch:1, step:100
+INFO:root:show_id:220014222352255190515860100000 is repeat!
+INFO:root:show_id:220014222357664700516031100000 is repeat!
+INFO:root:show_id:220014222362997150516286100000 is repeat!
+INFO:root:show_id:220014222367299050516453100000 is repeat!
+INFO:root:show_id:220014222381951390517154100000 is repeat!
+INFO:root:show_id:220014222387684620517395100000 is repeat!
+INFO:root:show_id:220014222394043280517707100000 is repeat!
+INFO:root:show_id:220014222395895840517769100000 is repeat!
+INFO:root:show_id:220014222402452770518039100000 is repeat!
+INFO:root:show_id:220014222407997590518259100000 is repeat!
+INFO:root:show_id:220014222409054670518303100000 is repeat!
+INFO:root:show_id:220014222411810100518426100000 is repeat!
+INFO:root:show_id:220014222416194420518555100000 is repeat!
+INFO:root:show_id:220014222538986590520280100000 is repeat!
+INFO:root:show_id:220014222541895740520328100000 is repeat!
+INFO:root:show_id:220014222559322320520905100000 is repeat!
+INFO:root:show_id:220014222565833930521211100000 is repeat!
+INFO:root:show_id:220014222573292430521513100000 is repeat!
+INFO:root:show_id:220014222574188240521570100000 is repeat!
+INFO:root:show_id:220014222584037210521956100000 is repeat!
+INFO:root:show_id:220014222586363980522026100000 is repeat!
+INFO:root:show_id:220014222589875880522182100000 is repeat!
+INFO:root:show_id:220014222592891300522328100000 is repeat!
+INFO:root:show_id:220014222605707240522848100000 is repeat!
+INFO:root:show_id:220014222612676400523115100000 is repeat!
+INFO:root:show_id:220014222613679320523131100000 is repeat!
+INFO:root:show_id:220014222617386460523350100000 is repeat!
+INFO:root:show_id:220014222729248090524592100000 is repeat!
+INFO:root:total: 105, batch:0, step:100
+INFO:root:total: 105, batch:1, step:100
+INFO:root:total: 105, batch:2, step:100
+INFO:root:show_id:220014223182422130525131100000 is repeat!
+INFO:root:show_id:220014223194428840525283100000 is repeat!
+INFO:root:show_id:220014223197286360525362100000 is repeat!
+INFO:root:show_id:220014223201512360525488100000 is repeat!
+INFO:root:show_id:220014223205748790525596100000 is repeat!
+INFO:root:show_id:220014223208437040525644100000 is repeat!
+INFO:root:show_id:220014223212538160525729100000 is repeat!
+INFO:root:show_id:220014223217953390525949100000 is repeat!
+INFO:root:show_id:220014223219514470526005100000 is repeat!
+INFO:root:show_id:220014223222256740526122100000 is repeat!
+INFO:root:show_id:220014223226165090526285100000 is repeat!
+INFO:root:show_id:220014223226925550526287100000 is repeat!
+INFO:root:show_id:220014223228549030526371100000 is repeat!
+INFO:root:show_id:220014223231804000526520100000 is repeat!
+INFO:root:show_id:220014223235300450526678100000 is repeat!
+INFO:root:show_id:220014223238369260526788100000 is repeat!
+INFO:root:show_id:220014223240395790526860100000 is repeat!
+INFO:root:show_id:220014223248325090527276100000 is repeat!
+INFO:root:show_id:220014223256029360527605100000 is repeat!
+INFO:root:show_id:220014223273484190528330100000 is repeat!
+INFO:root:show_id:220014223280209030528588100000 is repeat!
+INFO:root:show_id:220014223283582370528739100000 is repeat!
+INFO:root:show_id:220014223297759350529179100000 is repeat!
+INFO:root:show_id:220014223305837160529314100000 is repeat!
+INFO:root:show_id:220014223315374150529467100000 is repeat!
+INFO:root:show_id:220014223321394290529474100000 is repeat!
+INFO:root:show_id:220014223333345080529525100000 is repeat!
+INFO:root:show_id:220014223345195540529571100000 is repeat!
+INFO:root:show_id:220014223351380010529616100000 is repeat!
+INFO:root:show_id:220014223362324970529676100000 is repeat!
+INFO:root:show_id:220014223367299450529717100000 is repeat!
+INFO:root:show_id:220014223372551220529744100000 is repeat!
+INFO:root:show_id:220014223377342870529807100000 is repeat!
+INFO:root:show_id:220014223401879610530217100000 is repeat!
+INFO:root:show_id:220014223402282950530221100000 is repeat!
+INFO:root:show_id:220014223411493210530482100000 is repeat!
+INFO:root:show_id:220014223415103120530564100000 is repeat!
+INFO:root:show_id:220014223434197620531233100000 is repeat!
+INFO:root:show_id:220014223436694160531350100000 is repeat!
+INFO:root:show_id:220014223438959150531441100000 is repeat!
+INFO:root:show_id:220014223440087390531474100000 is repeat!
+INFO:root:show_id:220014223442436360531550100000 is repeat!
+INFO:root:show_id:220014223446248570531681100000 is repeat!
+INFO:root:show_id:220014223453168320531959100000 is repeat!
+INFO:root:show_id:220014223459291980532163100000 is repeat!
+INFO:root:show_id:220014223464826550532404100000 is repeat!
+INFO:root:show_id:220014223466598170532481100000 is repeat!
+INFO:root:show_id:220014223467789440532504100000 is repeat!
+INFO:root:show_id:220014223470674510532573100000 is repeat!
+INFO:root:show_id:220014223471430930532658100000 is repeat!
+INFO:root:show_id:220014223481941410533029100000 is repeat!
+INFO:root:show_id:220014223483128870533014100000 is repeat!
+INFO:root:show_id:220014223494061590533384100000 is repeat!
+INFO:root:show_id:220014223495609190533457100000 is repeat!
+INFO:root:show_id:220014223498593610533542100000 is repeat!
+INFO:root:show_id:220014223500364930533554100000 is repeat!
+INFO:root:show_id:220014223501618780533604100000 is repeat!
+INFO:root:show_id:220014223502789770533613100000 is repeat!
+INFO:root:show_id:220014223505655890533683100000 is repeat!
+INFO:root:show_id:220014223513867980533917100000 is repeat!
+INFO:root:show_id:220014223624963620534231100000 is repeat!
+INFO:root:show_id:220014223639289850534297100000 is repeat!
+INFO:root:show_id:220014223651277170534300100000 is repeat!
+INFO:root:show_id:220014223660639870534303100000 is repeat!
+INFO:root:show_id:220014223670552340534307100000 is repeat!
+INFO:root:show_id:220014223683838750534401100000 is repeat!
+INFO:root:show_id:220014223694984900534409100000 is repeat!
+INFO:root:total: 62, batch:0, step:100
+INFO:root:total: 62, batch:1, step:100
+INFO:root:show_id:201412121338118590000007009707 is repeat!
+INFO:root:show_id:201412121348271560000008009707 is repeat!
+INFO:root:show_id:201412121411046800000009009707 is repeat!
+INFO:root:show_id:201412121482262500000010009707 is repeat!
+INFO:root:show_id:201512816311285900000012009707 is repeat!
+INFO:root:show_id:220014224093349030535803100000 is repeat!
+INFO:root:show_id:220014224104251490536233100000 is repeat!
+INFO:root:show_id:220014224109766630536452100000 is repeat!
+INFO:root:show_id:220014224111997670536577100000 is repeat!
+INFO:root:show_id:220014224124808350537090100000 is repeat!
+INFO:root:show_id:220014224125939500537110100000 is repeat!
+INFO:root:show_id:220014224128844300537244100000 is repeat!
+INFO:root:show_id:220014224152168000538093100000 is repeat!
+INFO:root:show_id:220014224185739040538739100000 is repeat!
+INFO:root:show_id:220014224286692630540126100000 is repeat!
+INFO:root:show_id:220014224296960070540558100000 is repeat!
+INFO:root:show_id:220014224297711260540542100000 is repeat!
+INFO:root:show_id:220014224305523550540846100000 is repeat!
+INFO:root:show_id:220014224313317190541180100000 is repeat!
+INFO:root:show_id:220014224319660070541481100000 is repeat!
+INFO:root:show_id:220014224330431340541873100000 is repeat!
+INFO:root:show_id:220014224354619420542843100000 is repeat!
+INFO:root:show_id:220014224377641450543739100000 is repeat!
+INFO:root:show_id:220014224382041040543753100000 is repeat!
+INFO:root:show_id:220014224383075750543796100000 is repeat!
+INFO:root:show_id:220014224449356070544120100000 is repeat!
+INFO:root:show_id:220014224475538530544263100000 is repeat!
+INFO:root:total: 81, batch:0, step:100
+INFO:root:total: 81, batch:1, step:100
+INFO:root:show_id:220014224925109490544903100000 is repeat!
+INFO:root:show_id:220014224934135840545152100000 is repeat!
+INFO:root:show_id:220014224935721110545188100000 is repeat!
+INFO:root:show_id:220014224937250460545240100000 is repeat!
+INFO:root:show_id:220014224938700020545270100000 is repeat!
+INFO:root:show_id:220014224940373120545329100000 is repeat!
+INFO:root:show_id:220014224944911930545536100000 is repeat!
+INFO:root:show_id:220014224946702950545584100000 is repeat!
+INFO:root:show_id:220014224946839830545604100000 is repeat!
+INFO:root:show_id:220014225002760080547735100000 is repeat!
+INFO:root:show_id:220014225116820960549351100000 is repeat!
+INFO:root:show_id:220014225121941490549439100000 is repeat!
+INFO:root:show_id:220014225152438650550258100000 is repeat!
+INFO:root:show_id:220014225154274280550293100000 is repeat!
+INFO:root:show_id:220014225158513600550429100000 is repeat!
+INFO:root:show_id:220014225160370130550518100000 is repeat!
+INFO:root:show_id:220014225162212950550569100000 is repeat!
+INFO:root:show_id:220014225162571200550595100000 is repeat!
+INFO:root:show_id:220014225171990570550980100000 is repeat!
+INFO:root:show_id:220014225174600540551082100000 is repeat!
+INFO:root:show_id:220014225188900540551622100000 is repeat!
+INFO:root:show_id:220014225192997310551766100000 is repeat!
+INFO:root:show_id:220014225200642410552010100000 is repeat!
+INFO:root:show_id:220014225205042010552158100000 is repeat!
+INFO:root:show_id:220014225206961570552235100000 is repeat!
+INFO:root:show_id:220014225214007620552422100000 is repeat!
+INFO:root:show_id:220014225219963240552673100000 is repeat!
+INFO:root:show_id:220014225222249860552744100000 is repeat!
+INFO:root:show_id:220014225235665100553018100000 is repeat!
+INFO:root:show_id:220014225243856920553136100000 is repeat!
+INFO:root:total: 71, batch:0, step:100
+INFO:root:total: 71, batch:1, step:100
+INFO:root:show_id:220014225799201000554764100000 is repeat!
+INFO:root:show_id:220014225804397670554941100000 is repeat!
+INFO:root:show_id:220014225805319360555022100000 is repeat!
+INFO:root:show_id:220014225809690460555217100000 is repeat!
+INFO:root:show_id:220014225821812910555739100000 is repeat!
+INFO:root:show_id:220014225829532190556044100000 is repeat!
+INFO:root:show_id:220014225833081840556195100000 is repeat!
+INFO:root:show_id:220014225838400690556388100000 is repeat!
+INFO:root:show_id:220014225876288960557971100000 is repeat!
+INFO:root:show_id:220014225893154710558475100000 is repeat!
+INFO:root:show_id:220014225901466240558628100000 is repeat!
+INFO:root:show_id:220014225992711260559549100000 is repeat!
+INFO:root:show_id:220014225996631960559676100000 is repeat!
+INFO:root:show_id:220014226004787540559923100000 is repeat!
+INFO:root:show_id:220014226005042970559935100000 is repeat!
+INFO:root:show_id:220014226005457080559966100000 is repeat!
+INFO:root:show_id:220014226012451360560196100000 is repeat!
+INFO:root:show_id:220014226013683980560277100000 is repeat!
+INFO:root:show_id:220014226013686280560280100000 is repeat!
+INFO:root:show_id:220014226013980660560279100000 is repeat!
+INFO:root:show_id:220014226019530790560493100000 is repeat!
+INFO:root:show_id:220014226025044280560763100000 is repeat!
+INFO:root:show_id:220014226027914040560854100000 is repeat!
+INFO:root:show_id:220014226034017080561094100000 is repeat!
+INFO:root:show_id:220014226038149460561300100000 is repeat!
+INFO:root:show_id:220014226045655880561584100000 is repeat!
+INFO:root:show_id:220014226046145410561595100000 is repeat!
+INFO:root:show_id:220014226052053710561860100000 is repeat!
+INFO:root:show_id:220014226052628960561885100000 is repeat!
+INFO:root:show_id:220014226054338930561955100000 is repeat!
+INFO:root:show_id:220014226055896740561996100000 is repeat!
+INFO:root:show_id:220014226057424890562050100000 is repeat!
+INFO:root:show_id:220014226060449720562169100000 is repeat!
+INFO:root:show_id:220014226062915110562269100000 is repeat!
+INFO:root:show_id:220014226070115760562504100000 is repeat!
+INFO:root:show_id:220014226079581750562842100000 is repeat!
+INFO:root:show_id:220014226113242800563513100000 is repeat!
+INFO:root:show_id:220014226115347020563579100000 is repeat!
+INFO:root:show_id:220014226125726800563659100000 is repeat!
+INFO:root:show_id:220014226132840400563675100000 is repeat!
+INFO:root:total: 27, batch:0, step:100
+INFO:root:total: 27, batch:1, step:100
+INFO:root:show_id:220014226736563310565454100000 is repeat!
+INFO:root:show_id:220014226769144390565807100000 is repeat!
+INFO:root:show_id:220014226775295330565869100000 is repeat!
+INFO:root:show_id:220014226803744790565979100000 is repeat!
+INFO:root:show_id:220014226816810660566011100000 is repeat!
+INFO:root:show_id:220014226913749440566611100000 is repeat!
+INFO:root:show_id:220014226921597540566700100000 is repeat!
+INFO:root:show_id:220014226928305330566778100000 is repeat!
+INFO:root:show_id:220014226934116520566845100000 is repeat!
+INFO:root:show_id:220014226939782830566897100000 is repeat!
+INFO:root:show_id:220014226944593260566943100000 is repeat!
+INFO:root:show_id:220014226967559780567087100000 is repeat!
+INFO:root:show_id:220014226986590860567155100000 is repeat!
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:show_id:220014200423233840384823100000 is repeat!
+INFO:root:show_id:220014200796906070385103100000 is repeat!
+INFO:root:total: 35, batch:0, step:100
+INFO:root:total: 35, batch:1, step:100
+INFO:root:show_id:220014201617964940385880100000 is repeat!
+INFO:root:show_id:220014201644115180386016100000 is repeat!
+INFO:root:show_id:220014201968566130386817100000 is repeat!
+INFO:root:show_id:220014201969011390386819100000 is repeat!
+INFO:root:show_id:220014201969757560386821100000 is repeat!
+INFO:root:show_id:220014201972300090386834100000 is repeat!
+INFO:root:show_id:220014201973470410386842100000 is repeat!
+INFO:root:show_id:220014201973649300386843100000 is repeat!
+INFO:root:show_id:220014201974132180386846100000 is repeat!
+INFO:root:show_id:220014201976413950386865100000 is repeat!
+INFO:root:total: 25, batch:0, step:100
+INFO:root:total: 25, batch:1, step:100
+INFO:root:show_id:220014202710302890387854100000 is repeat!
+INFO:root:show_id:220014202719713320387908100000 is repeat!
+INFO:root:show_id:220014202730396260387963100000 is repeat!
+INFO:root:show_id:220014202746986740388019100000 is repeat!
+INFO:root:show_id:220014202754408870388034100000 is repeat!
+INFO:root:show_id:220014202765488760388078100000 is repeat!
+INFO:root:show_id:220014202772192530388085100000 is repeat!
+INFO:root:show_id:220014202781358030388092100000 is repeat!
+INFO:root:show_id:220014202788434830388094100000 is repeat!
+INFO:root:show_id:220014202796959540388102100000 is repeat!
+INFO:root:show_id:220014202802723430388109100000 is repeat!
+INFO:root:show_id:220014202809260080388114100000 is repeat!
+INFO:root:show_id:220014202814457710388139100000 is repeat!
+INFO:root:show_id:220014202821251830388145100000 is repeat!
+INFO:root:show_id:220014202826819190388152100000 is repeat!
+INFO:root:show_id:220014202832898480388159100000 is repeat!
+INFO:root:show_id:220014202839670850388168100000 is repeat!
+INFO:root:show_id:220014202845685610388173100000 is repeat!
+INFO:root:show_id:220014202852354650388176100000 is repeat!
+INFO:root:show_id:220014202860811630388180100000 is repeat!
+INFO:root:show_id:220014202867606540388184100000 is repeat!
+INFO:root:total: 73, batch:0, step:100
+INFO:root:total: 73, batch:1, step:100
+INFO:root:show_id:220014203311098460388509100000 is repeat!
+INFO:root:show_id:220014203311497610388536100000 is repeat!
+INFO:root:show_id:220014203312302420388540100000 is repeat!
+INFO:root:show_id:220014203312396040388543100000 is repeat!
+INFO:root:show_id:220014203312508060388545100000 is repeat!
+INFO:root:show_id:220014203332738800388845100000 is repeat!
+INFO:root:show_id:220014203350508620389580100000 is repeat!
+INFO:root:show_id:220014203377673940390625100000 is repeat!
+INFO:root:show_id:220014203378899870390664100000 is repeat!
+INFO:root:show_id:220014203444740160391664100000 is repeat!
+INFO:root:show_id:220014203522933160392147100000 is repeat!
+INFO:root:show_id:220014203541347650392513100000 is repeat!
+INFO:root:show_id:220014203648207220395364100000 is repeat!
+INFO:root:show_id:220014203648348390395365100000 is repeat!
+INFO:root:show_id:220014203648490140395366100000 is repeat!
+INFO:root:show_id:220014203665667210395424100000 is repeat!
+INFO:root:show_id:220014203673983200395461100000 is repeat!
+INFO:root:show_id:220014203688961070395487100000 is repeat!
+INFO:root:show_id:220014203694069220395502100000 is repeat!
+INFO:root:show_id:220014203700338980395511100000 is repeat!
+INFO:root:show_id:220014203704259270395516100000 is repeat!
+INFO:root:show_id:220014203710096250395529100000 is repeat!
+INFO:root:show_id:220014203713607760395533100000 is repeat!
+INFO:root:show_id:220014203716564230395558100000 is repeat!
+INFO:root:show_id:220014203721160810395564100000 is repeat!
+INFO:root:show_id:220014203728201200395570100000 is repeat!
+INFO:root:show_id:220014203731748360395572100000 is repeat!
+INFO:root:show_id:220014203735059340395580100000 is repeat!
+INFO:root:show_id:220014203742463890395594100000 is repeat!
+INFO:root:show_id:220014203751753020395601100000 is repeat!
+INFO:root:show_id:220014203818099960395665100000 is repeat!
+INFO:root:show_id:220014203823069500395668100000 is repeat!
+INFO:root:show_id:220014203826121490395671100000 is repeat!
+INFO:root:total: 53, batch:0, step:100
+INFO:root:total: 53, batch:1, step:100
+INFO:root:show_id:220014204192614190396103100000 is repeat!
+INFO:root:show_id:220014204198571290396259100000 is repeat!
+INFO:root:show_id:220014204206389360396491100000 is repeat!
+INFO:root:show_id:220014204214340640396746100000 is repeat!
+INFO:root:show_id:220014204218199330396945100000 is repeat!
+INFO:root:show_id:220014204223351810397120100000 is repeat!
+INFO:root:show_id:220014204223883480397138100000 is repeat!
+INFO:root:show_id:220014204228639260397263100000 is repeat!
+INFO:root:show_id:220014204237968090397541100000 is repeat!
+INFO:root:show_id:220014204271469120398490100000 is repeat!
+INFO:root:show_id:220014204293937540399199100000 is repeat!
+INFO:root:show_id:220014204297305820399244100000 is repeat!
+INFO:root:show_id:220014204300733530399293100000 is repeat!
+INFO:root:show_id:220014204401546900400291100000 is repeat!
+INFO:root:show_id:220014204405675310400410100000 is repeat!
+INFO:root:show_id:220014204409004870400496100000 is repeat!
+INFO:root:show_id:220014204409030050400494100000 is repeat!
+INFO:root:show_id:220014204417793740400735100000 is repeat!
+INFO:root:show_id:220014204435708590401264100000 is repeat!
+INFO:root:show_id:220014204440891870401424100000 is repeat!
+INFO:root:show_id:220014204443431540401493100000 is repeat!
+INFO:root:show_id:220014204478499280402498100000 is repeat!
+INFO:root:show_id:220014204489592570402802100000 is repeat!
+INFO:root:show_id:220014204712806830403618100000 is repeat!
+INFO:root:total: 74, batch:0, step:100
+INFO:root:total: 74, batch:1, step:100
+INFO:root:show_id:220014205046236840403745100000 is repeat!
+INFO:root:show_id:220014205049254860403822100000 is repeat!
+INFO:root:show_id:220014205052879900403882100000 is repeat!
+INFO:root:show_id:220014205066282820404149100000 is repeat!
+INFO:root:show_id:220014205070402900404261100000 is repeat!
+INFO:root:show_id:220014205074585330404365100000 is repeat!
+INFO:root:show_id:220014205080930040404512100000 is repeat!
+INFO:root:show_id:220014205084837170404623100000 is repeat!
+INFO:root:show_id:220014205086423580404667100000 is repeat!
+INFO:root:show_id:220014205090368380404760100000 is repeat!
+INFO:root:show_id:220014205092082650404786100000 is repeat!
+INFO:root:show_id:220014205105574090405111100000 is repeat!
+INFO:root:show_id:220014205107240260405192100000 is repeat!
+INFO:root:show_id:220014205148325370406316100000 is repeat!
+INFO:root:show_id:220014205151513710406361100000 is repeat!
+INFO:root:show_id:220014205151710940406365100000 is repeat!
+INFO:root:show_id:220014205151977180406371100000 is repeat!
+INFO:root:show_id:220014205259093900407214100000 is repeat!
+INFO:root:show_id:220014205284613900407908100000 is repeat!
+INFO:root:show_id:220014205300241660408362100000 is repeat!
+INFO:root:show_id:220014205301344770408395100000 is repeat!
+INFO:root:show_id:220014205306783500408525100000 is repeat!
+INFO:root:show_id:220014205313039260408697100000 is repeat!
+INFO:root:show_id:220014205319928000408921100000 is repeat!
+INFO:root:show_id:220014205330444210409236100000 is repeat!
+INFO:root:show_id:220014205340333800409470100000 is repeat!
+INFO:root:show_id:220014205354967260409953100000 is repeat!
+INFO:root:show_id:220014205389219360410744100000 is repeat!
+INFO:root:total: 48, batch:0, step:100
+INFO:root:total: 48, batch:1, step:100
+INFO:root:show_id:220014205912839470411332100000 is repeat!
+INFO:root:show_id:220014205924309520411569100000 is repeat!
+INFO:root:show_id:220014205934090660411857100000 is repeat!
+INFO:root:show_id:220014205942524660412031100000 is repeat!
+INFO:root:show_id:220014205947627350412196100000 is repeat!
+INFO:root:show_id:220014205952374280412310100000 is repeat!
+INFO:root:show_id:220014205958411450412481100000 is repeat!
+INFO:root:show_id:220014205970487370412675100000 is repeat!
+INFO:root:show_id:220014205990066900413129100000 is repeat!
+INFO:root:show_id:220014205993236040413190100000 is repeat!
+INFO:root:show_id:220014206000050770413345100000 is repeat!
+INFO:root:show_id:220014206008868030413551100000 is repeat!
+INFO:root:show_id:220014206132365650414743100000 is repeat!
+INFO:root:show_id:220014206133488880414780100000 is repeat!
+INFO:root:show_id:220014206162222190415328100000 is repeat!
+INFO:root:show_id:220014206181818630415546100000 is repeat!
+INFO:root:show_id:220014206183113610415551100000 is repeat!
+INFO:root:show_id:220014206187074580415589100000 is repeat!
+INFO:root:show_id:220014206188458030415594100000 is repeat!
+INFO:root:show_id:220014206188974290415602100000 is repeat!
+INFO:root:show_id:220014206190610430415614100000 is repeat!
+INFO:root:show_id:220014206195890070415656100000 is repeat!
+INFO:root:show_id:220014206220810670415933100000 is repeat!
+INFO:root:show_id:220014206221276510415948100000 is repeat!
+INFO:root:show_id:220014206230268400416092100000 is repeat!
+INFO:root:show_id:220014206234683310416110100000 is repeat!
+INFO:root:show_id:220014206259454370416162100000 is repeat!
+INFO:root:total: 60, batch:0, step:100
+INFO:root:total: 60, batch:1, step:100
+INFO:root:show_id:220014206767575090416470100000 is repeat!
+INFO:root:show_id:220014206770503400416489100000 is repeat!
+INFO:root:show_id:220014206772987600416515100000 is repeat!
+INFO:root:show_id:220014206783706410416616100000 is repeat!
+INFO:root:show_id:220014206784072610416623100000 is repeat!
+INFO:root:show_id:220014206788467990416674100000 is repeat!
+INFO:root:show_id:220014206792870750416747100000 is repeat!
+INFO:root:show_id:220014206798604460416880100000 is repeat!
+INFO:root:show_id:220014206817993400417293100000 is repeat!
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,tradename,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2015-01-08','否','无','否','怀疑','2015-01-07','国药准字H20023626','静脉滴注','否','急性扁桃体炎','一般','无','1407114','注射剂','2015-01-08','1.5克','0000-00-00','否','2015-01-07','否','34114','2015-01-07','医疗机构','玉溪市红塔区妇幼保健院','否','1日1次','上海新亚药业有限公司','注射用头孢噻肟钠','玉溪市红塔区妇幼保健院','痊愈','5304021013367201500002'); 
+
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,tradename,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2015-01-08','否','无','否','并用','2015-01-07','国药准字H20044305','静脉滴注','否','急性扁桃体炎','一般','无','A14091004-2','注射剂','2015-01-08','150毫升','0000-00-00','否','2015-01-07','否','34114','2015-01-07','医疗机构','玉溪市红塔区妇幼保健院','否','1日1次','四川科伦药业股份有限公司','氯化钠注射液','玉溪市红塔区妇幼保健院','痊愈','5304021013367201500002'); 
+
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapclinic(reportdate,ismatchingclinic,trackdate,unmatchclinic,happendate,id,isimporthospital,unittype,reportunitname,reporttype,imphospitalname,kickbacktype,statereportdate,bianma)values('2015-01-08','否','0000-00-00','荨麻疹','2015-01-07','34114','否','医疗机构','玉溪市红塔区妇幼保健院','一般','玉溪市红塔区妇幼保健院','痊愈','2015-01-08','5304021013367201500002'); 
+
+INFO:root:show_id:220014206983275470419200100000	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into business_gather(reportpersonmail,reportunitappraise,provinceremark,otherimportinfo,provinceunitname,trackdate,relationunitappraise,municipalunitname,avoirdupois,ismedicationmatch,sex,clinicno,oldsickness,fungiblereportunit,municipaladrdateanalyse,municipaladrtypeanalyse,happendate,reportpersonautograph,ethic,sufferername,homebuliang,personappraisegraph,reportpersongraph,reportpersonappraise,reportunitphone,provinceuseagainanalyse,provinceappraisedate,useagain,municipalappraisedate,comments,id,municipalstopmedicationanalyse,municipalremark,unittype,reportunitname,isimportmedication,reportpersonwork,provinceadrdateanalyse,isned,hospitalname,municipalappraise,medicationlist,sufferertype,stopresult,isror,reporttypedetail,adrlist,examplesource,show_id,infection,relationpersonremark,birthday,reporttype,pastbuliang,relationpersonappraise,provinceappraisegraph,reportunitlinkman,statereportdate,ispass,contacttele,municipaluseagainanalyse,isattachments,relationunitremark,inforsource,provinceadrtypeanalyse,isimporthospital,reportdate,age,reportunitautograph,provinceappraise,municipalotherrelatedanalyse,provincestopmedicationanalyse,reportpersonphone,municipalappraisegraph,provinceotherrelatedanalyse,unitappraisegraph,kickbacktype,firsttraced,depictdispose,bianma,isadrmatch)values('','可能','关联性评价:可能','','玉溪市药品不良反应与药物滥用监测中心','0000-00-00','可能','红塔区药品不良反应与药物滥用监测中心','12(公斤)','否','女','无','急性扁桃体炎','','有','是','2015-01-07','代建华','白族','李欣怡','无','代建华','合娅涛','可能','0877-2032723','未再使用','2015-01-20','未再使用','2015-01-16','','34114','是','关联性评价:可能','医疗机构','玉溪市红塔区妇幼保健院','否','医生','有','无','玉溪市红塔区妇幼保健院','可能','[注射用头孢噻肟钠:非标准],[氯化钠注射液:非标准]','儿童','是','否','已知 一般','[荨麻疹:非标准]','上报个例','220014206983275470419200100000','不明显','','2011-06-01','一般','无','可能','杨李涛','合娅涛','2015-01-08','否','13988460145','未再使用','无','','','是','否','2015-01-08','4.0','合娅涛','可能','不明','未停药或未减量','13908779710','红塔区食品药品监督管理局','不明','合娅涛','痊愈','首次报告','患儿因“急性扁桃体炎”于2015年1月7日13：15分到我院就诊，并给予输液治疗，在输入“注射用头孢噻肟钠1.5g+氯化钠注射液150ml，30滴/分，一日一次”完毕后，其家属发现患儿额头出现红色皮疹.查体：精神可，颈部、胸部、额头、背部可见大片皮疹、心肺无异常，余（-）。考虑过敏性荨麻疹。立即给予“复方甘草酸铵注射液1.5毫升肌肉注射，马来酸氯苯那敏片1.5mg/次、醋酸泼尼松片2.5mg/次口服”大约30分钟后患儿皮疹消退，未见异常。','5304021013367201500002','否'); 
+
+INFO:root:show_id:220014206985265930419220100000 is repeat!
+INFO:root:show_id:220014207002103510419560100000 is repeat!
+INFO:root:show_id:220014207006911660419667100000 is repeat!
+INFO:root:show_id:220014207007915910419723100000 is repeat!
+INFO:root:show_id:220014207008270010419692100000 is repeat!
+INFO:root:show_id:220014207014695470419890100000 is repeat!
+INFO:root:show_id:220014207019728290420024100000 is repeat!
+INFO:root:show_id:220014207026894120420201100000 is repeat!
+INFO:root:show_id:220014207037371600420479100000 is repeat!
+INFO:root:show_id:220014207052037120420945100000 is repeat!
+INFO:root:show_id:220014207056798910421082100000 is repeat!
+INFO:root:show_id:220014207060920450421145100000 is repeat!
+INFO:root:show_id:220014207067316170421302100000 is repeat!
+INFO:root:show_id:220014207068840870421331100000 is repeat!
+INFO:root:show_id:220014207071357150421419100000 is repeat!
+INFO:root:show_id:220014207074424080421504100000 is repeat!
+INFO:root:show_id:220014207087131890421792100000 is repeat!
+INFO:root:show_id:220014207124408260422017100000 is repeat!
+INFO:root:show_id:220014207217984400422129100000 is repeat!
+INFO:root:total: 77, batch:0, step:100
+INFO:root:total: 77, batch:1, step:100
+INFO:root:show_id:201515155218421000000024523952 is repeat!
+INFO:root:show_id:201519172640265000000001002162 is repeat!
+INFO:root:show_id:220014207644939360422697100000 is repeat!
+INFO:root:show_id:220014207656403690422980100000 is repeat!
+INFO:root:show_id:220014207662013420423113100000 is repeat!
+INFO:root:show_id:220014207674992530423453100000 is repeat!
+INFO:root:show_id:220014207678264360423553100000 is repeat!
+INFO:root:show_id:220014207716969800424729100000 is repeat!
+INFO:root:show_id:220014207858929220426459100000 is repeat!
+INFO:root:show_id:220014207870083820426668100000 is repeat!
+INFO:root:show_id:220014207874974300426773100000 is repeat!
+INFO:root:show_id:220014207881122960426905100000 is repeat!
+INFO:root:show_id:220014207889509440427095100000 is repeat!
+INFO:root:show_id:220014207904143220427504100000 is repeat!
+INFO:root:show_id:220014207905759710427564100000 is repeat!
+INFO:root:show_id:220014207913750790427756100000 is repeat!
+INFO:root:show_id:220014207923749560427998100000 is repeat!
+INFO:root:show_id:220014207931669430428170100000 is repeat!
+INFO:root:show_id:220014207931969370428198100000 is repeat!
+INFO:root:show_id:220014207932074750428166100000 is repeat!
+INFO:root:show_id:220014207934670580428222100000 is repeat!
+INFO:root:show_id:220014207934882070428239100000 is repeat!
+INFO:root:show_id:220014207939347560428351100000 is repeat!
+INFO:root:show_id:220014207943604020428428100000 is repeat!
+INFO:root:show_id:220014207946965950428471100000 is repeat!
+INFO:root:show_id:220014207947239050428503100000 is repeat!
+INFO:root:show_id:220014207949615080428572100000 is repeat!
+INFO:root:show_id:220014207951466400428631100000 is repeat!
+INFO:root:show_id:220014207955088450428683100000 is repeat!
+INFO:root:show_id:220014207959244370428852100000 is repeat!
+INFO:root:show_id:220014207962831430428867100000 is repeat!
+INFO:root:show_id:220014207966663280428903100000 is repeat!
+INFO:root:show_id:220014207970398520428920100000 is repeat!
+INFO:root:show_id:220014207973376240428931100000 is repeat!
+INFO:root:show_id:220014207976964300428960100000 is repeat!
+INFO:root:total: 0, batch:0, step:100
+INFO:root:total: 4, batch:0, step:100
+INFO:root:total: 4, batch:1, step:100
+INFO:root:total: 66, batch:0, step:100
+INFO:root:total: 66, batch:1, step:100
+INFO:root:show_id:220014210237030200429716100000 is repeat!
+INFO:root:show_id:220014210246095790429894100000 is repeat!
+INFO:root:show_id:220014210258630050430200100000 is repeat!
+INFO:root:show_id:220014210258987430430201100000 is repeat!
+INFO:root:show_id:220014210265575550430472100000 is repeat!
+INFO:root:show_id:220014210268915170430560100000 is repeat!
+INFO:root:show_id:220014210279181150430905100000 is repeat!
+INFO:root:show_id:220014210283016030431028100000 is repeat!
+INFO:root:show_id:220014210291737700431272100000 is repeat!
+INFO:root:show_id:220014210301523800431581100000 is repeat!
+INFO:root:show_id:220014210306672450431729100000 is repeat!
+INFO:root:show_id:220014210313176810431952100000 is repeat!
+INFO:root:show_id:220014210314217950431986100000 is repeat!
+INFO:root:show_id:220014210317538340432115100000 is repeat!
+INFO:root:show_id:220014210327773360432470100000 is repeat!
+INFO:root:show_id:220014210329406860432553100000 is repeat!
+INFO:root:show_id:220014210329773480432583100000 is repeat!
+INFO:root:show_id:220014210352590400433075100000 is repeat!
+INFO:root:show_id:220014210451072590434081100000 is repeat!
+INFO:root:show_id:220014210456286320434229100000 is repeat!
+INFO:root:show_id:220014210458099260434270100000 is repeat!
+INFO:root:show_id:220014210461440770434394100000 is repeat!
+INFO:root:show_id:220014210473924340434718100000 is repeat!
+INFO:root:show_id:220014210474498550434729100000 is repeat!
+INFO:root:show_id:220014210486187580435070100000 is repeat!
+INFO:root:show_id:220014210496551370435359100000 is repeat!
+INFO:root:show_id:220014210502682770435476100000 is repeat!
+INFO:root:show_id:220014210506963080435562100000 is repeat!
+INFO:root:show_id:220014210521226800435794100000 is repeat!
+INFO:root:show_id:220014210530400800435991100000 is repeat!
+INFO:root:show_id:220014210531320000435995100000 is repeat!
+INFO:root:show_id:220014210535537750436119100000 is repeat!
+INFO:root:show_id:220014210542742860436215100000 is repeat!
+INFO:root:show_id:220014210550282910436410100000 is repeat!
+INFO:root:show_id:220014210553312360436484100000 is repeat!
+INFO:root:show_id:220014210557186640436494100000 is repeat!
+INFO:root:total: 84, batch:0, step:100
+INFO:root:total: 84, batch:1, step:100
+INFO:root:show_id:220014211110181610437481100000 is repeat!
+INFO:root:show_id:220014211115164650437635100000 is repeat!
+INFO:root:show_id:220014211116724850437674100000 is repeat!
+INFO:root:show_id:220014211118004010437744100000 is repeat!
+INFO:root:show_id:220014211122231290437841100000 is repeat!
+INFO:root:show_id:220014211122578120437847100000 is repeat!
+INFO:root:show_id:220014211131070270438128100000 is repeat!
+INFO:root:show_id:220014211138325480438347100000 is repeat!
+INFO:root:show_id:220014211139396940438398100000 is repeat!
+INFO:root:show_id:220014211143280010438509100000 is repeat!
+INFO:root:show_id:220014211143285240438510100000 is repeat!
+INFO:root:show_id:220014211145940150438602100000 is repeat!
+INFO:root:show_id:220014211149324430438686100000 is repeat!
+INFO:root:show_id:220014211153460950438819100000 is repeat!
+INFO:root:show_id:220014211153900930438824100000 is repeat!
+INFO:root:show_id:220014211157942980438946100000 is repeat!
+INFO:root:show_id:220014211160342730439022100000 is repeat!
+INFO:root:show_id:220014211164765630439158100000 is repeat!
+INFO:root:show_id:220014211174147560439435100000 is repeat!
+INFO:root:show_id:220014211176746220439522100000 is repeat!
+INFO:root:show_id:220014211178872340439568100000 is repeat!
+INFO:root:show_id:220014211180941280439626100000 is repeat!
+INFO:root:show_id:220014211183921850439704100000 is repeat!
+INFO:root:show_id:220014211186752120439777100000 is repeat!
+INFO:root:show_id:220014211189329240439861100000 is repeat!
+INFO:root:show_id:220014211192972480439933100000 is repeat!
+INFO:root:show_id:220014211193787080439978100000 is repeat!
+INFO:root:show_id:220014211198702270440098100000 is repeat!
+INFO:root:show_id:220014211200961620440150100000 is repeat!
+INFO:root:show_id:220014211205069620440242100000 is repeat!
+INFO:root:show_id:220014211208455520440304100000 is repeat!
+INFO:root:show_id:220014211211313810440356100000 is repeat!
+INFO:root:show_id:220014211215826570440422100000 is repeat!
+INFO:root:show_id:220014211218039320440444100000 is repeat!
+INFO:root:show_id:220014211220463360440455100000 is repeat!
+INFO:root:show_id:220014211299990580440918100000 is repeat!
+INFO:root:show_id:220014211300449670440916100000 is repeat!
+INFO:root:show_id:220014211312233290441142100000 is repeat!
+INFO:root:show_id:220014211312640580441158100000 is repeat!
+INFO:root:show_id:220014211318984950441289100000 is repeat!
+INFO:root:show_id:220014211321079420441314100000 is repeat!
+INFO:root:show_id:220014211321963670441353100000 is repeat!
+INFO:root:show_id:220014211324118080441419100000 is repeat!
+INFO:root:show_id:220014211327127010441494100000 is repeat!
+INFO:root:show_id:220014211332728850441666100000 is repeat!
+INFO:root:show_id:220014211338847810441817100000 is repeat!
+INFO:root:show_id:220014211344654750442027100000 is repeat!
+INFO:root:show_id:220014211344907730442034100000 is repeat!
+INFO:root:show_id:220014211347507800442125100000 is repeat!
+INFO:root:show_id:220014211375873110442829100000 is repeat!
+INFO:root:show_id:220014211390672500443217100000 is repeat!
+INFO:root:show_id:220014211413974450443732100000 is repeat!
+INFO:root:total: 46, batch:0, step:100
+INFO:root:total: 46, batch:1, step:100
+INFO:root:show_id:220014211980695330444947100000 is repeat!
+INFO:root:show_id:220014211996486100445297100000 is repeat!
+INFO:root:show_id:220014211998720340445330100000 is repeat!
+INFO:root:show_id:220014211999915460445351100000 is repeat!
+INFO:root:show_id:220014212002557630445433100000 is repeat!
+INFO:root:show_id:220014212008472650445597100000 is repeat!
+INFO:root:show_id:220014212023846590445956100000 is repeat!
+INFO:root:show_id:220014212034216570446231100000 is repeat!
+INFO:root:show_id:220014212052160440446662100000 is repeat!
+INFO:root:show_id:220014212057393370446786100000 is repeat!
+INFO:root:show_id:220014212065139200446925100000 is repeat!
+INFO:root:show_id:220014212069121940446950100000 is repeat!
+INFO:root:show_id:220014212111775970447288100000 is repeat!
+INFO:root:show_id:220014212158023960447573100000 is repeat!
+INFO:root:show_id:220014212170591030447786100000 is repeat!
+INFO:root:show_id:220014212174652080447861100000 is repeat!
+INFO:root:total: 61, batch:0, step:100
+INFO:root:total: 61, batch:1, step:100
+INFO:root:show_id:201517953095300000000001071193 is repeat!
+INFO:root:show_id:220014212860267090451888100000 is repeat!
+INFO:root:show_id:220014212868910450452079100000 is repeat!
+INFO:root:show_id:220014212902842350453125100000 is repeat!
+INFO:root:show_id:220014212903276430453156100000 is repeat!
+INFO:root:show_id:220014212906455090453242100000 is repeat!
+INFO:root:show_id:220014212937949490453835100000 is repeat!
+INFO:root:show_id:220014213045037170454893100000 is repeat!
+INFO:root:show_id:220014213047802950454980100000 is repeat!
+INFO:root:show_id:220014213069929220455582100000 is repeat!
+INFO:root:show_id:220014213076858400455745100000 is repeat!
+INFO:root:show_id:220014213125494600456924100000 is repeat!
+INFO:root:show_id:220014213135409760457318100000 is repeat!
+INFO:root:show_id:220014213140935650457427100000 is repeat!
+INFO:root:total: 21, batch:0, step:100
+INFO:root:total: 21, batch:1, step:100
+INFO:root:show_id:220014213699306280458214100000 is repeat!
+INFO:root:show_id:220014213757637890459857100000 is repeat!
+INFO:root:show_id:220014213762958870460011100000 is repeat!
+INFO:root:show_id:220014213775110230460355100000 is repeat!
+INFO:root:show_id:220014213780000610460549100000 is repeat!
+INFO:root:show_id:220014213783492160460630100000 is repeat!
+INFO:root:show_id:	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2014-12-15','否','无','否','怀疑','2014-12-15','国药准字H50022100','静脉滴注','否','支持对症','一般','14040015','注射剂','2015-01-16','250毫升','0000-00-00','否','2014-12-25','否','34115','2014-12-15','医疗机构','元阳县民族医院','否','1日1次','西南药业股份有限公司','复方氨基酸注射液','元阳县民族医院','好转','5325281009507201500001'); 
+
+INFO:root:show_id:	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapclinic(reportdate,ismatchingclinic,trackdate,unmatchclinic,happendate,id,isimporthospital,unittype,reportunitname,reporttype,imphospitalname,kickbacktype,statereportdate,bianma)values('2014-12-15','否','0000-00-00','发热','2014-12-15','34115','否','医疗机构','元阳县民族医院','一般','元阳县民族医院','好转','2015-01-16','5325281009507201500001'); 
+
+INFO:root:show_id:220014213787893820460757100000	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into business_gather(reportpersonmail,reportunitappraise,provinceremark,otherimportinfo,provinceunitname,trackdate,relationunitappraise,municipalunitname,avoirdupois,ismedicationmatch,sex,clinicno,oldsickness,fungiblereportunit,municipaladrdateanalyse,municipaladrtypeanalyse,happendate,reportpersonautograph,ethic,sufferername,homebuliang,personappraisegraph,reportpersongraph,reportpersonappraise,reportunitphone,provinceuseagainanalyse,provinceappraisedate,useagain,municipalappraisedate,comments,id,municipalstopmedicationanalyse,municipalremark,unittype,reportunitname,isimportmedication,reportpersonwork,provinceadrdateanalyse,isned,hospitalname,municipalappraise,medicationlist,sufferertype,stopresult,isror,reporttypedetail,adrlist,examplesource,show_id,infection,relationpersonremark,birthday,reporttype,pastbuliang,relationpersonappraise,provinceappraisegraph,reportunitlinkman,statereportdate,ispass,contacttele,municipaluseagainanalyse,isattachments,relationunitremark,inforsource,provinceadrtypeanalyse,isimporthospital,reportdate,age,reportunitautograph,provinceappraise,municipalotherrelatedanalyse,provincestopmedicationanalyse,reportpersonphone,municipalappraisegraph,provinceotherrelatedanalyse,unitappraisegraph,kickbacktype,firsttraced,depictdispose,bianma,isadrmatch)values('','可能','关联性评价:可能','','红河哈尼族彝族自治州药品不良反应与药物滥用监测中心','0000-00-00','可能','元阳县药品不良反应监测中心','63(公斤)','否','男','','急性化脓性阑尾炎','元阳县药品不良反应监测中心','有','是','2014-12-15','李怡','彝族','李俊','无','李怡','岳青','可能','5622080','未再使用','2015-01-19','未再使用','2015-01-16','','34115','是','关联性评价:可能','医疗机构','元阳县民族医院','否','护士','有','无','元阳县民族医院','可能','[复方氨基酸注射液:非标准]','成人','是','否','已知 一般','[发热:非标准]','上报个例','220014213787893820460757100000','不明显','','1996-08-18','一般','无','可能','李黎芳','刘永明','2015-01-16','否','15752640073','未再使用','无','','','是','否','2014-12-15','18.0','李怡','可能','否','是','15752640073','卢建明','不明','李怡','好转','首次报告','患者因急性化脓性阑尾炎在输复方氨基酸注射液半小时后出现全身酸痛难忍，查：体温40摄氏度，p108次/分，R22次/分，BP106/47mmHg,痛苦面容，其它无特殊。立即更换液体，给予双氯芬酸钠1枚塞肛，密切观察病情，2小时后症状好转。','5325281009507201500001','否'); 
+
+INFO:root:show_id:220014213792352290460820100000 is repeat!
+INFO:root:show_id:220014213942540130462532100000 is repeat!
+INFO:root:show_id:220014213967525740463346100000 is repeat!
+INFO:root:show_id:220014213979881440463649100000 is repeat!
+INFO:root:total: 0, batch:0, step:100
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:total: 77, batch:0, step:100
+INFO:root:total: 77, batch:1, step:100
+INFO:root:show_id:220014216267756420465426100000 is repeat!
+INFO:root:show_id:220014216272385160465480100000 is repeat!
+INFO:root:show_id:220014216281752980465580100000 is repeat!
+INFO:root:show_id:220014216310404600466290100000 is repeat!
+INFO:root:show_id:220014216313853700466444100000 is repeat!
+INFO:root:show_id:220014216328214320466880100000 is repeat!
+INFO:root:show_id:220014216341274750467367100000 is repeat!
+INFO:root:show_id:220014216342706100467398100000 is repeat!
+INFO:root:show_id:220014216352203080467712100000 is repeat!
+INFO:root:show_id:220014216353561010467794100000 is repeat!
+INFO:root:show_id:220014216359342230467998100000 is repeat!
+INFO:root:show_id:220014216362615350468095100000 is repeat!
+INFO:root:show_id:220014216522128130470625100000 is repeat!
+INFO:root:show_id:220014216525803050470734100000 is repeat!
+INFO:root:show_id:220014216535744190471106100000 is repeat!
+INFO:root:show_id:220014216541604070471338100000 is repeat!
+INFO:root:show_id:220014216544558550471446100000 is repeat!
+INFO:root:show_id:220014216547117920471529100000 is repeat!
+INFO:root:show_id:220014216556891070471898100000 is repeat!
+INFO:root:show_id:220014216561824520472049100000 is repeat!
+INFO:root:show_id:220014216566411500472187100000 is repeat!
+INFO:root:show_id:220014216566420020472192100000 is repeat!
+INFO:root:show_id:220014216593140930473044100000 is repeat!
+INFO:root:show_id:220014216594084360473078100000 is repeat!
+INFO:root:show_id:220014216609932480473300100000 is repeat!
+INFO:root:show_id:220014216633250510473457100000 is repeat!
+INFO:root:show_id:220014216641809750473497100000 is repeat!
+INFO:root:show_id:220014216737384060473816100000 is repeat!
+INFO:root:show_id:220014216749848570473828100000 is repeat!
+INFO:root:show_id:220014216756214620473833100000 is repeat!
+INFO:root:show_id:220014216760810290473876100000 is repeat!
+INFO:root:show_id:220014216765950910473880100000 is repeat!
+INFO:root:total: 102, batch:0, step:100
+INFO:root:total: 102, batch:1, step:100
+INFO:root:total: 102, batch:2, step:100
+INFO:root:show_id:220014217150431480474267100000 is repeat!
+INFO:root:show_id:220014217161168350474535100000 is repeat!
+INFO:root:show_id:220014217167047870474745100000 is repeat!
+INFO:root:show_id:220014217167094260474758100000 is repeat!
+INFO:root:show_id:220014217174852600475024100000 is repeat!
+INFO:root:show_id:220014217177522120475124100000 is repeat!
+INFO:root:show_id:220014217179681580475216100000 is repeat!
+INFO:root:show_id:220014217180576030475231100000 is repeat!
+INFO:root:show_id:220014217182241490475275100000 is repeat!
+INFO:root:show_id:220014217183247740475340100000 is repeat!
+INFO:root:show_id:220014217188077950475529100000 is repeat!
+INFO:root:show_id:220014217190076130475623100000 is repeat!
+INFO:root:show_id:220014217192498050475719100000 is repeat!
+INFO:root:show_id:220014217195282480475794100000 is repeat!
+INFO:root:show_id:220014217195329390475840100000 is repeat!
+INFO:root:show_id:220014217195366680475804100000 is repeat!
+INFO:root:show_id:220014217196415620475876100000 is repeat!
+INFO:root:show_id:220014217200536890475984100000 is repeat!
+INFO:root:show_id:220014217205649680476146100000 is repeat!
+INFO:root:show_id:220014217206113740476182100000 is repeat!
+INFO:root:show_id:220014217207934670476228100000 is repeat!
+INFO:root:show_id:220014217207947430476248100000 is repeat!
+INFO:root:show_id:220014217210209420476312100000 is repeat!
+INFO:root:show_id:220014217217909890476571100000 is repeat!
+INFO:root:show_id:220014217221972900476709100000 is repeat!
+INFO:root:show_id:220014217224072310476794100000 is repeat!
+INFO:root:show_id:220014217226194180476867100000 is repeat!
+INFO:root:show_id:220014217228392650476949100000 is repeat!
+INFO:root:show_id:220014217230947960477085100000 is repeat!
+INFO:root:show_id:220014217236729810477242100000 is repeat!
+INFO:root:show_id:220014217236918830477257100000 is repeat!
+INFO:root:show_id:220014217238526470477253100000 is repeat!
+INFO:root:show_id:220014217240951640477332100000 is repeat!
+INFO:root:show_id:220014217246110090477457100000 is repeat!
+INFO:root:show_id:220014217248553000477519100000 is repeat!
+INFO:root:show_id:220014217255522550477675100000 is repeat!
+INFO:root:show_id:220014217259151640477725100000 is repeat!
+INFO:root:show_id:220014217268050100477801100000 is repeat!
+INFO:root:show_id:220014217369621500478801100000 is repeat!
+INFO:root:show_id:220014217374657480478928100000 is repeat!
+INFO:root:show_id:220014217385907000479319100000 is repeat!
+INFO:root:show_id:220014217406973930480031100000 is repeat!
+INFO:root:show_id:220014217410136430480151100000 is repeat!
+INFO:root:show_id:220014217411918710480232100000 is repeat!
+INFO:root:show_id:220014217414922530480307100000 is repeat!
+INFO:root:show_id:220014217417430620480393100000 is repeat!
+INFO:root:show_id:220014217417613850480438100000 is repeat!
+INFO:root:show_id:220014217418699330480429100000 is repeat!
+INFO:root:show_id:220014217419967580480477100000 is repeat!
+INFO:root:show_id:220014217423187750480558100000 is repeat!
+INFO:root:show_id:220014217423560850480586100000 is repeat!
+INFO:root:show_id:220014217428393120480692100000 is repeat!
+INFO:root:show_id:220014217430025290480753100000 is repeat!
+INFO:root:show_id:220014217430793210480803100000 is repeat!
+INFO:root:show_id:220014217432494730480814100000 is repeat!
+INFO:root:show_id:220014217433967220480865100000 is repeat!
+INFO:root:show_id:220014217441236260481043100000 is repeat!
+INFO:root:show_id:220014217450874970481210100000 is repeat!
+INFO:root:show_id:220014217451085370481260100000 is repeat!
+INFO:root:show_id:220014217452651970481299100000 is repeat!
+INFO:root:show_id:220014217459269070481380100000 is repeat!
+INFO:root:show_id:220014217487096860481657100000 is repeat!
+INFO:root:show_id:220014217548744420481797100000 is repeat!
+INFO:root:show_id:220014217610098840481932100000 is repeat!
+INFO:root:total: 65, batch:0, step:100
+INFO:root:total: 65, batch:1, step:100
+INFO:root:show_id:220014218009677840482236100000 is repeat!
+INFO:root:show_id:220014218018011600482422100000 is repeat!
+INFO:root:show_id:220014218023133400482556100000 is repeat!
+INFO:root:show_id:220014218024812280482593100000 is repeat!
+INFO:root:show_id:220014218033803500482877100000 is repeat!
+INFO:root:show_id:220014218042946770483225100000 is repeat!
+INFO:root:show_id:220014218050086480483464100000 is repeat!
+INFO:root:show_id:220014218052432370483542100000 is repeat!
+INFO:root:show_id:220014218063904150483971100000 is repeat!
+INFO:root:show_id:220014218066598940484077100000 is repeat!
+INFO:root:show_id:220014218080066800484514100000 is repeat!
+INFO:root:show_id:220014218081052730484545100000 is repeat!
+INFO:root:show_id:220014218088451470484782100000 is repeat!
+INFO:root:show_id:220014218089388750484789100000 is repeat!
+INFO:root:show_id:220014218093745720484926100000 is repeat!
+INFO:root:show_id:220014218097063400485061100000 is repeat!
+INFO:root:show_id:220014218098222420485071100000 is repeat!
+INFO:root:show_id:220014218100459980485134100000 is repeat!
+INFO:root:show_id:220014218105862510485310100000 is repeat!
+INFO:root:show_id:220014218106508140485346100000 is repeat!
+INFO:root:show_id:220014218111169480485434100000 is repeat!
+INFO:root:show_id:220014218113522880485544100000 is repeat!
+INFO:root:show_id:220014218126481770485745100000 is repeat!
+INFO:root:show_id:220014218209240600486132100000 is repeat!
+INFO:root:show_id:220014218218512290486335100000 is repeat!
+INFO:root:show_id:220014218226760110486522100000 is repeat!
+INFO:root:show_id:220014218233235550486677100000 is repeat!
+INFO:root:show_id:220014218245101570487024100000 is repeat!
+INFO:root:show_id:220014218246559750487075100000 is repeat!
+INFO:root:show_id:220014218259315150487413100000 is repeat!
+INFO:root:show_id:220014218261120700487486100000 is repeat!
+INFO:root:show_id:220014218261462610487457100000 is repeat!
+INFO:root:show_id:220014218265541090487603100000 is repeat!
+INFO:root:show_id:220014218270778260487777100000 is repeat!
+INFO:root:show_id:220014218288105420488277100000 is repeat!
+INFO:root:show_id:220014218304809040488634100000 is repeat!
+INFO:root:show_id:220014218320263850489054100000 is repeat!
+INFO:root:total: 56, batch:0, step:100
+INFO:root:total: 56, batch:1, step:100
+INFO:root:show_id:220014218869253120489933100000 is repeat!
+INFO:root:show_id:220014218917439060491243100000 is repeat!
+INFO:root:show_id:220014218938385650492001100000 is repeat!
+INFO:root:show_id:220014218942444910492171100000 is repeat!
+INFO:root:show_id:220014218952804520492552100000 is repeat!
+INFO:root:show_id:220014218971437280493097100000 is repeat!
+INFO:root:show_id:220014219079591910494094100000 is repeat!
+INFO:root:show_id:220014219091756440494380100000 is repeat!
+INFO:root:show_id:220014219112331950495063100000 is repeat!
+INFO:root:show_id:220014219113647530495126100000 is repeat!
+INFO:root:show_id:220014219119783090495359100000 is repeat!
+INFO:root:show_id:220014219125139320495530100000 is repeat!
+INFO:root:show_id:220014219128594260495677100000 is repeat!
+INFO:root:show_id:220014219131963870495816100000 is repeat!
+INFO:root:show_id:220014219134383660495866100000 is repeat!
+INFO:root:show_id:220014219138451390495994100000 is repeat!
+INFO:root:show_id:220014219138475350496016100000 is repeat!
+INFO:root:show_id:220014219144379010496215100000 is repeat!
+INFO:root:show_id:220014219149691490496349100000 is repeat!
+INFO:root:show_id:220014219157176840496631100000 is repeat!
+INFO:root:show_id:220014219157957080496679100000 is repeat!
+INFO:root:show_id:220014219165216440496871100000 is repeat!
+INFO:root:show_id:220014219167668160496981100000 is repeat!
+INFO:root:show_id:220014219174254870497292100000 is repeat!
+INFO:root:show_id:220014219182905950497667100000 is repeat!
+INFO:root:show_id:220014219184897620497695100000 is repeat!
+INFO:root:show_id:220014219190798480497888100000 is repeat!
+INFO:root:show_id:220014219241803970498265100000 is repeat!
+INFO:root:total: 68, batch:0, step:100
+INFO:root:total: 68, batch:1, step:100
+INFO:root:show_id:220014219740062630498869100000 is repeat!
+INFO:root:show_id:220014219764372380499613100000 is repeat!
+INFO:root:show_id:220014219777120790500198100000 is repeat!
+INFO:root:show_id:220014219784231220500484100000 is repeat!
+INFO:root:show_id:220014219793018650500801100000 is repeat!
+INFO:root:show_id:220014219817528960501809100000 is repeat!
+INFO:root:show_id:220014219958384980507093100000 is repeat!
+INFO:root:show_id:220014219961036380507203100000 is repeat!
+INFO:root:show_id:220014219963879330507271100000 is repeat!
+INFO:root:show_id:220014219976555340507714100000 is repeat!
+INFO:root:show_id:220014219979814940507842100000 is repeat!
+INFO:root:show_id:220014219984284550508004100000 is repeat!
+INFO:root:show_id:220014219985511250508049100000 is repeat!
+INFO:root:show_id:220014219990544180508261100000 is repeat!
+INFO:root:show_id:220014219994750580508390100000 is repeat!
+INFO:root:show_id:220014219997152240508488100000 is repeat!
+INFO:root:show_id:220014219999893900508615100000 is repeat!
+INFO:root:show_id:220014220000953440508666100000 is repeat!
+INFO:root:show_id:220014220012880890509052100000 is repeat!
+INFO:root:show_id:220014220018346240509232100000 is repeat!
+INFO:root:show_id:220014220029188210509614100000 is repeat!
+INFO:root:show_id:220014220040063220510058100000 is repeat!
+INFO:root:show_id:220014220047810450510300100000 is repeat!
+INFO:root:show_id:220014220128846970510709100000 is repeat!
+INFO:root:show_id:220014220129416730510712100000 is repeat!
+INFO:root:show_id:220014220142798660510755100000 is repeat!
+INFO:root:show_id:220014220162016800510785100000 is repeat!
+INFO:root:total: 10, batch:0, step:100
+INFO:root:total: 10, batch:1, step:100
+INFO:root:show_id:220014220857550300512466100000 is repeat!
+INFO:root:show_id:220014220858116110512471100000 is repeat!
+INFO:root:show_id:220014221140669770513164100000 is repeat!
+INFO:root:total: 14, batch:0, step:100
+INFO:root:total: 14, batch:1, step:100
+INFO:root:show_id:220014221494593340513322100000 is repeat!
+INFO:root:show_id:220014221500166320513324100000 is repeat!
+INFO:root:show_id:220014221812824190514469100000 is repeat!
+INFO:root:show_id:220014221828237450514494100000 is repeat!
+INFO:root:total: 70, batch:0, step:100
+INFO:root:total: 70, batch:1, step:100
+INFO:root:show_id:220014222352255190515860100000 is repeat!
+INFO:root:show_id:220014222357664700516031100000 is repeat!
+INFO:root:show_id:220014222362997150516286100000 is repeat!
+INFO:root:show_id:220014222367299050516453100000 is repeat!
+INFO:root:show_id:220014222381951390517154100000 is repeat!
+INFO:root:show_id:220014222387684620517395100000 is repeat!
+INFO:root:show_id:220014222394043280517707100000 is repeat!
+INFO:root:show_id:220014222395895840517769100000 is repeat!
+INFO:root:show_id:220014222402452770518039100000 is repeat!
+INFO:root:show_id:220014222407997590518259100000 is repeat!
+INFO:root:show_id:220014222409054670518303100000 is repeat!
+INFO:root:show_id:220014222411810100518426100000 is repeat!
+INFO:root:show_id:220014222416194420518555100000 is repeat!
+INFO:root:show_id:220014222538986590520280100000 is repeat!
+INFO:root:show_id:220014222541895740520328100000 is repeat!
+INFO:root:show_id:220014222559322320520905100000 is repeat!
+INFO:root:show_id:220014222565833930521211100000 is repeat!
+INFO:root:show_id:220014222573292430521513100000 is repeat!
+INFO:root:show_id:220014222574188240521570100000 is repeat!
+INFO:root:show_id:220014222584037210521956100000 is repeat!
+INFO:root:show_id:220014222586363980522026100000 is repeat!
+INFO:root:show_id:220014222589875880522182100000 is repeat!
+INFO:root:show_id:220014222592891300522328100000 is repeat!
+INFO:root:show_id:220014222605707240522848100000 is repeat!
+INFO:root:show_id:220014222612676400523115100000 is repeat!
+INFO:root:show_id:220014222613679320523131100000 is repeat!
+INFO:root:show_id:220014222617386460523350100000 is repeat!
+INFO:root:show_id:220014222729248090524592100000 is repeat!
+INFO:root:total: 105, batch:0, step:100
+INFO:root:total: 105, batch:1, step:100
+INFO:root:total: 105, batch:2, step:100
+INFO:root:show_id:220014223182422130525131100000 is repeat!
+INFO:root:show_id:220014223194428840525283100000 is repeat!
+INFO:root:show_id:220014223197286360525362100000 is repeat!
+INFO:root:show_id:220014223201512360525488100000 is repeat!
+INFO:root:show_id:220014223205748790525596100000 is repeat!
+INFO:root:show_id:220014223208437040525644100000 is repeat!
+INFO:root:show_id:220014223212538160525729100000 is repeat!
+INFO:root:show_id:220014223217953390525949100000 is repeat!
+INFO:root:show_id:220014223219514470526005100000 is repeat!
+INFO:root:show_id:220014223222256740526122100000 is repeat!
+INFO:root:show_id:220014223226165090526285100000 is repeat!
+INFO:root:show_id:220014223226925550526287100000 is repeat!
+INFO:root:show_id:220014223228549030526371100000 is repeat!
+INFO:root:show_id:220014223231804000526520100000 is repeat!
+INFO:root:show_id:220014223235300450526678100000 is repeat!
+INFO:root:show_id:220014223238369260526788100000 is repeat!
+INFO:root:show_id:220014223240395790526860100000 is repeat!
+INFO:root:show_id:220014223248325090527276100000 is repeat!
+INFO:root:show_id:220014223256029360527605100000 is repeat!
+INFO:root:show_id:220014223273484190528330100000 is repeat!
+INFO:root:show_id:220014223280209030528588100000 is repeat!
+INFO:root:show_id:220014223283582370528739100000 is repeat!
+INFO:root:show_id:220014223297759350529179100000 is repeat!
+INFO:root:show_id:220014223305837160529314100000 is repeat!
+INFO:root:show_id:220014223315374150529467100000 is repeat!
+INFO:root:show_id:220014223321394290529474100000 is repeat!
+INFO:root:show_id:220014223333345080529525100000 is repeat!
+INFO:root:show_id:220014223345195540529571100000 is repeat!
+INFO:root:show_id:220014223351380010529616100000 is repeat!
+INFO:root:show_id:220014223362324970529676100000 is repeat!
+INFO:root:show_id:220014223367299450529717100000 is repeat!
+INFO:root:show_id:220014223372551220529744100000 is repeat!
+INFO:root:show_id:220014223377342870529807100000 is repeat!
+INFO:root:show_id:220014223401879610530217100000 is repeat!
+INFO:root:show_id:220014223402282950530221100000 is repeat!
+INFO:root:show_id:220014223411493210530482100000 is repeat!
+INFO:root:show_id:220014223415103120530564100000 is repeat!
+INFO:root:show_id:220014223434197620531233100000 is repeat!
+INFO:root:show_id:220014223436694160531350100000 is repeat!
+INFO:root:show_id:220014223438959150531441100000 is repeat!
+INFO:root:show_id:220014223440087390531474100000 is repeat!
+INFO:root:show_id:220014223442436360531550100000 is repeat!
+INFO:root:show_id:220014223446248570531681100000 is repeat!
+INFO:root:show_id:220014223453168320531959100000 is repeat!
+INFO:root:show_id:220014223459291980532163100000 is repeat!
+INFO:root:show_id:220014223464826550532404100000 is repeat!
+INFO:root:show_id:220014223466598170532481100000 is repeat!
+INFO:root:show_id:220014223467789440532504100000 is repeat!
+INFO:root:show_id:220014223470674510532573100000 is repeat!
+INFO:root:show_id:220014223471430930532658100000 is repeat!
+INFO:root:show_id:220014223481941410533029100000 is repeat!
+INFO:root:show_id:220014223483128870533014100000 is repeat!
+INFO:root:show_id:220014223494061590533384100000 is repeat!
+INFO:root:show_id:220014223495609190533457100000 is repeat!
+INFO:root:show_id:220014223498593610533542100000 is repeat!
+INFO:root:show_id:220014223500364930533554100000 is repeat!
+INFO:root:show_id:220014223501618780533604100000 is repeat!
+INFO:root:show_id:220014223502789770533613100000 is repeat!
+INFO:root:show_id:220014223505655890533683100000 is repeat!
+INFO:root:show_id:220014223513867980533917100000 is repeat!
+INFO:root:show_id:220014223624963620534231100000 is repeat!
+INFO:root:show_id:220014223639289850534297100000 is repeat!
+INFO:root:show_id:220014223651277170534300100000 is repeat!
+INFO:root:show_id:220014223660639870534303100000 is repeat!
+INFO:root:show_id:220014223670552340534307100000 is repeat!
+INFO:root:show_id:220014223683838750534401100000 is repeat!
+INFO:root:show_id:220014223694984900534409100000 is repeat!
+INFO:root:total: 62, batch:0, step:100
+INFO:root:total: 62, batch:1, step:100
+INFO:root:show_id:201412121338118590000007009707 is repeat!
+INFO:root:show_id:201412121348271560000008009707 is repeat!
+INFO:root:show_id:201412121411046800000009009707 is repeat!
+INFO:root:show_id:201412121482262500000010009707 is repeat!
+INFO:root:show_id:201512816311285900000012009707 is repeat!
+INFO:root:show_id:220014224093349030535803100000 is repeat!
+INFO:root:show_id:220014224104251490536233100000 is repeat!
+INFO:root:show_id:220014224109766630536452100000 is repeat!
+INFO:root:show_id:220014224111997670536577100000 is repeat!
+INFO:root:show_id:220014224124808350537090100000 is repeat!
+INFO:root:show_id:220014224125939500537110100000 is repeat!
+INFO:root:show_id:220014224128844300537244100000 is repeat!
+INFO:root:show_id:220014224152168000538093100000 is repeat!
+INFO:root:show_id:220014224185739040538739100000 is repeat!
+INFO:root:show_id:220014224286692630540126100000 is repeat!
+INFO:root:show_id:220014224296960070540558100000 is repeat!
+INFO:root:show_id:220014224297711260540542100000 is repeat!
+INFO:root:show_id:220014224305523550540846100000 is repeat!
+INFO:root:show_id:220014224313317190541180100000 is repeat!
+INFO:root:show_id:220014224319660070541481100000 is repeat!
+INFO:root:show_id:220014224330431340541873100000 is repeat!
+INFO:root:show_id:220014224354619420542843100000 is repeat!
+INFO:root:show_id:220014224377641450543739100000 is repeat!
+INFO:root:show_id:220014224382041040543753100000 is repeat!
+INFO:root:show_id:220014224383075750543796100000 is repeat!
+INFO:root:show_id:220014224449356070544120100000 is repeat!
+INFO:root:show_id:220014224475538530544263100000 is repeat!
+INFO:root:total: 81, batch:0, step:100
+INFO:root:total: 81, batch:1, step:100
+INFO:root:show_id:220014224925109490544903100000 is repeat!
+INFO:root:show_id:220014224934135840545152100000 is repeat!
+INFO:root:show_id:220014224935721110545188100000 is repeat!
+INFO:root:show_id:220014224937250460545240100000 is repeat!
+INFO:root:show_id:220014224938700020545270100000 is repeat!
+INFO:root:show_id:220014224940373120545329100000 is repeat!
+INFO:root:show_id:220014224944911930545536100000 is repeat!
+INFO:root:show_id:220014224946702950545584100000 is repeat!
+INFO:root:show_id:220014224946839830545604100000 is repeat!
+INFO:root:show_id:220014225002760080547735100000 is repeat!
+INFO:root:show_id:220014225116820960549351100000 is repeat!
+INFO:root:show_id:220014225121941490549439100000 is repeat!
+INFO:root:show_id:220014225152438650550258100000 is repeat!
+INFO:root:show_id:220014225154274280550293100000 is repeat!
+INFO:root:show_id:220014225158513600550429100000 is repeat!
+INFO:root:show_id:220014225160370130550518100000 is repeat!
+INFO:root:show_id:220014225162212950550569100000 is repeat!
+INFO:root:show_id:220014225162571200550595100000 is repeat!
+INFO:root:show_id:220014225171990570550980100000 is repeat!
+INFO:root:show_id:220014225174600540551082100000 is repeat!
+INFO:root:show_id:220014225188900540551622100000 is repeat!
+INFO:root:show_id:220014225192997310551766100000 is repeat!
+INFO:root:show_id:220014225200642410552010100000 is repeat!
+INFO:root:show_id:220014225205042010552158100000 is repeat!
+INFO:root:show_id:220014225206961570552235100000 is repeat!
+INFO:root:show_id:220014225214007620552422100000 is repeat!
+INFO:root:show_id:220014225219963240552673100000 is repeat!
+INFO:root:show_id:220014225222249860552744100000 is repeat!
+INFO:root:show_id:220014225235665100553018100000 is repeat!
+INFO:root:show_id:220014225243856920553136100000 is repeat!
+INFO:root:total: 71, batch:0, step:100
+INFO:root:total: 71, batch:1, step:100
+INFO:root:show_id:220014225799201000554764100000 is repeat!
+INFO:root:show_id:220014225804397670554941100000 is repeat!
+INFO:root:show_id:220014225805319360555022100000 is repeat!
+INFO:root:show_id:220014225809690460555217100000 is repeat!
+INFO:root:show_id:220014225821812910555739100000 is repeat!
+INFO:root:show_id:220014225829532190556044100000 is repeat!
+INFO:root:show_id:220014225833081840556195100000 is repeat!
+INFO:root:show_id:220014225838400690556388100000 is repeat!
+INFO:root:show_id:220014225876288960557971100000 is repeat!
+INFO:root:show_id:220014225893154710558475100000 is repeat!
+INFO:root:show_id:220014225901466240558628100000 is repeat!
+INFO:root:show_id:220014225992711260559549100000 is repeat!
+INFO:root:show_id:220014225996631960559676100000 is repeat!
+INFO:root:show_id:220014226004787540559923100000 is repeat!
+INFO:root:show_id:220014226005042970559935100000 is repeat!
+INFO:root:show_id:220014226005457080559966100000 is repeat!
+INFO:root:show_id:220014226012451360560196100000 is repeat!
+INFO:root:show_id:220014226013683980560277100000 is repeat!
+INFO:root:show_id:220014226013686280560280100000 is repeat!
+INFO:root:show_id:220014226013980660560279100000 is repeat!
+INFO:root:show_id:220014226019530790560493100000 is repeat!
+INFO:root:show_id:220014226025044280560763100000 is repeat!
+INFO:root:show_id:220014226027914040560854100000 is repeat!
+INFO:root:show_id:220014226034017080561094100000 is repeat!
+INFO:root:show_id:220014226038149460561300100000 is repeat!
+INFO:root:show_id:220014226045655880561584100000 is repeat!
+INFO:root:show_id:220014226046145410561595100000 is repeat!
+INFO:root:show_id:220014226052053710561860100000 is repeat!
+INFO:root:show_id:220014226052628960561885100000 is repeat!
+INFO:root:show_id:220014226054338930561955100000 is repeat!
+INFO:root:show_id:220014226055896740561996100000 is repeat!
+INFO:root:show_id:220014226057424890562050100000 is repeat!
+INFO:root:show_id:220014226060449720562169100000 is repeat!
+INFO:root:show_id:220014226062915110562269100000 is repeat!
+INFO:root:show_id:220014226070115760562504100000 is repeat!
+INFO:root:show_id:220014226079581750562842100000 is repeat!
+INFO:root:show_id:220014226113242800563513100000 is repeat!
+INFO:root:show_id:220014226115347020563579100000 is repeat!
+INFO:root:show_id:220014226125726800563659100000 is repeat!
+INFO:root:show_id:220014226132840400563675100000 is repeat!
+INFO:root:total: 27, batch:0, step:100
+INFO:root:total: 27, batch:1, step:100
+INFO:root:show_id:220014226736563310565454100000 is repeat!
+INFO:root:show_id:220014226769144390565807100000 is repeat!
+INFO:root:show_id:220014226775295330565869100000 is repeat!
+INFO:root:show_id:220014226803744790565979100000 is repeat!
+INFO:root:show_id:220014226816810660566011100000 is repeat!
+INFO:root:show_id:220014226913749440566611100000 is repeat!
+INFO:root:show_id:220014226921597540566700100000 is repeat!
+INFO:root:show_id:220014226928305330566778100000 is repeat!
+INFO:root:show_id:220014226934116520566845100000 is repeat!
+INFO:root:show_id:220014226939782830566897100000 is repeat!
+INFO:root:show_id:220014226944593260566943100000 is repeat!
+INFO:root:show_id:220014226967559780567087100000 is repeat!
+INFO:root:show_id:220014226986590860567155100000 is repeat!
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:show_id:220014200423233840384823100000 is repeat!
+INFO:root:show_id:220014200796906070385103100000 is repeat!
+INFO:root:total: 35, batch:0, step:100
+INFO:root:total: 35, batch:1, step:100
+INFO:root:show_id:220014201617964940385880100000 is repeat!
+INFO:root:show_id:220014201644115180386016100000 is repeat!
+INFO:root:show_id:220014201968566130386817100000 is repeat!
+INFO:root:show_id:220014201969011390386819100000 is repeat!
+INFO:root:show_id:220014201969757560386821100000 is repeat!
+INFO:root:show_id:220014201972300090386834100000 is repeat!
+INFO:root:show_id:220014201973470410386842100000 is repeat!
+INFO:root:show_id:220014201973649300386843100000 is repeat!
+INFO:root:show_id:220014201974132180386846100000 is repeat!
+INFO:root:show_id:220014201976413950386865100000 is repeat!
+INFO:root:total: 25, batch:0, step:100
+INFO:root:total: 25, batch:1, step:100
+INFO:root:show_id:220014202710302890387854100000 is repeat!
+INFO:root:show_id:220014202719713320387908100000 is repeat!
+INFO:root:show_id:220014202730396260387963100000 is repeat!
+INFO:root:show_id:220014202746986740388019100000 is repeat!
+INFO:root:show_id:220014202754408870388034100000 is repeat!
+INFO:root:show_id:220014202765488760388078100000 is repeat!
+INFO:root:show_id:220014202772192530388085100000 is repeat!
+INFO:root:show_id:220014202781358030388092100000 is repeat!
+INFO:root:show_id:220014202788434830388094100000 is repeat!
+INFO:root:show_id:220014202796959540388102100000 is repeat!
+INFO:root:show_id:220014202802723430388109100000 is repeat!
+INFO:root:show_id:220014202809260080388114100000 is repeat!
+INFO:root:show_id:220014202814457710388139100000 is repeat!
+INFO:root:show_id:220014202821251830388145100000 is repeat!
+INFO:root:show_id:220014202826819190388152100000 is repeat!
+INFO:root:show_id:220014202832898480388159100000 is repeat!
+INFO:root:show_id:220014202839670850388168100000 is repeat!
+INFO:root:show_id:220014202845685610388173100000 is repeat!
+INFO:root:show_id:220014202852354650388176100000 is repeat!
+INFO:root:show_id:220014202860811630388180100000 is repeat!
+INFO:root:show_id:220014202867606540388184100000 is repeat!
+INFO:root:total: 73, batch:0, step:100
+INFO:root:total: 73, batch:1, step:100
+INFO:root:show_id:220014203311098460388509100000 is repeat!
+INFO:root:show_id:220014203311497610388536100000 is repeat!
+INFO:root:show_id:220014203312302420388540100000 is repeat!
+INFO:root:show_id:220014203312396040388543100000 is repeat!
+INFO:root:show_id:220014203312508060388545100000 is repeat!
+INFO:root:show_id:220014203332738800388845100000 is repeat!
+INFO:root:show_id:220014203350508620389580100000 is repeat!
+INFO:root:show_id:220014203377673940390625100000 is repeat!
+INFO:root:show_id:220014203378899870390664100000 is repeat!
+INFO:root:show_id:220014203444740160391664100000 is repeat!
+INFO:root:show_id:220014203522933160392147100000 is repeat!
+INFO:root:show_id:220014203541347650392513100000 is repeat!
+INFO:root:show_id:220014203648207220395364100000 is repeat!
+INFO:root:show_id:220014203648348390395365100000 is repeat!
+INFO:root:show_id:220014203648490140395366100000 is repeat!
+INFO:root:show_id:220014203665667210395424100000 is repeat!
+INFO:root:show_id:220014203673983200395461100000 is repeat!
+INFO:root:show_id:220014203688961070395487100000 is repeat!
+INFO:root:show_id:220014203694069220395502100000 is repeat!
+INFO:root:show_id:220014203700338980395511100000 is repeat!
+INFO:root:show_id:220014203704259270395516100000 is repeat!
+INFO:root:show_id:220014203710096250395529100000 is repeat!
+INFO:root:show_id:220014203713607760395533100000 is repeat!
+INFO:root:show_id:220014203716564230395558100000 is repeat!
+INFO:root:show_id:220014203721160810395564100000 is repeat!
+INFO:root:show_id:220014203728201200395570100000 is repeat!
+INFO:root:show_id:220014203731748360395572100000 is repeat!
+INFO:root:show_id:220014203735059340395580100000 is repeat!
+INFO:root:show_id:220014203742463890395594100000 is repeat!
+INFO:root:show_id:220014203751753020395601100000 is repeat!
+INFO:root:show_id:220014203818099960395665100000 is repeat!
+INFO:root:show_id:220014203823069500395668100000 is repeat!
+INFO:root:show_id:220014203826121490395671100000 is repeat!
+INFO:root:total: 53, batch:0, step:100
+INFO:root:total: 53, batch:1, step:100
+INFO:root:show_id:220014204192614190396103100000 is repeat!
+INFO:root:show_id:220014204198571290396259100000 is repeat!
+INFO:root:show_id:220014204206389360396491100000 is repeat!
+INFO:root:show_id:220014204214340640396746100000 is repeat!
+INFO:root:show_id:220014204218199330396945100000 is repeat!
+INFO:root:show_id:220014204223351810397120100000 is repeat!
+INFO:root:show_id:220014204223883480397138100000 is repeat!
+INFO:root:show_id:220014204228639260397263100000 is repeat!
+INFO:root:show_id:220014204237968090397541100000 is repeat!
+INFO:root:show_id:220014204271469120398490100000 is repeat!
+INFO:root:show_id:220014204293937540399199100000 is repeat!
+INFO:root:show_id:220014204297305820399244100000 is repeat!
+INFO:root:show_id:220014204300733530399293100000 is repeat!
+INFO:root:show_id:220014204401546900400291100000 is repeat!
+INFO:root:show_id:220014204405675310400410100000 is repeat!
+INFO:root:show_id:220014204409004870400496100000 is repeat!
+INFO:root:show_id:220014204409030050400494100000 is repeat!
+INFO:root:show_id:220014204417793740400735100000 is repeat!
+INFO:root:show_id:220014204435708590401264100000 is repeat!
+INFO:root:show_id:220014204440891870401424100000 is repeat!
+INFO:root:show_id:220014204443431540401493100000 is repeat!
+INFO:root:show_id:220014204478499280402498100000 is repeat!
+INFO:root:show_id:220014204489592570402802100000 is repeat!
+INFO:root:show_id:220014204712806830403618100000 is repeat!
+INFO:root:total: 74, batch:0, step:100
+INFO:root:total: 74, batch:1, step:100
+INFO:root:show_id:220014205046236840403745100000 is repeat!
+INFO:root:show_id:220014205049254860403822100000 is repeat!
+INFO:root:show_id:220014205052879900403882100000 is repeat!
+INFO:root:show_id:220014205066282820404149100000 is repeat!
+INFO:root:show_id:220014205070402900404261100000 is repeat!
+INFO:root:show_id:220014205074585330404365100000 is repeat!
+INFO:root:show_id:220014205080930040404512100000 is repeat!
+INFO:root:show_id:220014205084837170404623100000 is repeat!
+INFO:root:show_id:220014205086423580404667100000 is repeat!
+INFO:root:show_id:220014205090368380404760100000 is repeat!
+INFO:root:show_id:220014205092082650404786100000 is repeat!
+INFO:root:show_id:220014205105574090405111100000 is repeat!
+INFO:root:show_id:220014205107240260405192100000 is repeat!
+INFO:root:show_id:220014205148325370406316100000 is repeat!
+INFO:root:show_id:220014205151513710406361100000 is repeat!
+INFO:root:show_id:220014205151710940406365100000 is repeat!
+INFO:root:show_id:220014205151977180406371100000 is repeat!
+INFO:root:show_id:220014205259093900407214100000 is repeat!
+INFO:root:show_id:220014205284613900407908100000 is repeat!
+INFO:root:show_id:220014205300241660408362100000 is repeat!
+INFO:root:show_id:220014205301344770408395100000 is repeat!
+INFO:root:show_id:220014205306783500408525100000 is repeat!
+INFO:root:show_id:220014205313039260408697100000 is repeat!
+INFO:root:show_id:220014205319928000408921100000 is repeat!
+INFO:root:show_id:220014205330444210409236100000 is repeat!
+INFO:root:show_id:220014205340333800409470100000 is repeat!
+INFO:root:show_id:220014205354967260409953100000 is repeat!
+INFO:root:show_id:220014205389219360410744100000 is repeat!
+INFO:root:total: 48, batch:0, step:100
+INFO:root:total: 48, batch:1, step:100
+INFO:root:show_id:220014205912839470411332100000 is repeat!
+INFO:root:show_id:220014205924309520411569100000 is repeat!
+INFO:root:show_id:220014205934090660411857100000 is repeat!
+INFO:root:show_id:220014205942524660412031100000 is repeat!
+INFO:root:show_id:220014205947627350412196100000 is repeat!
+INFO:root:show_id:220014205952374280412310100000 is repeat!
+INFO:root:show_id:220014205958411450412481100000 is repeat!
+INFO:root:show_id:220014205970487370412675100000 is repeat!
+INFO:root:show_id:220014205990066900413129100000 is repeat!
+INFO:root:show_id:220014205993236040413190100000 is repeat!
+INFO:root:show_id:220014206000050770413345100000 is repeat!
+INFO:root:show_id:220014206008868030413551100000 is repeat!
+INFO:root:show_id:220014206132365650414743100000 is repeat!
+INFO:root:show_id:220014206133488880414780100000 is repeat!
+INFO:root:show_id:220014206162222190415328100000 is repeat!
+INFO:root:show_id:220014206181818630415546100000 is repeat!
+INFO:root:show_id:220014206183113610415551100000 is repeat!
+INFO:root:show_id:220014206187074580415589100000 is repeat!
+INFO:root:show_id:220014206188458030415594100000 is repeat!
+INFO:root:show_id:220014206188974290415602100000 is repeat!
+INFO:root:show_id:220014206190610430415614100000 is repeat!
+INFO:root:show_id:220014206195890070415656100000 is repeat!
+INFO:root:show_id:220014206220810670415933100000 is repeat!
+INFO:root:show_id:220014206221276510415948100000 is repeat!
+INFO:root:show_id:220014206230268400416092100000 is repeat!
+INFO:root:show_id:220014206234683310416110100000 is repeat!
+INFO:root:show_id:220014206259454370416162100000 is repeat!
+INFO:root:total: 60, batch:0, step:100
+INFO:root:total: 60, batch:1, step:100
+INFO:root:show_id:220014206767575090416470100000 is repeat!
+INFO:root:show_id:220014206770503400416489100000 is repeat!
+INFO:root:show_id:220014206772987600416515100000 is repeat!
+INFO:root:show_id:220014206783706410416616100000 is repeat!
+INFO:root:show_id:220014206784072610416623100000 is repeat!
+INFO:root:show_id:220014206788467990416674100000 is repeat!
+INFO:root:show_id:220014206792870750416747100000 is repeat!
+INFO:root:show_id:220014206798604460416880100000 is repeat!
+INFO:root:show_id:220014206817993400417293100000 is repeat!
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,tradename,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2015-01-08','否','无','否','怀疑','2015-01-07','国药准字H20023626','静脉滴注','否','急性扁桃体炎','一般','无','1407114','注射剂','2015-01-08','1.5克','0000-00-00','否','2015-01-07','否','34116','2015-01-07','医疗机构','玉溪市红塔区妇幼保健院','否','1日1次','上海新亚药业有限公司','注射用头孢噻肟钠','玉溪市红塔区妇幼保健院','痊愈','5304021013367201500002'); 
+
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,tradename,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2015-01-08','否','无','否','并用','2015-01-07','国药准字H20044305','静脉滴注','否','急性扁桃体炎','一般','无','A14091004-2','注射剂','2015-01-08','150毫升','0000-00-00','否','2015-01-07','否','34116','2015-01-07','医疗机构','玉溪市红塔区妇幼保健院','否','1日1次','四川科伦药业股份有限公司','氯化钠注射液','玉溪市红塔区妇幼保健院','痊愈','5304021013367201500002'); 
+
+INFO:root:show_id:	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapclinic(reportdate,ismatchingclinic,trackdate,unmatchclinic,happendate,id,isimporthospital,unittype,reportunitname,reporttype,imphospitalname,kickbacktype,statereportdate,bianma)values('2015-01-08','否','0000-00-00','荨麻疹','2015-01-07','34116','否','医疗机构','玉溪市红塔区妇幼保健院','一般','玉溪市红塔区妇幼保健院','痊愈','2015-01-08','5304021013367201500002'); 
+
+INFO:root:show_id:220014206983275470419200100000	 bianma:5304021013367201500002error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into business_gather(reportpersonmail,reportunitappraise,provinceremark,otherimportinfo,provinceunitname,trackdate,relationunitappraise,municipalunitname,avoirdupois,ismedicationmatch,sex,clinicno,oldsickness,fungiblereportunit,municipaladrdateanalyse,municipaladrtypeanalyse,happendate,reportpersonautograph,ethic,sufferername,homebuliang,personappraisegraph,reportpersongraph,reportpersonappraise,reportunitphone,provinceuseagainanalyse,provinceappraisedate,useagain,municipalappraisedate,comments,id,municipalstopmedicationanalyse,municipalremark,unittype,reportunitname,isimportmedication,reportpersonwork,provinceadrdateanalyse,isned,hospitalname,municipalappraise,medicationlist,sufferertype,stopresult,isror,reporttypedetail,adrlist,examplesource,show_id,infection,relationpersonremark,birthday,reporttype,pastbuliang,relationpersonappraise,provinceappraisegraph,reportunitlinkman,statereportdate,ispass,contacttele,municipaluseagainanalyse,isattachments,relationunitremark,inforsource,provinceadrtypeanalyse,isimporthospital,reportdate,age,reportunitautograph,provinceappraise,municipalotherrelatedanalyse,provincestopmedicationanalyse,reportpersonphone,municipalappraisegraph,provinceotherrelatedanalyse,unitappraisegraph,kickbacktype,firsttraced,depictdispose,bianma,isadrmatch)values('','可能','关联性评价:可能','','玉溪市药品不良反应与药物滥用监测中心','0000-00-00','可能','红塔区药品不良反应与药物滥用监测中心','12(公斤)','否','女','无','急性扁桃体炎','','有','是','2015-01-07','代建华','白族','李欣怡','无','代建华','合娅涛','可能','0877-2032723','未再使用','2015-01-20','未再使用','2015-01-16','','34116','是','关联性评价:可能','医疗机构','玉溪市红塔区妇幼保健院','否','医生','有','无','玉溪市红塔区妇幼保健院','可能','[注射用头孢噻肟钠:非标准],[氯化钠注射液:非标准]','儿童','是','否','已知 一般','[荨麻疹:非标准]','上报个例','220014206983275470419200100000','不明显','','2011-06-01','一般','无','可能','杨李涛','合娅涛','2015-01-08','否','13988460145','未再使用','无','','','是','否','2015-01-08','4.0','合娅涛','可能','不明','未停药或未减量','13908779710','红塔区食品药品监督管理局','不明','合娅涛','痊愈','首次报告','患儿因“急性扁桃体炎”于2015年1月7日13：15分到我院就诊，并给予输液治疗，在输入“注射用头孢噻肟钠1.5g+氯化钠注射液150ml，30滴/分，一日一次”完毕后，其家属发现患儿额头出现红色皮疹.查体：精神可，颈部、胸部、额头、背部可见大片皮疹、心肺无异常，余（-）。考虑过敏性荨麻疹。立即给予“复方甘草酸铵注射液1.5毫升肌肉注射，马来酸氯苯那敏片1.5mg/次、醋酸泼尼松片2.5mg/次口服”大约30分钟后患儿皮疹消退，未见异常。','5304021013367201500002','否'); 
+
+INFO:root:show_id:220014206985265930419220100000 is repeat!
+INFO:root:show_id:220014207002103510419560100000 is repeat!
+INFO:root:show_id:220014207006911660419667100000 is repeat!
+INFO:root:show_id:220014207007915910419723100000 is repeat!
+INFO:root:show_id:220014207008270010419692100000 is repeat!
+INFO:root:show_id:220014207014695470419890100000 is repeat!
+INFO:root:show_id:220014207019728290420024100000 is repeat!
+INFO:root:show_id:220014207026894120420201100000 is repeat!
+INFO:root:show_id:220014207037371600420479100000 is repeat!
+INFO:root:show_id:220014207052037120420945100000 is repeat!
+INFO:root:show_id:220014207056798910421082100000 is repeat!
+INFO:root:show_id:220014207060920450421145100000 is repeat!
+INFO:root:show_id:220014207067316170421302100000 is repeat!
+INFO:root:show_id:220014207068840870421331100000 is repeat!
+INFO:root:show_id:220014207071357150421419100000 is repeat!
+INFO:root:show_id:220014207074424080421504100000 is repeat!
+INFO:root:show_id:220014207087131890421792100000 is repeat!
+INFO:root:show_id:220014207124408260422017100000 is repeat!
+INFO:root:show_id:220014207217984400422129100000 is repeat!
+INFO:root:total: 77, batch:0, step:100
+INFO:root:total: 77, batch:1, step:100
+INFO:root:show_id:201515155218421000000024523952 is repeat!
+INFO:root:show_id:201519172640265000000001002162 is repeat!
+INFO:root:show_id:220014207644939360422697100000 is repeat!
+INFO:root:show_id:220014207656403690422980100000 is repeat!
+INFO:root:show_id:220014207662013420423113100000 is repeat!
+INFO:root:show_id:220014207674992530423453100000 is repeat!
+INFO:root:show_id:220014207678264360423553100000 is repeat!
+INFO:root:show_id:220014207716969800424729100000 is repeat!
+INFO:root:show_id:220014207858929220426459100000 is repeat!
+INFO:root:show_id:220014207870083820426668100000 is repeat!
+INFO:root:show_id:220014207874974300426773100000 is repeat!
+INFO:root:show_id:220014207881122960426905100000 is repeat!
+INFO:root:show_id:220014207889509440427095100000 is repeat!
+INFO:root:show_id:220014207904143220427504100000 is repeat!
+INFO:root:show_id:220014207905759710427564100000 is repeat!
+INFO:root:show_id:220014207913750790427756100000 is repeat!
+INFO:root:show_id:220014207923749560427998100000 is repeat!
+INFO:root:show_id:220014207931669430428170100000 is repeat!
+INFO:root:show_id:220014207931969370428198100000 is repeat!
+INFO:root:show_id:220014207932074750428166100000 is repeat!
+INFO:root:show_id:220014207934670580428222100000 is repeat!
+INFO:root:show_id:220014207934882070428239100000 is repeat!
+INFO:root:show_id:220014207939347560428351100000 is repeat!
+INFO:root:show_id:220014207943604020428428100000 is repeat!
+INFO:root:show_id:220014207946965950428471100000 is repeat!
+INFO:root:show_id:220014207947239050428503100000 is repeat!
+INFO:root:show_id:220014207949615080428572100000 is repeat!
+INFO:root:show_id:220014207951466400428631100000 is repeat!
+INFO:root:show_id:220014207955088450428683100000 is repeat!
+INFO:root:show_id:220014207959244370428852100000 is repeat!
+INFO:root:show_id:220014207962831430428867100000 is repeat!
+INFO:root:show_id:220014207966663280428903100000 is repeat!
+INFO:root:show_id:220014207970398520428920100000 is repeat!
+INFO:root:show_id:220014207973376240428931100000 is repeat!
+INFO:root:show_id:220014207976964300428960100000 is repeat!
+INFO:root:total: 0, batch:0, step:100
+INFO:root:total: 4, batch:0, step:100
+INFO:root:total: 4, batch:1, step:100
+INFO:root:total: 66, batch:0, step:100
+INFO:root:total: 66, batch:1, step:100
+INFO:root:show_id:220014210237030200429716100000 is repeat!
+INFO:root:show_id:220014210246095790429894100000 is repeat!
+INFO:root:show_id:220014210258630050430200100000 is repeat!
+INFO:root:show_id:220014210258987430430201100000 is repeat!
+INFO:root:show_id:220014210265575550430472100000 is repeat!
+INFO:root:show_id:220014210268915170430560100000 is repeat!
+INFO:root:show_id:220014210279181150430905100000 is repeat!
+INFO:root:show_id:220014210283016030431028100000 is repeat!
+INFO:root:show_id:220014210291737700431272100000 is repeat!
+INFO:root:show_id:220014210301523800431581100000 is repeat!
+INFO:root:show_id:220014210306672450431729100000 is repeat!
+INFO:root:show_id:220014210313176810431952100000 is repeat!
+INFO:root:show_id:220014210314217950431986100000 is repeat!
+INFO:root:show_id:220014210317538340432115100000 is repeat!
+INFO:root:show_id:220014210327773360432470100000 is repeat!
+INFO:root:show_id:220014210329406860432553100000 is repeat!
+INFO:root:show_id:220014210329773480432583100000 is repeat!
+INFO:root:show_id:220014210352590400433075100000 is repeat!
+INFO:root:show_id:220014210451072590434081100000 is repeat!
+INFO:root:show_id:220014210456286320434229100000 is repeat!
+INFO:root:show_id:220014210458099260434270100000 is repeat!
+INFO:root:show_id:220014210461440770434394100000 is repeat!
+INFO:root:show_id:220014210473924340434718100000 is repeat!
+INFO:root:show_id:220014210474498550434729100000 is repeat!
+INFO:root:show_id:220014210486187580435070100000 is repeat!
+INFO:root:show_id:220014210496551370435359100000 is repeat!
+INFO:root:show_id:220014210502682770435476100000 is repeat!
+INFO:root:show_id:220014210506963080435562100000 is repeat!
+INFO:root:show_id:220014210521226800435794100000 is repeat!
+INFO:root:show_id:220014210530400800435991100000 is repeat!
+INFO:root:show_id:220014210531320000435995100000 is repeat!
+INFO:root:show_id:220014210535537750436119100000 is repeat!
+INFO:root:show_id:220014210542742860436215100000 is repeat!
+INFO:root:show_id:220014210550282910436410100000 is repeat!
+INFO:root:show_id:220014210553312360436484100000 is repeat!
+INFO:root:show_id:220014210557186640436494100000 is repeat!
+INFO:root:total: 84, batch:0, step:100
+INFO:root:total: 84, batch:1, step:100
+INFO:root:show_id:220014211110181610437481100000 is repeat!
+INFO:root:show_id:220014211115164650437635100000 is repeat!
+INFO:root:show_id:220014211116724850437674100000 is repeat!
+INFO:root:show_id:220014211118004010437744100000 is repeat!
+INFO:root:show_id:220014211122231290437841100000 is repeat!
+INFO:root:show_id:220014211122578120437847100000 is repeat!
+INFO:root:show_id:220014211131070270438128100000 is repeat!
+INFO:root:show_id:220014211138325480438347100000 is repeat!
+INFO:root:show_id:220014211139396940438398100000 is repeat!
+INFO:root:show_id:220014211143280010438509100000 is repeat!
+INFO:root:show_id:220014211143285240438510100000 is repeat!
+INFO:root:show_id:220014211145940150438602100000 is repeat!
+INFO:root:show_id:220014211149324430438686100000 is repeat!
+INFO:root:show_id:220014211153460950438819100000 is repeat!
+INFO:root:show_id:220014211153900930438824100000 is repeat!
+INFO:root:show_id:220014211157942980438946100000 is repeat!
+INFO:root:show_id:220014211160342730439022100000 is repeat!
+INFO:root:show_id:220014211164765630439158100000 is repeat!
+INFO:root:show_id:220014211174147560439435100000 is repeat!
+INFO:root:show_id:220014211176746220439522100000 is repeat!
+INFO:root:show_id:220014211178872340439568100000 is repeat!
+INFO:root:show_id:220014211180941280439626100000 is repeat!
+INFO:root:show_id:220014211183921850439704100000 is repeat!
+INFO:root:show_id:220014211186752120439777100000 is repeat!
+INFO:root:show_id:220014211189329240439861100000 is repeat!
+INFO:root:show_id:220014211192972480439933100000 is repeat!
+INFO:root:show_id:220014211193787080439978100000 is repeat!
+INFO:root:show_id:220014211198702270440098100000 is repeat!
+INFO:root:show_id:220014211200961620440150100000 is repeat!
+INFO:root:show_id:220014211205069620440242100000 is repeat!
+INFO:root:show_id:220014211208455520440304100000 is repeat!
+INFO:root:show_id:220014211211313810440356100000 is repeat!
+INFO:root:show_id:220014211215826570440422100000 is repeat!
+INFO:root:show_id:220014211218039320440444100000 is repeat!
+INFO:root:show_id:220014211220463360440455100000 is repeat!
+INFO:root:show_id:220014211299990580440918100000 is repeat!
+INFO:root:show_id:220014211300449670440916100000 is repeat!
+INFO:root:show_id:220014211312233290441142100000 is repeat!
+INFO:root:show_id:220014211312640580441158100000 is repeat!
+INFO:root:show_id:220014211318984950441289100000 is repeat!
+INFO:root:show_id:220014211321079420441314100000 is repeat!
+INFO:root:show_id:220014211321963670441353100000 is repeat!
+INFO:root:show_id:220014211324118080441419100000 is repeat!
+INFO:root:show_id:220014211327127010441494100000 is repeat!
+INFO:root:show_id:220014211332728850441666100000 is repeat!
+INFO:root:show_id:220014211338847810441817100000 is repeat!
+INFO:root:show_id:220014211344654750442027100000 is repeat!
+INFO:root:show_id:220014211344907730442034100000 is repeat!
+INFO:root:show_id:220014211347507800442125100000 is repeat!
+INFO:root:show_id:220014211375873110442829100000 is repeat!
+INFO:root:show_id:220014211390672500443217100000 is repeat!
+INFO:root:show_id:220014211413974450443732100000 is repeat!
+INFO:root:total: 46, batch:0, step:100
+INFO:root:total: 46, batch:1, step:100
+INFO:root:show_id:220014211980695330444947100000 is repeat!
+INFO:root:show_id:220014211996486100445297100000 is repeat!
+INFO:root:show_id:220014211998720340445330100000 is repeat!
+INFO:root:show_id:220014211999915460445351100000 is repeat!
+INFO:root:show_id:220014212002557630445433100000 is repeat!
+INFO:root:show_id:220014212008472650445597100000 is repeat!
+INFO:root:show_id:220014212023846590445956100000 is repeat!
+INFO:root:show_id:220014212034216570446231100000 is repeat!
+INFO:root:show_id:220014212052160440446662100000 is repeat!
+INFO:root:show_id:220014212057393370446786100000 is repeat!
+INFO:root:show_id:220014212065139200446925100000 is repeat!
+INFO:root:show_id:220014212069121940446950100000 is repeat!
+INFO:root:show_id:220014212111775970447288100000 is repeat!
+INFO:root:show_id:220014212158023960447573100000 is repeat!
+INFO:root:show_id:220014212170591030447786100000 is repeat!
+INFO:root:show_id:220014212174652080447861100000 is repeat!
+INFO:root:total: 61, batch:0, step:100
+INFO:root:total: 61, batch:1, step:100
+INFO:root:show_id:201517953095300000000001071193 is repeat!
+INFO:root:show_id:220014212860267090451888100000 is repeat!
+INFO:root:show_id:220014212868910450452079100000 is repeat!
+INFO:root:show_id:220014212902842350453125100000 is repeat!
+INFO:root:show_id:220014212903276430453156100000 is repeat!
+INFO:root:show_id:220014212906455090453242100000 is repeat!
+INFO:root:show_id:220014212937949490453835100000 is repeat!
+INFO:root:show_id:220014213045037170454893100000 is repeat!
+INFO:root:show_id:220014213047802950454980100000 is repeat!
+INFO:root:show_id:220014213069929220455582100000 is repeat!
+INFO:root:show_id:220014213076858400455745100000 is repeat!
+INFO:root:show_id:220014213125494600456924100000 is repeat!
+INFO:root:show_id:220014213135409760457318100000 is repeat!
+INFO:root:show_id:220014213140935650457427100000 is repeat!
+INFO:root:total: 21, batch:0, step:100
+INFO:root:total: 21, batch:1, step:100
+INFO:root:show_id:220014213699306280458214100000 is repeat!
+INFO:root:show_id:220014213757637890459857100000 is repeat!
+INFO:root:show_id:220014213762958870460011100000 is repeat!
+INFO:root:show_id:220014213775110230460355100000 is repeat!
+INFO:root:show_id:220014213780000610460549100000 is repeat!
+INFO:root:show_id:220014213783492160460630100000 is repeat!
+INFO:root:show_id:	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapleechdom(reportdate,ismatchingfactory,isdescription,isror,usegetype,happendate,licensenumber,usemedicineroute,isimporthospital,reason,reporttype,batchnumber,dosagetype,statereportdate,yongfa,trackdate,isimportmedication,enddate,ismatchingmedication,id,begaindate,unittype,reportunitname,isned,yongliang,unmatchfactory,unmatchmedication,imphospitalname,kickbacktype,bianma)values('2014-12-15','否','无','否','怀疑','2014-12-15','国药准字H50022100','静脉滴注','否','支持对症','一般','14040015','注射剂','2015-01-16','250毫升','0000-00-00','否','2014-12-25','否','34117','2014-12-15','医疗机构','元阳县民族医院','否','1日1次','西南药业股份有限公司','复方氨基酸注射液','元阳县民族医院','好转','5325281009507201500001'); 
+
+INFO:root:show_id:	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into olapclinic(reportdate,ismatchingclinic,trackdate,unmatchclinic,happendate,id,isimporthospital,unittype,reportunitname,reporttype,imphospitalname,kickbacktype,statereportdate,bianma)values('2014-12-15','否','0000-00-00','发热','2014-12-15','34117','否','医疗机构','元阳县民族医院','一般','元阳县民族医院','好转','2015-01-16','5325281009507201500001'); 
+
+INFO:root:show_id:220014213787893820460757100000	 bianma:5325281009507201500001error :1292 (22007): Incorrect date value: '0000-00-00' for column 'AcceptDate' at row 1 
+ sql: insert into business_gather(reportpersonmail,reportunitappraise,provinceremark,otherimportinfo,provinceunitname,trackdate,relationunitappraise,municipalunitname,avoirdupois,ismedicationmatch,sex,clinicno,oldsickness,fungiblereportunit,municipaladrdateanalyse,municipaladrtypeanalyse,happendate,reportpersonautograph,ethic,sufferername,homebuliang,personappraisegraph,reportpersongraph,reportpersonappraise,reportunitphone,provinceuseagainanalyse,provinceappraisedate,useagain,municipalappraisedate,comments,id,municipalstopmedicationanalyse,municipalremark,unittype,reportunitname,isimportmedication,reportpersonwork,provinceadrdateanalyse,isned,hospitalname,municipalappraise,medicationlist,sufferertype,stopresult,isror,reporttypedetail,adrlist,examplesource,show_id,infection,relationpersonremark,birthday,reporttype,pastbuliang,relationpersonappraise,provinceappraisegraph,reportunitlinkman,statereportdate,ispass,contacttele,municipaluseagainanalyse,isattachments,relationunitremark,inforsource,provinceadrtypeanalyse,isimporthospital,reportdate,age,reportunitautograph,provinceappraise,municipalotherrelatedanalyse,provincestopmedicationanalyse,reportpersonphone,municipalappraisegraph,provinceotherrelatedanalyse,unitappraisegraph,kickbacktype,firsttraced,depictdispose,bianma,isadrmatch)values('','可能','关联性评价:可能','','红河哈尼族彝族自治州药品不良反应与药物滥用监测中心','0000-00-00','可能','元阳县药品不良反应监测中心','63(公斤)','否','男','','急性化脓性阑尾炎','元阳县药品不良反应监测中心','有','是','2014-12-15','李怡','彝族','李俊','无','李怡','岳青','可能','5622080','未再使用','2015-01-19','未再使用','2015-01-16','','34117','是','关联性评价:可能','医疗机构','元阳县民族医院','否','护士','有','无','元阳县民族医院','可能','[复方氨基酸注射液:非标准]','成人','是','否','已知 一般','[发热:非标准]','上报个例','220014213787893820460757100000','不明显','','1996-08-18','一般','无','可能','李黎芳','刘永明','2015-01-16','否','15752640073','未再使用','无','','','是','否','2014-12-15','18.0','李怡','可能','否','是','15752640073','卢建明','不明','李怡','好转','首次报告','患者因急性化脓性阑尾炎在输复方氨基酸注射液半小时后出现全身酸痛难忍，查：体温40摄氏度，p108次/分，R22次/分，BP106/47mmHg,痛苦面容，其它无特殊。立即更换液体，给予双氯芬酸钠1枚塞肛，密切观察病情，2小时后症状好转。','5325281009507201500001','否'); 
+
+INFO:root:show_id:220014213792352290460820100000 is repeat!
+INFO:root:show_id:220014213942540130462532100000 is repeat!
+INFO:root:show_id:220014213967525740463346100000 is repeat!
+INFO:root:show_id:220014213979881440463649100000 is repeat!
+INFO:root:total: 0, batch:0, step:100
+INFO:root:total: 3, batch:0, step:100
+INFO:root:total: 3, batch:1, step:100
+INFO:root:total: 77, batch:0, step:100
+INFO:root:total: 77, batch:1, step:100
+INFO:root:show_id:220014216267756420465426100000 is repeat!
+INFO:root:show_id:220014216272385160465480100000 is repeat!
+INFO:root:show_id:220014216281752980465580100000 is repeat!
+INFO:root:show_id:220014216310404600466290100000 is repeat!
+INFO:root:show_id:220014216313853700466444100000 is repeat!
+INFO:root:show_id:220014216328214320466880100000 is repeat!
+INFO:root:show_id:220014216341274750467367100000 is repeat!
+INFO:root:show_id:220014216342706100467398100000 is repeat!
+INFO:root:show_id:220014216352203080467712100000 is repeat!
+INFO:root:show_id:220014216353561010467794100000 is repeat!
+INFO:root:show_id:220014216359342230467998100000 is repeat!
+INFO:root:show_id:220014216362615350468095100000 is repeat!
+INFO:root:show_id:220014216522128130470625100000 is repeat!
+INFO:root:show_id:220014216525803050470734100000 is repeat!
+INFO:root:show_id:220014216535744190471106100000 is repeat!
+INFO:root:show_id:220014216541604070471338100000 is repeat!
+INFO:root:show_id:220014216544558550471446100000 is repeat!
+INFO:root:show_id:220014216547117920471529100000 is repeat!
+INFO:root:show_id:220014216556891070471898100000 is repeat!
+INFO:root:show_id:220014216561824520472049100000 is repeat!
+INFO:root:show_id:220014216566411500472187100000 is repeat!
+INFO:root:show_id:220014216566420020472192100000 is repeat!
+INFO:root:show_id:220014216593140930473044100000 is repeat!
+INFO:root:show_id:220014216594084360473078100000 is repeat!
+INFO:root:show_id:220014216609932480473300100000 is repeat!
+INFO:root:show_id:220014216633250510473457100000 is repeat!
+INFO:root:show_id:220014216641809750473497100000 is repeat!
+INFO:root:show_id:220014216737384060473816100000 is repeat!
+INFO:root:show_id:220014216749848570473828100000 is repeat!
+INFO:root:show_id:220014216756214620473833100000 is repeat!
+INFO:root:show_id:220014216760810290473876100000 is repeat!
+INFO:root:show_id:220014216765950910473880100000 is repeat!
+INFO:root:total: 102, batch:0, step:100
+INFO:root:total: 102, batch:1, step:100
+INFO:root:total: 102, batch:2, step:100
+INFO:root:show_id:220014217150431480474267100000 is repeat!
+INFO:root:show_id:220014217161168350474535100000 is repeat!
+INFO:root:show_id:220014217167047870474745100000 is repeat!
+INFO:root:show_id:220014217167094260474758100000 is repeat!
+INFO:root:show_id:220014217174852600475024100000 is repeat!
+INFO:root:show_id:220014217177522120475124100000 is repeat!
+INFO:root:show_id:220014217179681580475216100000 is repeat!
+INFO:root:show_id:220014217180576030475231100000 is repeat!
+INFO:root:show_id:220014217182241490475275100000 is repeat!
+INFO:root:show_id:220014217183247740475340100000 is repeat!
+INFO:root:show_id:220014217188077950475529100000 is repeat!
+INFO:root:show_id:220014217190076130475623100000 is repeat!
+INFO:root:show_id:220014217192498050475719100000 is repeat!
+INFO:root:show_id:220014217195282480475794100000 is repeat!
+INFO:root:show_id:220014217195329390475840100000 is repeat!
+INFO:root:show_id:220014217195366680475804100000 is repeat!
+INFO:root:show_id:220014217196415620475876100000 is repeat!
+INFO:root:show_id:220014217200536890475984100000 is repeat!
+INFO:root:show_id:220014217205649680476146100000 is repeat!
+INFO:root:show_id:220014217206113740476182100000 is repeat!
+INFO:root:show_id:220014217207934670476228100000 is repeat!
+INFO:root:show_id:220014217207947430476248100000 is repeat!
+INFO:root:show_id:220014217210209420476312100000 is repeat!
+INFO:root:show_id:220014217217909890476571100000 is repeat!
+INFO:root:show_id:220014217221972900476709100000 is repeat!
+INFO:root:show_id:220014217224072310476794100000 is repeat!
+INFO:root:show_id:220014217226194180476867100000 is repeat!
+INFO:root:show_id:220014217228392650476949100000 is repeat!
+INFO:root:show_id:220014217230947960477085100000 is repeat!
+INFO:root:show_id:220014217236729810477242100000 is repeat!
+INFO:root:show_id:220014217236918830477257100000 is repeat!
+INFO:root:show_id:220014217238526470477253100000 is repeat!
+INFO:root:show_id:220014217240951640477332100000 is repeat!
+INFO:root:show_id:220014217246110090477457100000 is repeat!
+INFO:root:show_id:220014217248553000477519100000 is repeat!
+INFO:root:show_id:220014217255522550477675100000 is repeat!
+INFO:root:show_id:220014217259151640477725100000 is repeat!
+INFO:root:show_id:220014217268050100477801100000 is repeat!
+INFO:root:show_id:220014217369621500478801100000 is repeat!
+INFO:root:show_id:220014217374657480478928100000 is repeat!
+INFO:root:show_id:220014217385907000479319100000 is repeat!
+INFO:root:show_id:220014217406973930480031100000 is repeat!
+INFO:root:show_id:220014217410136430480151100000 is repeat!
+INFO:root:show_id:220014217411918710480232100000 is repeat!
+INFO:root:show_id:220014217414922530480307100000 is repeat!
+INFO:root:show_id:220014217417430620480393100000 is repeat!
+INFO:root:show_id:220014217417613850480438100000 is repeat!
+INFO:root:show_id:220014217418699330480429100000 is repeat!
+INFO:root:show_id:220014217419967580480477100000 is repeat!
+INFO:root:show_id:220014217423187750480558100000 is repeat!
+INFO:root:show_id:220014217423560850480586100000 is repeat!
+INFO:root:show_id:220014217428393120480692100000 is repeat!
+INFO:root:show_id:220014217430025290480753100000 is repeat!
+INFO:root:show_id:220014217430793210480803100000 is repeat!
+INFO:root:show_id:220014217432494730480814100000 is repeat!
+INFO:root:show_id:220014217433967220480865100000 is repeat!
+INFO:root:show_id:220014217441236260481043100000 is repeat!
+INFO:root:show_id:220014217450874970481210100000 is repeat!
+INFO:root:show_id:220014217451085370481260100000 is repeat!
+INFO:root:show_id:220014217452651970481299100000 is repeat!
+INFO:root:show_id:220014217459269070481380100000 is repeat!
+INFO:root:show_id:220014217487096860481657100000 is repeat!
+INFO:root:show_id:220014217548744420481797100000 is repeat!
+INFO:root:show_id:220014217610098840481932100000 is repeat!
+INFO:root:total: 65, batch:0, step:100
+INFO:root:total: 65, batch:1, step:100
+INFO:root:show_id:220014218009677840482236100000 is repeat!
+INFO:root:show_id:220014218018011600482422100000 is repeat!
+INFO:root:show_id:220014218023133400482556100000 is repeat!
+INFO:root:show_id:220014218024812280482593100000 is repeat!
+INFO:root:show_id:220014218033803500482877100000 is repeat!
+INFO:root:show_id:220014218042946770483225100000 is repeat!
+INFO:root:show_id:220014218050086480483464100000 is repeat!
+INFO:root:show_id:220014218052432370483542100000 is repeat!
+INFO:root:show_id:220014218063904150483971100000 is repeat!
+INFO:root:show_id:220014218066598940484077100000 is repeat!
+INFO:root:show_id:220014218080066800484514100000 is repeat!
+INFO:root:show_id:220014218081052730484545100000 is repeat!
+INFO:root:show_id:220014218088451470484782100000 is repeat!
+INFO:root:show_id:220014218089388750484789100000 is repeat!
+INFO:root:show_id:220014218093745720484926100000 is repeat!
+INFO:root:show_id:220014218097063400485061100000 is repeat!
+INFO:root:show_id:220014218098222420485071100000 is repeat!
+INFO:root:show_id:220014218100459980485134100000 is repeat!
+INFO:root:show_id:220014218105862510485310100000 is repeat!
+INFO:root:show_id:220014218106508140485346100000 is repeat!
+INFO:root:show_id:220014218111169480485434100000 is repeat!
+INFO:root:show_id:220014218113522880485544100000 is repeat!
+INFO:root:show_id:220014218126481770485745100000 is repeat!
+INFO:root:show_id:220014218209240600486132100000 is repeat!
+INFO:root:show_id:220014218218512290486335100000 is repeat!
+INFO:root:show_id:220014218226760110486522100000 is repeat!
+INFO:root:show_id:220014218233235550486677100000 is repeat!
+INFO:root:show_id:220014218245101570487024100000 is repeat!
+INFO:root:show_id:220014218246559750487075100000 is repeat!
+INFO:root:show_id:220014218259315150487413100000 is repeat!
+INFO:root:show_id:220014218261120700487486100000 is repeat!
+INFO:root:show_id:220014218261462610487457100000 is repeat!
+INFO:root:show_id:220014218265541090487603100000 is repeat!
+INFO:root:show_id:220014218270778260487777100000 is repeat!
+INFO:root:show_id:220014218288105420488277100000 is repeat!
+INFO:root:show_id:220014218304809040488634100000 is repeat!
+INFO:root:show_id:220014218320263850489054100000 is repeat!
+INFO:root:total: 56, batch:0, step:100
+INFO:root:total: 56, batch:1, step:100
+INFO:root:show_id:220014218869253120489933100000 is repeat!
+INFO:root:show_id:220014218917439060491243100000 is repeat!
+INFO:root:show_id:220014218938385650492001100000 is repeat!
+INFO:root:show_id:220014218942444910492171100000 is repeat!
+INFO:root:show_id:220014218952804520492552100000 is repeat!
+INFO:root:show_id:220014218971437280493097100000 is repeat!
+INFO:root:show_id:220014219079591910494094100000 is repeat!
+INFO:root:show_id:220014219091756440494380100000 is repeat!
+INFO:root:show_id:220014219112331950495063100000 is repeat!
+INFO:root:show_id:220014219113647530495126100000 is repeat!
+INFO:root:show_id:220014219119783090495359100000 is repeat!
+INFO:root:show_id:220014219125139320495530100000 is repeat!
+INFO:root:show_id:220014219128594260495677100000 is repeat!
+INFO:root:show_id:220014219131963870495816100000 is repeat!
+INFO:root:show_id:220014219134383660495866100000 is repeat!
+INFO:root:show_id:220014219138451390495994100000 is repeat!
+INFO:root:show_id:220014219138475350496016100000 is repeat!
+INFO:root:show_id:220014219144379010496215100000 is repeat!
+INFO:root:show_id:220014219149691490496349100000 is repeat!
+INFO:root:show_id:220014219157176840496631100000 is repeat!
+INFO:root:show_id:220014219157957080496679100000 is repeat!
+INFO:root:show_id:220014219165216440496871100000 is repeat!
+INFO:root:show_id:220014219167668160496981100000 is repeat!
+INFO:root:show_id:220014219174254870497292100000 is repeat!
+INFO:root:show_id:220014219182905950497667100000 is repeat!
+INFO:root:show_id:220014219184897620497695100000 is repeat!
+INFO:root:show_id:220014219190798480497888100000 is repeat!
+INFO:root:show_id:220014219241803970498265100000 is repeat!
+INFO:root:total: 68, batch:0, step:100
+INFO:root:total: 68, batch:1, step:100
+INFO:root:show_id:220014219740062630498869100000 is repeat!
+INFO:root:show_id:220014219764372380499613100000 is repeat!
+INFO:root:show_id:220014219777120790500198100000 is repeat!
+INFO:root:show_id:220014219784231220500484100000 is repeat!
+INFO:root:show_id:220014219793018650500801100000 is repeat!
+INFO:root:show_id:220014219817528960501809100000 is repeat!
+INFO:root:show_id:220014219958384980507093100000 is repeat!
+INFO:root:show_id:220014219961036380507203100000 is repeat!
+INFO:root:show_id:220014219963879330507271100000 is repeat!
+INFO:root:show_id:220014219976555340507714100000 is repeat!
+INFO:root:show_id:220014219979814940507842100000 is repeat!
+INFO:root:show_id:220014219984284550508004100000 is repeat!
+INFO:root:show_id:220014219985511250508049100000 is repeat!
+INFO:root:show_id:220014219990544180508261100000 is repeat!
+INFO:root:show_id:220014219994750580508390100000 is repeat!
+INFO:root:show_id:220014219997152240508488100000 is repeat!
+INFO:root:show_id:220014219999893900508615100000 is repeat!
+INFO:root:show_id:220014220000953440508666100000 is repeat!
+INFO:root:show_id:220014220012880890509052100000 is repeat!
+INFO:root:show_id:220014220018346240509232100000 is repeat!
+INFO:root:show_id:220014220029188210509614100000 is repeat!
+INFO:root:show_id:220014220040063220510058100000 is repeat!
+INFO:root:show_id:220014220047810450510300100000 is repeat!
+INFO:root:show_id:220014220128846970510709100000 is repeat!
+INFO:root:show_id:220014220129416730510712100000 is repeat!
+INFO:root:show_id:220014220142798660510755100000 is repeat!
+INFO:root:show_id:220014220162016800510785100000 is repeat!
+INFO:root:total: 10, batch:0, step:100
+INFO:root:total: 10, batch:1, step:100
+INFO:root:show_id:220014220857550300512466100000 is repeat!
+INFO:root:show_id:220014220858116110512471100000 is repeat!
+INFO:root:show_id:220014221140669770513164100000 is repeat!
+INFO:root:total: 14, batch:0, step:100
+INFO:root:total: 14, batch:1, step:100
+INFO:root:show_id:220014221494593340513322100000 is repeat!
+INFO:root:show_id:220014221500166320513324100000 is repeat!
+INFO:root:show_id:220014221812824190514469100000 is repeat!
+INFO:root:show_id:220014221828237450514494100000 is repeat!
+INFO:root:total: 70, batch:0, step:100
+INFO:root:total: 70, batch:1, step:100
+INFO:root:show_id:220014222352255190515860100000 is repeat!
+INFO:root:show_id:220014222357664700516031100000 is repeat!
+INFO:root:show_id:220014222362997150516286100000 is repeat!
+INFO:root:show_id:220014222367299050516453100000 is repeat!
+INFO:root:show_id:220014222381951390517154100000 is repeat!
+INFO:root:show_id:220014222387684620517395100000 is repeat!
+INFO:root:show_id:220014222394043280517707100000 is repeat!
+INFO:root:show_id:220014222395895840517769100000 is repeat!
+INFO:root:show_id:220014222402452770518039100000 is repeat!
+INFO:root:show_id:220014222407997590518259100000 is repeat!
+INFO:root:show_id:220014222409054670518303100000 is repeat!
+INFO:root:show_id:220014222411810100518426100000 is repeat!
+INFO:root:show_id:220014222416194420518555100000 is repeat!
+INFO:root:show_id:220014222538986590520280100000 is repeat!
+INFO:root:show_id:220014222541895740520328100000 is repeat!
+INFO:root:show_id:220014222559322320520905100000 is repeat!
+INFO:root:show_id:220014222565833930521211100000 is repeat!
+INFO:root:show_id:220014222573292430521513100000 is repeat!
+INFO:root:show_id:220014222574188240521570100000 is repeat!
+INFO:root:show_id:220014222584037210521956100000 is repeat!
+INFO:root:show_id:220014222586363980522026100000 is repeat!
+INFO:root:show_id:220014222589875880522182100000 is repeat!
+INFO:root:show_id:220014222592891300522328100000 is repeat!
+INFO:root:show_id:220014222605707240522848100000 is repeat!
+INFO:root:show_id:220014222612676400523115100000 is repeat!
+INFO:root:show_id:220014222613679320523131100000 is repeat!
+INFO:root:show_id:220014222617386460523350100000 is repeat!
+INFO:root:show_id:220014222729248090524592100000 is repeat!
+INFO:root:total: 105, batch:0, step:100
+INFO:root:total: 105, batch:1, step:100
+INFO:root:total: 105, batch:2, step:100
+INFO:root:show_id:220014223182422130525131100000 is repeat!
+INFO:root:show_id:220014223194428840525283100000 is repeat!
+INFO:root:show_id:220014223197286360525362100000 is repeat!
+INFO:root:show_id:220014223201512360525488100000 is repeat!
+INFO:root:show_id:220014223205748790525596100000 is repeat!
+INFO:root:show_id:220014223208437040525644100000 is repeat!
+INFO:root:show_id:220014223212538160525729100000 is repeat!
+INFO:root:show_id:220014223217953390525949100000 is repeat!
+INFO:root:show_id:220014223219514470526005100000 is repeat!
+INFO:root:show_id:220014223222256740526122100000 is repeat!
+INFO:root:show_id:220014223226165090526285100000 is repeat!
+INFO:root:show_id:220014223226925550526287100000 is repeat!
+INFO:root:show_id:220014223228549030526371100000 is repeat!
+INFO:root:show_id:220014223231804000526520100000 is repeat!
+INFO:root:show_id:220014223235300450526678100000 is repeat!
+INFO:root:show_id:220014223238369260526788100000 is repeat!
+INFO:root:show_id:220014223240395790526860100000 is repeat!
+INFO:root:show_id:220014223248325090527276100000 is repeat!
+INFO:root:show_id:220014223256029360527605100000 is repeat!
+INFO:root:show_id:220014223273484190528330100000 is repeat!
+INFO:root:show_id:220014223280209030528588100000 is repeat!
+INFO:root:show_id:220014223283582370528739100000 is repeat!
+INFO:root:show_id:220014223297759350529179100000 is repeat!
+INFO:root:show_id:220014223305837160529314100000 is repeat!
+INFO:root:show_id:220014223315374150529467100000 is repeat!
+INFO:root:show_id:220014223321394290529474100000 is repeat!
+INFO:root:show_id:220014223333345080529525100000 is repeat!
+INFO:root:show_id:220014223345195540529571100000 is repeat!
+INFO:root:show_id:220014223351380010529616100000 is repeat!
+INFO:root:show_id:220014223362324970529676100000 is repeat!
+INFO:root:show_id:220014223367299450529717100000 is repeat!
+INFO:root:show_id:220014223372551220529744100000 is repeat!
+INFO:root:show_id:220014223377342870529807100000 is repeat!
+INFO:root:show_id:220014223401879610530217100000 is repeat!
+INFO:root:show_id:220014223402282950530221100000 is repeat!
+INFO:root:show_id:220014223411493210530482100000 is repeat!
+INFO:root:show_id:220014223415103120530564100000 is repeat!
+INFO:root:show_id:220014223434197620531233100000 is repeat!
+INFO:root:show_id:220014223436694160531350100000 is repeat!
+INFO:root:show_id:220014223438959150531441100000 is repeat!
+INFO:root:show_id:220014223440087390531474100000 is repeat!
+INFO:root:show_id:220014223442436360531550100000 is repeat!
+INFO:root:show_id:220014223446248570531681100000 is repeat!
+INFO:root:show_id:220014223453168320531959100000 is repeat!
+INFO:root:show_id:220014223459291980532163100000 is repeat!
+INFO:root:show_id:220014223464826550532404100000 is repeat!
+INFO:root:show_id:220014223466598170532481100000 is repeat!
+INFO:root:show_id:220014223467789440532504100000 is repeat!
+INFO:root:show_id:220014223470674510532573100000 is repeat!
+INFO:root:show_id:220014223471430930532658100000 is repeat!
+INFO:root:show_id:220014223481941410533029100000 is repeat!
+INFO:root:show_id:220014223483128870533014100000 is repeat!
+INFO:root:show_id:220014223494061590533384100000 is repeat!
+INFO:root:show_id:220014223495609190533457100000 is repeat!
+INFO:root:show_id:220014223498593610533542100000 is repeat!
+INFO:root:show_id:220014223500364930533554100000 is repeat!
+INFO:root:show_id:220014223501618780533604100000 is repeat!
+INFO:root:show_id:220014223502789770533613100000 is repeat!
+INFO:root:show_id:220014223505655890533683100000 is repeat!
+INFO:root:show_id:220014223513867980533917100000 is repeat!
+INFO:root:show_id:220014223624963620534231100000 is repeat!
+INFO:root:show_id:220014223639289850534297100000 is repeat!
+INFO:root:show_id:220014223651277170534300100000 is repeat!
+INFO:root:show_id:220014223660639870534303100000 is repeat!
+INFO:root:show_id:220014223670552340534307100000 is repeat!
+INFO:root:show_id:220014223683838750534401100000 is repeat!
+INFO:root:show_id:220014223694984900534409100000 is repeat!
+INFO:root:total: 62, batch:0, step:100
+INFO:root:total: 62, batch:1, step:100
+INFO:root:show_id:201412121338118590000007009707 is repeat!
+INFO:root:show_id:201412121348271560000008009707 is repeat!
+INFO:root:show_id:201412121411046800000009009707 is repeat!
+INFO:root:show_id:201412121482262500000010009707 is repeat!
+INFO:root:show_id:201512816311285900000012009707 is repeat!
+INFO:root:show_id:220014224093349030535803100000 is repeat!
+INFO:root:show_id:220014224104251490536233100000 is repeat!
+INFO:root:show_id:220014224109766630536452100000 is repeat!
+INFO:root:show_id:220014224111997670536577100000 is repeat!
+INFO:root:show_id:220014224124808350537090100000 is repeat!
+INFO:root:show_id:220014224125939500537110100000 is repeat!
+INFO:root:show_id:220014224128844300537244100000 is repeat!
+INFO:root:show_id:220014224152168000538093100000 is repeat!
+INFO:root:show_id:220014224185739040538739100000 is repeat!
+INFO:root:show_id:220014224286692630540126100000 is repeat!
+INFO:root:show_id:220014224296960070540558100000 is repeat!
+INFO:root:show_id:220014224297711260540542100000 is repeat!
+INFO:root:show_id:220014224305523550540846100000 is repeat!
+INFO:root:show_id:220014224313317190541180100000 is repeat!
+INFO:root:show_id:220014224319660070541481100000 is repeat!
+INFO:root:show_id:220014224330431340541873100000 is repeat!
+INFO:root:show_id:220014224354619420542843100000 is repeat!
+INFO:root:show_id:220014224377641450543739100000 is repeat!
+INFO:root:show_id:220014224382041040543753100000 is repeat!
+INFO:root:show_id:220014224383075750543796100000 is repeat!
+INFO:root:show_id:220014224449356070544120100000 is repeat!
+INFO:root:show_id:220014224475538530544263100000 is repeat!
+INFO:root:total: 81, batch:0, step:100
+INFO:root:total: 81, batch:1, step:100
+INFO:root:show_id:220014224925109490544903100000 is repeat!
+INFO:root:show_id:220014224934135840545152100000 is repeat!
+INFO:root:show_id:220014224935721110545188100000 is repeat!
+INFO:root:show_id:220014224937250460545240100000 is repeat!
+INFO:root:show_id:220014224938700020545270100000 is repeat!
+INFO:root:show_id:220014224940373120545329100000 is repeat!
+INFO:root:show_id:220014224944911930545536100000 is repeat!
+INFO:root:show_id:220014224946702950545584100000 is repeat!
+INFO:root:show_id:220014224946839830545604100000 is repeat!
+INFO:root:show_id:220014225002760080547735100000 is repeat!
+INFO:root:show_id:220014225116820960549351100000 is repeat!
+INFO:root:show_id:220014225121941490549439100000 is repeat!
+INFO:root:show_id:220014225152438650550258100000 is repeat!
+INFO:root:show_id:220014225154274280550293100000 is repeat!
+INFO:root:show_id:220014225158513600550429100000 is repeat!
+INFO:root:show_id:220014225160370130550518100000 is repeat!
+INFO:root:show_id:220014225162212950550569100000 is repeat!
+INFO:root:show_id:220014225162571200550595100000 is repeat!
+INFO:root:show_id:220014225171990570550980100000 is repeat!
+INFO:root:show_id:220014225174600540551082100000 is repeat!
+INFO:root:show_id:220014225188900540551622100000 is repeat!
+INFO:root:show_id:220014225192997310551766100000 is repeat!
+INFO:root:show_id:220014225200642410552010100000 is repeat!
+INFO:root:show_id:220014225205042010552158100000 is repeat!
+INFO:root:show_id:220014225206961570552235100000 is repeat!
+INFO:root:show_id:220014225214007620552422100000 is repeat!
+INFO:root:show_id:220014225219963240552673100000 is repeat!
+INFO:root:show_id:220014225222249860552744100000 is repeat!
+INFO:root:show_id:220014225235665100553018100000 is repeat!
+INFO:root:show_id:220014225243856920553136100000 is repeat!
+INFO:root:total: 71, batch:0, step:100
+INFO:root:total: 71, batch:1, step:100
+INFO:root:show_id:220014225799201000554764100000 is repeat!
+INFO:root:show_id:220014225804397670554941100000 is repeat!
+INFO:root:show_id:220014225805319360555022100000 is repeat!
+INFO:root:show_id:220014225809690460555217100000 is repeat!
+INFO:root:show_id:220014225821812910555739100000 is repeat!
+INFO:root:show_id:220014225829532190556044100000 is repeat!
+INFO:root:show_id:220014225833081840556195100000 is repeat!
+INFO:root:show_id:220014225838400690556388100000 is repeat!
+INFO:root:show_id:220014225876288960557971100000 is repeat!
+INFO:root:show_id:220014225893154710558475100000 is repeat!
+INFO:root:show_id:220014225901466240558628100000 is repeat!
+INFO:root:show_id:220014225992711260559549100000 is repeat!
+INFO:root:show_id:220014225996631960559676100000 is repeat!
+INFO:root:show_id:220014226004787540559923100000 is repeat!
+INFO:root:show_id:220014226005042970559935100000 is repeat!
+INFO:root:show_id:220014226005457080559966100000 is repeat!
+INFO:root:show_id:220014226012451360560196100000 is repeat!
+INFO:root:show_id:220014226013683980560277100000 is repeat!
+INFO:root:show_id:220014226013686280560280100000 is repeat!
+INFO:root:show_id:220014226013980660560279100000 is repeat!
+INFO:root:show_id:220014226019530790560493100000 is repeat!
+INFO:root:show_id:220014226025044280560763100000 is repeat!
+INFO:root:show_id:220014226027914040560854100000 is repeat!
+INFO:root:show_id:220014226034017080561094100000 is repeat!
+INFO:root:show_id:220014226038149460561300100000 is repeat!
+INFO:root:show_id:220014226045655880561584100000 is repeat!
+INFO:root:show_id:220014226046145410561595100000 is repeat!
+INFO:root:show_id:220014226052053710561860100000 is repeat!
+INFO:root:show_id:220014226052628960561885100000 is repeat!
+INFO:root:show_id:220014226054338930561955100000 is repeat!
+INFO:root:show_id:220014226055896740561996100000 is repeat!
+INFO:root:show_id:220014226057424890562050100000 is repeat!
+INFO:root:show_id:220014226060449720562169100000 is repeat!
+INFO:root:show_id:220014226062915110562269100000 is repeat!
+INFO:root:show_id:220014226070115760562504100000 is repeat!
+INFO:root:show_id:220014226079581750562842100000 is repeat!
+INFO:root:show_id:220014226113242800563513100000 is repeat!
+INFO:root:show_id:220014226115347020563579100000 is repeat!
+INFO:root:show_id:220014226125726800563659100000 is repeat!
+INFO:root:show_id:220014226132840400563675100000 is repeat!
+INFO:root:total: 27, batch:0, step:100
+INFO:root:total: 27, batch:1, step:100
+INFO:root:show_id:220014226736563310565454100000 is repeat!
+INFO:root:show_id:220014226769144390565807100000 is repeat!
+INFO:root:show_id:220014226775295330565869100000 is repeat!
+INFO:root:show_id:220014226803744790565979100000 is repeat!
+INFO:root:show_id:220014226816810660566011100000 is repeat!
+INFO:root:show_id:220014226913749440566611100000 is repeat!
+INFO:root:show_id:220014226921597540566700100000 is repeat!
+INFO:root:show_id:220014226928305330566778100000 is repeat!
+INFO:root:show_id:220014226934116520566845100000 is repeat!
+INFO:root:show_id:220014226939782830566897100000 is repeat!
+INFO:root:show_id:220014226944593260566943100000 is repeat!
+INFO:root:show_id:220014226967559780567087100000 is repeat!
+INFO:root:show_id:220014226986590860567155100000 is repeat!

@@ -1,0 +1,37 @@
+# coding:utf-8
+2015��0831�ع�˵���ĵ�
+1��MDRץȡ���ص��ԣ�
+2���޸�MDR bug
+3���ع���������Ϣҵ��bug����ȱ���ظ���
+��е���������������¼�������Ϣ��mdr_appraise�ṹ���£�
+CREATE TABLE `mdr_appraise` (
+  `id` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `BianMa` varchar(20) NOT NULL COMMENT '����',
+  `Obj_id` varchar(48) NOT NULL COMMENT 'obj_id',
+  `AppraiseConclusion` varchar(4) NOT NULL COMMENT '���۽���',
+  `ReportRequirement` varchar(1) NOT NULL COMMENT '�Ƿ���ϱ���Ҫ��',
+  `ReportPreliminaryAnalysisOfEvents` varchar(64) NOT NULL COMMENT '�¼�����ԭ�����',
+  `AppraiseMemo` varchar(128) DEFAULT NULL COMMENT '��ע',
+  `AppraiseUnitName` varchar(64) NOT NULL COMMENT '���۵�λ',
+  `AppraiseMan` varchar(16) NOT NULL COMMENT '������',
+  `AppraiseDate` varchar(16) DEFAULT NULL COMMENT '����ʱ��',
+  `AppraiseTimestamp` timestamp NULL DEFAULT NULL,
+  `DateTag` date DEFAULT NULL COMMENT '������ʱ����ʱ��',
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=43 DEFAULT CHARSET=utf8 COMMENT='�����¼�������Ϣ��';
+
+4)��deletedance.py�м���
+    #ɾ�������ӵĲ����¼�������Ϣ��mdr_appraise����������20150831
+    mycu.execute("delete from mdr_appraise where AppraiseDate>='%s' and AppraiseDate<='%s'" % (t1, t2))
+    myconn.commit()
+5����ADR��MDR��ѯ��ͳһ�Ż�����limit 1��������ܡ�
+6�����ԣ�MDR����2015-01-05-06��OK
+7)�������غ�����е����
+delete from mdr_business_gather;
+delete from mdr_adrbusiness;
+delete from mdr_faultbusiness;
+delete from mdr_icdbusiness;
+delete from mdr_devicebusiness;
+delete from mdr_errorlist;
+delete from mdr_reports;
+delete from mdr_appraise;

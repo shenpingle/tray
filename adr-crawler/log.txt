@@ -1,0 +1,120 @@
+application start run time:2015-09-12 17:46:35
+total:780
+page:8
+application start run time:2015-09-12 18:13:52
+total:780
+page:8
+application start run time:2015-09-12 18:21:04
+total:780
+page:8
+application start run time:2015-09-12 18:22:24
+total:780
+page:8
+application start run time:2015-09-12 18:24:59
+total:780
+page:8
+application start run time:2015-09-12 18:26:15
+total:780
+page:8
+application start run time:2015-09-12 18:34:29
+total:780
+page:8
+application start run time:2015-09-12 18:37:04
+total:780
+page:8
+application start run time:2015-09-12 18:43:20
+total:780
+page:8
+application start run time:2015-09-12 18:46:41
+total:780
+page:8
+application start run time:2015-09-12 18:56:33
+total:780
+page:8
+application start run time:2015-09-12 19:05:55
+total:780
+page:8
+application start run time:2015-09-19 16:39:33
+total:780
+page:8
+application start run time:2015-09-19 16:39:53
+total:780
+page:8
+application start run time:2015-10-17 13:05:38
+total:6453
+page:65
+application start run time:2015-10-17 13:14:19
+total:6453
+page:65
+application start run time:2015-10-17 13:31:08
+total:6453
+page:65
+application start run time:2015-10-17 13:37:23
+total:6453
+page:65
+application start run time:2015-10-17 13:46:31
+total:6453
+page:65
+application start run time:2015-10-17 13:48:27
+total:6453
+page:65
+application start run time:2015-10-17 13:49:16
+total:6453
+page:65
+application start run time:2015-10-17 13:50:37
+total:6453
+page:65
+application start run time:2015-10-17 13:57:03
+total:6453
+page:65
+application start run time:2015-10-17 14:00:56
+total:1981
+page:20
+application start run time:2015-10-17 14:01:57
+total:883
+page:9
+application start run time:2015-10-17 14:56:13
+total:883
+page:9
+application start run time:2015-10-18 13:04:28
+total:883
+page:9
+application start run time:2015-10-18 13:09:32
+total:883
+page:9
+application start run time:2015-10-18 13:11:59
+total:883
+page:9
+application start run time:2015-10-18 13:24:15
+total:883
+page:9
+application start run time:2015-10-18 13:43:37
+total:883
+page:9
+application start run time:2015-10-18 13:57:46
+total:883
+page:9
+application start run time:2015-10-18 14:50:16
+total:883
+page:9
+application start run time:2015-10-18 14:54:33
+total:883
+page:9
+application start run time:2015-10-18 15:10:37
+total:883
+page:9
+application start run time:2015-10-18 15:27:50
+total:883
+page:9
+application start run time:2015-11-01 22:30:29
+total:316
+page:4
+application start run time:2015-11-01 22:30:50
+total:316
+page:4
+application start run time:2015-11-01 22:32:42
+total:316
+page:4
+application start run time:2015-11-01 22:48:47
+total:316
+page:4

@@ -1,0 +1,1142 @@
+__main__: None -> <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\_pyi_bootstrap.py imports=[('sys', 0, 0, -1), ('os', 0, 0, -1), ('pyi_archive', 0, 0, -1), ('pyi_os_path', 0, 0, -1), ('site', 0, 0, -1), ('pyi_importers', 0, 0, -1), ('warnings', 0, 1, -1), ('encodings', 0, 0, -1)] binaries=[] datas=[]>
+sys: None -> <BuiltinModule 'sys' None imports=[] binaries=[] datas=[]>
+os: None -> <PyModule 'os' c:\Python27\lib\os.pyc imports=[('subprocess', 1, 0, -1), ('os.path.pardir', 0, 0, -1), ('copy_reg', 0, 0, -1), ('os.path.altsep', 0, 0, -1), ('os.path.devnull', 0, 0, -1), ('posix._exit', 0, 1, -1), ('nt._exit', 0, 1, -1), ('posix', 0, 1, -1), ('os.path.extsep', 0, 0, -1), ('posix.*', 0, 1, -1), ('os.path.pathsep', 0, 0, -1), ('os.path', 0, 0, -1), ('warnings', 1, 0, -1), ('errno', 0, 0, -1), ('posixpath', 0, 1, -1), ('sys', 0, 0, -1), ('UserDict', 0, 1, -1), ('os.path.sep', 0, 0, -1), ('_emx_link', 0, 1, -1), ('ntpath', 0, 1, -1), ('os.path.defpath', 0, 0, -1), ('os2emxpath', 0, 1, -1), ('_emx_link.link', 0, 1, -1), ('nt.*', 0, 1, -1), ('nt', 0, 1, -1), ('os.path.curdir', 0, 0, -1)] binaries=[] datas=[]>
+pyi_archive: None -> <PyModule 'pyi_archive' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_archive.pyc imports=[('imp', 0, 0, -1), ('sys', 0, 0, -1), ('marshal', 0, 0, -1), ('os', 1, 1, -1), ('struct', 0, 0, -1), ('imp', 1, 0, -1)] binaries=[] datas=[]>
+pyi_os_path: None -> <PyModule 'pyi_os_path' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_os_path.pyc imports=[('sys', 0, 0, -1), ('posix.environ', 0, 1, -1), ('nt.listdir', 0, 1, -1), ('nt.environ', 0, 1, -1), ('posix', 0, 1, -1), ('posix.listdir', 0, 1, -1), ('nt', 0, 1, -1)] binaries=[] datas=[]>
+site: None -> <PyModule 'site' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\fake\fake-site.pyc imports=[('pydoc', 1, 0, -1)] binaries=[] datas=[]>
+pyi_importers: None -> <PyModule 'pyi_importers' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_importers.pyc imports=[('pyi_archive.ZlibArchive', 0, 0, -1), ('imp', 0, 0, -1), ('sys', 0, 0, -1), ('pyi_archive.ArchiveReadError', 0, 0, -1), ('pyi_archive', 0, 0, -1), ('pyi_os_path', 0, 0, -1)] binaries=[] datas=[]>
+warnings: None -> <PyModule 'warnings' c:\Python27\lib\warnings.pyc imports=[('linecache', 0, 0, -1), ('_warnings.default_action', 0, 0, -1), ('sys', 0, 0, -1), ('_warnings', 0, 0, -1), ('types', 0, 0, -1), ('_warnings.warn', 0, 0, -1), ('_warnings.once_registry', 0, 0, -1), ('_warnings.filters', 0, 0, -1), ('_warnings.warn_explicit', 0, 0, -1), ('re', 1, 0, -1)] binaries=[] datas=[]>
+encodings: None -> <PkgModule 'encodings' c:\Python27\lib\encodings\__init__.pyc imports=[('encodings', 0, 0, -1), ('codecs', 0, 0, -1), ('encodings.aliases', 0, 0, -1), ('__builtin__', 0, 0, -1), ('encodings.aliases', 0, 0, -1), ('encodings.ascii', 0, 0, -1), ('encodings.base64_codec', 0, 0, -1), ('encodings.big5', 0, 0, -1), ('encodings.big5hkscs', 0, 0, -1), ('encodings.bz2_codec', 0, 0, -1), ('encodings.charmap', 0, 0, -1), ('encodings.cp037', 0, 0, -1), ('encodings.cp1006', 0, 0, -1), ('encodings.cp1026', 0, 0, -1), ('encodings.cp1140', 0, 0, -1), ('encodings.cp1250', 0, 0, -1), ('encodings.cp1251', 0, 0, -1), ('encodings.cp1252', 0, 0, -1), ('encodings.cp1253', 0, 0, -1), ('encodings.cp1254', 0, 0, -1), ('encodings.cp1255', 0, 0, -1), ('encodings.cp1256', 0, 0, -1), ('encodings.cp1257', 0, 0, -1), ('encodings.cp1258', 0, 0, -1), ('encodings.cp424', 0, 0, -1), ('encodings.cp437', 0, 0, -1), ('encodings.cp500', 0, 0, -1), ('encodings.cp720', 0, 0, -1), ('encodings.cp737', 0, 0, -1), ('encodings.cp775', 0, 0, -1), ('encodings.cp850', 0, 0, -1), ('encodings.cp852', 0, 0, -1), ('encodings.cp855', 0, 0, -1), ('encodings.cp856', 0, 0, -1), ('encodings.cp857', 0, 0, -1), ('encodings.cp858', 0, 0, -1), ('encodings.cp860', 0, 0, -1), ('encodings.cp861', 0, 0, -1), ('encodings.cp862', 0, 0, -1), ('encodings.cp863', 0, 0, -1), ('encodings.cp864', 0, 0, -1), ('encodings.cp865', 0, 0, -1), ('encodings.cp866', 0, 0, -1), ('encodings.cp869', 0, 0, -1), ('encodings.cp874', 0, 0, -1), ('encodings.cp875', 0, 0, -1), ('encodings.cp932', 0, 0, -1), ('encodings.cp949', 0, 0, -1), ('encodings.cp950', 0, 0, -1), ('encodings.euc_jisx0213', 0, 0, -1), ('encodings.euc_jis_2004', 0, 0, -1), ('encodings.euc_jp', 0, 0, -1), ('encodings.euc_kr', 0, 0, -1), ('encodings.gb18030', 0, 0, -1), ('encodings.gb2312', 0, 0, -1), ('encodings.gbk', 0, 0, -1), ('encodings.hex_codec', 0, 0, -1), ('encodings.hp_roman8', 0, 0, -1), ('encodings.hz', 0, 0, -1), ('encodings.idna', 0, 0, -1), ('encodings.iso2022_jp', 0, 0, -1), ('encodings.iso2022_jp_1', 0, 0, -1), ('encodings.iso2022_jp_2', 0, 0, -1), ('encodings.iso2022_jp_2004', 0, 0, -1), ('encodings.iso2022_jp_3', 0, 0, -1), ('encodings.iso2022_jp_ext', 0, 0, -1), ('encodings.iso2022_kr', 0, 0, -1), ('encodings.iso8859_1', 0, 0, -1), ('encodings.iso8859_10', 0, 0, -1), ('encodings.iso8859_11', 0, 0, -1), ('encodings.iso8859_13', 0, 0, -1), ('encodings.iso8859_14', 0, 0, -1), ('encodings.iso8859_15', 0, 0, -1), ('encodings.iso8859_16', 0, 0, -1), ('encodings.iso8859_2', 0, 0, -1), ('encodings.iso8859_3', 0, 0, -1), ('encodings.iso8859_4', 0, 0, -1), ('encodings.iso8859_5', 0, 0, -1), ('encodings.iso8859_6', 0, 0, -1), ('encodings.iso8859_7', 0, 0, -1), ('encodings.iso8859_8', 0, 0, -1), ('encodings.iso8859_9', 0, 0, -1), ('encodings.johab', 0, 0, -1), ('encodings.koi8_r', 0, 0, -1), ('encodings.koi8_u', 0, 0, -1), ('encodings.latin_1', 0, 0, -1), ('encodings.mac_arabic', 0, 0, -1), ('encodings.mac_centeuro', 0, 0, -1), ('encodings.mac_croatian', 0, 0, -1), ('encodings.mac_cyrillic', 0, 0, -1), ('encodings.mac_farsi', 0, 0, -1), ('encodings.mac_greek', 0, 0, -1), ('encodings.mac_iceland', 0, 0, -1), ('encodings.mac_latin2', 0, 0, -1), ('encodings.mac_roman', 0, 0, -1), ('encodings.mac_romanian', 0, 0, -1), ('encodings.mac_turkish', 0, 0, -1), ('encodings.mbcs', 0, 0, -1), ('encodings.palmos', 0, 0, -1), ('encodings.ptcp154', 0, 0, -1), ('encodings.punycode', 0, 0, -1), ('encodings.quopri_codec', 0, 0, -1), ('encodings.raw_unicode_escape', 0, 0, -1), ('encodings.rot_13', 0, 0, -1), ('encodings.shift_jis', 0, 0, -1), ('encodings.shift_jisx0213', 0, 0, -1), ('encodings.shift_jis_2004', 0, 0, -1), ('encodings.string_escape', 0, 0, -1), ('encodings.tis_620', 0, 0, -1), ('encodings.undefined', 0, 0, -1), ('encodings.unicode_escape', 0, 0, -1), ('encodings.unicode_internal', 0, 0, -1), ('encodings.utf_16', 0, 0, -1), ('encodings.utf_16_be', 0, 0, -1), ('encodings.utf_16_le', 0, 0, -1), ('encodings.utf_32', 0, 0, -1), ('encodings.utf_32_be', 0, 0, -1), ('encodings.utf_32_le', 0, 0, -1), ('encodings.utf_7', 0, 0, -1), ('encodings.utf_8', 0, 0, -1), ('encodings.utf_8_sig', 0, 0, -1), ('encodings.uu_codec', 0, 0, -1), ('encodings.zlib_codec', 0, 0, -1)] binaries=[] datas=[]>
+subprocess: None -> <PyModule 'subprocess' c:\Python27\lib\subprocess.pyc imports=[('_subprocess.SW_HIDE', 0, 1, -1), ('gc', 0, 0, -1), ('_subprocess.STARTF_USESHOWWINDOW', 0, 1, -1), ('_subprocess', 0, 1, -1), ('sys', 0, 0, -1), ('_subprocess.STARTF_USESTDHANDLES', 0, 1, -1), ('types', 0, 0, -1), ('fcntl', 0, 1, -1), ('os', 0, 0, -1), ('threading', 0, 1, -1), ('_subprocess.STD_INPUT_HANDLE', 0, 1, -1), ('msvcrt', 0, 1, -1), ('_subprocess.CREATE_NEW_PROCESS_GROUP', 0, 1, -1), ('_subprocess.STD_OUTPUT_HANDLE', 0, 1, -1), ('traceback', 0, 0, -1), ('_subprocess.CREATE_NEW_CONSOLE', 0, 1, -1), ('errno', 0, 0, -1), ('signal', 0, 0, -1), ('pickle', 0, 1, -1), ('select', 0, 1, -1), ('_subprocess.STD_ERROR_HANDLE', 0, 1, -1)] binaries=[] datas=[]>
+copy_reg: None -> <PyModule 'copy_reg' c:\Python27\lib\copy_reg.pyc imports=[('types.ClassType', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+nt: None -> <BuiltinModule 'nt' None imports=[] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+errno: None -> <BuiltinModule 'errno' None imports=[] binaries=[] datas=[]>
+posixpath: None -> <PyModule 'posixpath' c:\Python27\lib\posixpath.pyc imports=[('re', 1, 1, -1), ('pwd', 1, 1, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('warnings', 0, 0, -1), ('genericpath', 0, 0, -1), ('stat', 0, 0, -1), ('genericpath._unicode', 0, 0, -1), ('genericpath.*', 0, 0, -1)] binaries=[] datas=[]>
+UserDict: None -> <PyModule 'UserDict' c:\Python27\lib\UserDict.pyc imports=[('_abcoll', 0, 0, -1), ('warnings', 1, 1, -1), ('copy', 1, 0, -1)] binaries=[] datas=[]>
+_emx_link: None -> None
+  DEL _emx_link
+ntpath: None -> <PyModule 'ntpath' c:\Python27\lib\ntpath.pyc imports=[('sys', 0, 0, -1), ('os', 0, 0, -1), ('nt._getfullpathname', 0, 0, -1), ('warnings', 0, 0, -1), ('nt._isdir', 0, 0, -1), ('nt', 0, 0, -1), ('genericpath', 0, 0, -1), ('stat', 0, 0, -1), ('genericpath._unicode', 0, 0, -1), ('string', 1, 0, -1), ('genericpath.*', 0, 0, -1)] binaries=[] datas=[]>
+os2emxpath: None -> <PyModule 'os2emxpath' c:\Python27\lib\os2emxpath.pyc imports=[('ntpath.splitdrive', 0, 0, -1), ('ntpath.walk', 0, 0, -1), ('os', 0, 0, -1), ('ntpath.islink', 0, 0, -1), ('ntpath.splitext', 0, 0, -1), ('genericpath', 0, 0, -1), ('stat', 0, 0, -1), ('ntpath.isabs', 0, 0, -1), ('ntpath.split', 0, 0, -1), ('genericpath._unicode', 0, 0, -1), ('ntpath.expanduser', 0, 0, -1), ('genericpath.*', 0, 0, -1), ('ntpath.expandvars', 0, 0, -1), ('ntpath', 0, 0, -1)] binaries=[] datas=[]>
+_emx_link: None -> None
+  DEL _emx_link
+_subprocess: None -> <BuiltinModule '_subprocess' None imports=[] binaries=[] datas=[]>
+gc: None -> <BuiltinModule 'gc' None imports=[] binaries=[] datas=[]>
+types: None -> <PyModule 'types' c:\Python27\lib\types.pyc imports=[('sys', 0, 0, -1)] binaries=[] datas=[]>
+fcntl: None -> None
+  DEL fcntl
+threading: None -> <PyModule 'threading' c:\Python27\lib\threading.pyc imports=[('collections.deque', 0, 0, -1), ('random.random', 1, 0, -1), ('itertools', 0, 0, -1), ('_threading_local.local', 0, 1, -1), ('sys', 0, 0, -1), ('collections', 0, 0, -1), ('thread._local', 0, 0, -1), ('traceback.format_exc', 0, 0, -1), ('warnings', 0, 0, -1), ('time.time', 0, 0, -1), ('thread', 0, 0, -1), ('thread.stack_size', 0, 0, -1), ('traceback', 0, 0, -1), ('time.sleep', 0, 0, -1), ('itertools.count', 0, 0, -1), ('random', 1, 0, -1), ('time', 0, 0, -1), ('_threading_local', 0, 1, -1)] binaries=[] datas=[]>
+msvcrt: None -> <BuiltinModule 'msvcrt' None imports=[] binaries=[] datas=[]>
+traceback: None -> <PyModule 'traceback' c:\Python27\lib\traceback.pyc imports=[('linecache', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+signal: None -> <BuiltinModule 'signal' None imports=[] binaries=[] datas=[]>
+pickle: None -> <PyModule 'pickle' c:\Python27\lib\pickle.pyc imports=[('re', 0, 0, -1), ('copy_reg.dispatch_table', 0, 0, -1), ('types.*', 0, 0, -1), ('marshal', 0, 0, -1), ('types', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('struct', 0, 0, -1), ('org.python.core', 0, 0, -1), ('copy_reg', 0, 0, -1), ('cStringIO', 0, 0, -1), ('copy_reg._extension_cache', 0, 0, -1), ('doctest', 1, 0, -1), ('StringIO', 0, 1, -1), ('copy_reg._inverted_registry', 0, 0, -1), ('binascii', 0, 0, -1), ('copy_reg._extension_registry', 0, 0, -1), ('org.python.core.PyStringMap', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+select: None -> <ExtensionModule 'select' c:\Python27\DLLs\select.pyd imports=[] binaries=[] datas=[]>
+collections: None -> <PyModule 'collections' c:\Python27\lib\collections.pyc imports=[('keyword.iskeyword', 0, 0, -1), ('cPickle.loads', 0, 1, -1), ('itertools.repeat', 0, 0, -1), ('cPickle.dumps', 0, 1, -1), ('_collections', 0, 0, -1), ('_abcoll.*', 0, 0, -1), ('itertools', 0, 0, -1), ('itertools.starmap', 0, 0, -1), ('sys', 0, 0, -1), ('cPickle', 0, 1, -1), ('doctest', 0, 1, -1), ('_collections.defaultdict', 0, 0, -1), ('heapq', 0, 0, -1), ('dummy_thread', 0, 1, -1), ('itertools.imap', 0, 0, -1), ('_abcoll', 0, 0, -1), ('operator.eq', 0, 0, -1), ('itertools.chain', 0, 0, -1), ('keyword', 0, 0, -1), ('thread', 0, 0, -1), ('operator.itemgetter', 0, 0, -1), ('dummy_thread.get_ident', 0, 1, -1), ('operator', 0, 0, -1), ('_collections.deque', 0, 0, -1), ('thread.get_ident', 0, 0, -1)] binaries=[] datas=[]>
+random: None -> <PyModule 'random' c:\Python27\lib\random.pyc imports=[('os', 0, 0, -1), ('warnings', 0, 0, -1), ('__future__', 0, 0, -1), ('hashlib', 0, 0, -1), ('math.log', 0, 0, -1), ('math.cos', 0, 0, -1), ('time', 1, 1, -1), ('math.sin', 0, 0, -1), ('math.sqrt', 0, 0, -1), ('math', 0, 0, -1), ('__future__.division', 0, 0, -1), ('os.urandom', 0, 0, -1), ('binascii', 0, 0, -1), ('_random', 0, 0, -1), ('math.acos', 0, 0, -1), ('types', 0, 0, -1), ('types.BuiltinMethodType', 0, 0, -1), ('binascii.hexlify', 0, 0, -1), ('types.MethodType', 0, 0, -1), ('math.exp', 0, 0, -1), ('time', 1, 0, -1), ('math.pi', 0, 0, -1), ('math.e', 0, 0, -1), ('math.ceil', 0, 0, -1), ('warnings.warn', 0, 0, -1)] binaries=[] datas=[]>
+itertools: None -> <BuiltinModule 'itertools' None imports=[] binaries=[] datas=[]>
+_threading_local: None -> <PyModule '_threading_local' c:\Python27\lib\_threading_local.pyc imports=[('threading.current_thread', 0, 0, -1), ('threading', 0, 0, -1), ('threading.RLock', 0, 0, -1), ('threading', 1, 0, -1)] binaries=[] datas=[]>
+thread: None -> <BuiltinModule 'thread' None imports=[] binaries=[] datas=[]>
+time: None -> <BuiltinModule 'time' None imports=[('_strptime', 0, 0, -1)] binaries=[] datas=[]>
+keyword: None -> <PyModule 'keyword' c:\Python27\lib\keyword.pyc imports=[('sys', 1, 0, -1), ('re', 1, 0, -1)] binaries=[] datas=[]>
+cPickle: None -> <BuiltinModule 'cPickle' None imports=[('copy_reg', 0, 0, -1), ('types', 0, 0, -1), ('string', 0, 0, -1)] binaries=[] datas=[]>
+_collections: None -> <BuiltinModule '_collections' None imports=[] binaries=[] datas=[]>
+_abcoll: None -> <PyModule '_abcoll' c:\Python27\lib\_abcoll.pyc imports=[('abc', 0, 0, -1), ('abc.abstractmethod', 0, 0, -1), ('abc.ABCMeta', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+doctest: None -> <PyModule 'doctest' c:\Python27\lib\doctest.pyc imports=[('collections', 0, 0, -1), ('linecache', 0, 0, -1), ('StringIO', 0, 0, -1), ('sys', 0, 0, -1), ('pdb', 0, 0, -1), ('os', 0, 0, -1), ('StringIO.StringIO', 0, 0, -1), ('warnings', 0, 0, -1), ('re', 0, 0, -1), ('__future__', 0, 0, -1), ('inspect', 0, 0, -1), ('collections.namedtuple', 0, 0, -1), ('pdb', 1, 0, -1), ('difflib', 0, 0, -1), ('traceback', 0, 0, -1), ('types', 1, 0, -1), ('unittest', 0, 0, -1), ('tempfile', 0, 0, -1)] binaries=[] datas=[]>
+heapq: None -> <PyModule 'heapq' c:\Python27\lib\heapq.pyc imports=[('operator.itemgetter', 0, 0, -1), ('itertools', 0, 0, -1), ('doctest', 0, 1, -1), ('operator', 0, 0, -1), ('itertools.chain', 0, 0, -1), ('itertools.tee', 0, 0, -1), ('itertools.islice', 0, 0, -1), ('itertools.izip', 0, 0, -1), ('_heapq', 0, 0, -1), ('itertools.count', 0, 0, -1), ('itertools.imap', 0, 0, -1), ('_heapq.*', 0, 0, -1)] binaries=[] datas=[]>
+dummy_thread: None -> <PyModule 'dummy_thread' c:\Python27\lib\dummy_thread.pyc imports=[('traceback', 0, 0, -1)] binaries=[] datas=[]>
+operator: None -> <BuiltinModule 'operator' None imports=[] binaries=[] datas=[]>
+re: None -> <PyModule 're' c:\Python27\lib\re.pyc imports=[('sre_constants', 1, 0, -1), ('sys', 0, 0, -1), ('sre_parse', 0, 0, -1), ('sre_constants.BRANCH', 1, 0, -1), ('sre_compile', 0, 0, -1), ('sre_constants.SUBPATTERN', 1, 0, -1), ('copy_reg', 0, 0, -1), ('_locale', 0, 0, -1)] binaries=[] datas=[]>
+sre_constants: None -> <PyModule 'sre_constants' c:\Python27\lib\sre_constants.pyc imports=[('_sre', 0, 0, -1), ('_sre.MAXREPEAT', 0, 0, -1), ('_sre', 0, 1, -1)] binaries=[] datas=[]>
+sre_parse: None -> <PyModule 'sre_parse' c:\Python27\lib\sre_parse.pyc imports=[('warnings', 1, 1, -1), ('sre_constants', 0, 0, -1), ('sys', 0, 0, -1), ('sre_constants.*', 0, 0, -1)] binaries=[] datas=[]>
+sre_compile: None -> <PyModule 'sre_compile' c:\Python27\lib\sre_compile.pyc imports=[('sys', 0, 0, -1), ('sre_constants.*', 0, 0, -1), ('sre_parse', 0, 0, -1), ('sre_constants', 0, 0, -1), ('_sre', 0, 0, -1), ('array', 1, 0, -1)] binaries=[] datas=[]>
+_locale: None -> <BuiltinModule '_locale' None imports=[] binaries=[] datas=[]>
+_sre: None -> <BuiltinModule '_sre' None imports=[('copy_reg', 0, 0, -1)] binaries=[] datas=[]>
+linecache: None -> <PyModule 'linecache' c:\Python27\lib\linecache.pyc imports=[('os', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+_warnings: None -> <BuiltinModule '_warnings' None imports=[] binaries=[] datas=[]>
+array: None -> <BuiltinModule 'array' None imports=[] binaries=[] datas=[]>
+string: None -> <PyModule 'string' c:\Python27\lib\string.pyc imports=[('strop.uppercase', 0, 0, -1), ('re', 0, 0, -1), ('strop', 0, 0, -1), ('strop.lowercase', 0, 0, -1), ('strop.whitespace', 0, 0, -1), ('strop.maketrans', 0, 0, -1)] binaries=[] datas=[]>
+strop: None -> <BuiltinModule 'strop' None imports=[] binaries=[] datas=[]>
+abc: None -> <PyModule 'abc' c:\Python27\lib\abc.pyc imports=[('_weakrefset.WeakSet', 0, 0, -1), ('_weakrefset', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+_weakrefset: None -> <PyModule '_weakrefset' c:\Python27\lib\_weakrefset.pyc imports=[('_weakref.ref', 0, 0, -1), ('_weakref', 0, 0, -1)] binaries=[] datas=[]>
+_weakref: None -> <BuiltinModule '_weakref' None imports=[] binaries=[] datas=[]>
+StringIO: None -> <PyModule 'StringIO' c:\Python27\lib\StringIO.pyc imports=[('sys', 1, 0, -1), ('errno', 0, 0, -1), ('errno.EINVAL', 0, 0, -1)] binaries=[] datas=[]>
+pdb: None -> <PyModule 'pdb' c:\Python27\lib\pdb.pyc imports=[('linecache', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('repr.Repr', 0, 0, -1), ('bdb', 0, 0, -1), ('re', 0, 0, -1), ('pprint', 0, 0, -1), ('pdb', 0, 1, -1), ('shlex', 1, 1, -1), ('repr', 0, 0, -1), ('__main__', 1, 0, -1), ('cmd', 0, 0, -1), ('traceback', 0, 0, -1), ('readline', 1, 0, -1)] binaries=[] datas=[]>
+__future__: None -> <PyModule '__future__' c:\Python27\lib\__future__.pyc imports=[] binaries=[] datas=[]>
+inspect: None -> <PyModule 'inspect' c:\Python27\lib\inspect.pyc imports=[('collections', 0, 0, -1), ('re', 0, 0, -1), ('dis', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('imp', 0, 0, -1), ('string', 0, 0, -1), ('operator', 0, 0, -1), ('linecache', 0, 0, -1), ('operator.attrgetter', 0, 0, -1), ('collections.namedtuple', 0, 0, -1), ('tokenize', 0, 0, -1)] binaries=[] datas=[]>
+difflib: None -> <PyModule 'difflib' c:\Python27\lib\difflib.pyc imports=[('difflib', 1, 0, -1), ('collections', 0, 0, -1), ('re', 0, 0, -1), ('functools', 0, 0, -1), ('functools.reduce', 0, 0, -1), ('doctest', 1, 0, -1), ('re', 1, 0, -1), ('heapq', 0, 0, -1), ('collections.namedtuple', 0, 0, -1)] binaries=[] datas=[]>
+unittest: None -> <PkgModule 'unittest' c:\Python27\lib\unittest\__init__.pyc imports=[('loader.findTestCases', 0, 0, 1), ('result.TestResult', 0, 0, 1), ('case.skipIf', 0, 0, 1), ('case.skip', 0, 0, 1), ('case.TestCase', 0, 0, 1), ('main.main', 0, 0, 1), ('signals', 0, 0, 1), ('result', 0, 0, 1), ('loader.TestLoader', 0, 0, 1), ('main.TestProgram', 0, 0, 1), ('suite', 0, 0, 1), ('signals.installHandler', 0, 0, 1), ('case.SkipTest', 0, 0, 1), ('suite.TestSuite', 0, 0, 1), ('runner', 0, 0, 1), ('runner.TextTestResult', 0, 0, 1), ('loader.defaultTestLoader', 0, 0, 1), ('suite.BaseTestSuite', 0, 0, 1), ('loader', 0, 0, 1), ('runner.TextTestRunner', 0, 0, 1), ('case.expectedFailure', 0, 0, 1), ('signals.removeResult', 0, 0, 1), ('main', 0, 0, 1), ('signals.registerResult', 0, 0, 1), ('case.skipUnless', 0, 0, 1), ('signals.removeHandler', 0, 0, 1), ('case.FunctionTestCase', 0, 0, 1), ('case', 0, 0, 1), ('loader.getTestCaseNames', 0, 0, 1), ('loader.makeSuite', 0, 0, 1)] binaries=[] datas=[]>
+tempfile: None -> <PyModule 'tempfile' c:\Python27\lib\tempfile.pyc imports=[('os', 0, 0, -1), ('dummy_thread', 0, 1, -1), ('thread', 0, 0, -1), ('cStringIO.StringIO', 0, 0, -1), ('cStringIO', 0, 0, -1), ('fcntl', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('random', 0, 0, -1), ('StringIO', 0, 1, -1), ('errno', 0, 0, -1), ('random.Random', 0, 0, -1), ('io', 0, 0, -1)] binaries=[] datas=[]>
+repr: None -> <PyModule 'repr' c:\Python27\lib\repr.pyc imports=[('itertools.islice', 0, 0, -1), ('itertools', 0, 0, -1), ('__builtin__', 0, 0, -1)] binaries=[] datas=[]>
+bdb: None -> <PyModule 'bdb' c:\Python27\lib\bdb.pyc imports=[('repr', 1, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('fnmatch', 0, 0, -1), ('linecache', 1, 0, -1), ('__main__', 1, 1, -1)] binaries=[] datas=[]>
+pprint: None -> <PyModule 'pprint' c:\Python27\lib\pprint.pyc imports=[('sys', 0, 0, -1), ('time', 1, 0, -1), ('warnings', 0, 0, -1), ('cStringIO', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('StringIO', 0, 1, -1)] binaries=[] datas=[]>
+shlex: None -> <PyModule 'shlex' c:\Python27\lib\shlex.pyc imports=[('collections.deque', 0, 0, -1), ('sys', 0, 0, -1), ('collections', 0, 0, -1), ('os.path', 0, 0, -1), ('cStringIO', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('StringIO', 0, 1, -1)] binaries=[] datas=[]>
+cmd: None -> <PyModule 'cmd' c:\Python27\lib\cmd.pyc imports=[('sys', 1, 0, -1), ('readline', 1, 1, -1), ('string', 0, 0, -1)] binaries=[] datas=[]>
+readline: None -> None
+  DEL readline
+__builtin__: None -> <BuiltinModule '__builtin__' None imports=[] binaries=[] datas=[]>
+fnmatch: None -> <PyModule 'fnmatch' c:\Python27\lib\fnmatch.pyc imports=[('re', 0, 0, -1), ('posixpath', 1, 0, -1), ('os', 1, 0, -1)] binaries=[] datas=[]>
+pwd: None -> None
+  DEL pwd
+genericpath: None -> <PyModule 'genericpath' c:\Python27\lib\genericpath.pyc imports=[('os', 0, 0, -1), ('stat', 0, 0, -1)] binaries=[] datas=[]>
+stat: None -> <PyModule 'stat' c:\Python27\lib\stat.pyc imports=[] binaries=[] datas=[]>
+cStringIO: None -> <BuiltinModule 'cStringIO' None imports=[('copy_reg', 0, 0, -1)] binaries=[] datas=[]>
+_strptime: None -> <PyModule '_strptime' c:\Python27\lib\_strptime.pyc imports=[('thread.allocate_lock', 0, 0, -1), ('dummy_thread', 0, 0, -1), ('re', 0, 0, -1), ('re.compile', 0, 0, -1), ('re.escape', 0, 0, -1), ('calendar', 0, 0, -1), ('locale', 0, 0, -1), ('datetime.date', 0, 0, -1), ('datetime', 0, 0, -1), ('dummy_thread.allocate_lock', 0, 0, -1), ('thread', 0, 0, -1), ('time', 0, 0, -1), ('re.IGNORECASE', 0, 0, -1)] binaries=[] datas=[]>
+calendar: None -> <PyModule 'calendar' c:\Python27\lib\calendar.pyc imports=[('optparse', 1, 0, -1), ('datetime', 0, 0, -1), ('sys', 0, 0, -1), ('locale', 0, 0, -1)] binaries=[] datas=[]>
+locale: None -> <PyModule 'locale' c:\Python27\lib\locale.pyc imports=[('re', 0, 0, -1), ('sys', 0, 0, -1), ('_locale', 1, 0, -1), ('os', 1, 0, -1), ('operator', 0, 0, -1), ('_locale', 0, 0, -1), ('_locale.*', 0, 0, -1), ('functools', 0, 0, -1), ('encodings', 0, 0, -1), ('encodings.aliases', 0, 0, -1)] binaries=[] datas=[]>
+datetime: None -> <BuiltinModule 'datetime' None imports=[] binaries=[] datas=[]>
+optparse: None -> <PyModule 'optparse' c:\Python27\lib\optparse.pyc imports=[('sys', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('__builtin__', 1, 1, -1), ('gettext.gettext', 0, 0, -1), ('textwrap', 0, 0, -1), ('gettext', 0, 0, -1)] binaries=[] datas=[]>
+gettext: None -> <PyModule 'gettext' c:\Python27\lib\gettext.pyc imports=[('re', 0, 0, -1), ('locale.normalize', 1, 0, -1), ('sys', 0, 0, -1), ('errno.ENOENT', 0, 0, -1), ('copy', 0, 0, -1), ('os', 0, 0, -1), ('StringIO', 1, 1, -1), ('StringIO.StringIO', 1, 1, -1), ('cStringIO.StringIO', 1, 0, -1), ('struct', 0, 0, -1), ('locale', 1, 0, -1), ('token', 1, 0, -1), ('tokenize', 1, 0, -1), ('__builtin__', 1, 0, -1), ('errno', 0, 0, -1), ('locale', 0, 0, -1), ('cStringIO', 1, 0, -1)] binaries=[] datas=[]>
+textwrap: None -> <PyModule 'textwrap' c:\Python27\lib\textwrap.pyc imports=[('re', 0, 0, -1), ('string', 0, 0, -1)] binaries=[] datas=[]>
+copy: None -> <PyModule 'copy' c:\Python27\lib\copy.pyc imports=[('copy_reg.dispatch_table', 0, 0, -1), ('weakref', 0, 0, -1), ('sys', 1, 1, -1), ('types', 0, 0, -1), ('copy_reg', 0, 0, -1), ('repr', 1, 0, -1), ('org.python.core.PyStringMap', 0, 0, -1), ('org.python.core', 0, 0, -1)] binaries=[] datas=[]>
+struct: None -> <PyModule 'struct' c:\Python27\lib\struct.pyc imports=[('_struct.__doc__', 0, 0, -1), ('_struct.*', 0, 0, -1), ('_struct', 0, 0, -1), ('_struct._clearcache', 0, 0, -1)] binaries=[] datas=[]>
+token: None -> <PyModule 'token' c:\Python27\lib\token.pyc imports=[('sys', 1, 0, -1), ('re', 1, 0, -1)] binaries=[] datas=[]>
+tokenize: None -> <PyModule 'tokenize' c:\Python27\lib\tokenize.pyc imports=[('re', 0, 0, -1), ('token', 0, 0, -1), ('string', 0, 0, -1), ('itertools', 0, 0, -1), ('itertools.chain', 0, 0, -1), ('sys', 0, 1, -1), ('token.*', 0, 0, -1)] binaries=[] datas=[]>
+functools: None -> <PyModule 'functools' c:\Python27\lib\functools.pyc imports=[('_functools.reduce', 0, 0, -1), ('_functools.partial', 0, 0, -1), ('_functools', 0, 0, -1)] binaries=[] datas=[]>
+encodings.aliases: None -> <PyModule 'encodings.aliases' c:\Python27\lib\encodings\aliases.pyc imports=[] binaries=[] datas=[]>
+_functools: None -> <BuiltinModule '_functools' None imports=[] binaries=[] datas=[]>
+encodings.encodings: None -> None
+encodings.codecs: None -> None
+codecs: None -> <PyModule 'codecs' c:\Python27\lib\codecs.pyc imports=[('encodings', 0, 1, -1), ('_codecs', 0, 0, -1), ('_codecs.*', 0, 0, -1), ('sys', 0, 0, -1), ('__builtin__', 0, 0, -1), ('encodings', 0, 0, -1)] binaries=[] datas=[]>
+encodings.__builtin__: None -> None
+encodings.ascii: None -> <PyModule 'encodings.ascii' c:\Python27\lib\encodings\ascii.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.base64_codec: None -> <PyModule 'encodings.base64_codec' c:\Python27\lib\encodings\base64_codec.pyc imports=[('base64', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.big5: None -> <PyModule 'encodings.big5' c:\Python27\lib\encodings\big5.pyc imports=[('_codecs_tw', 0, 0, -1), ('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.big5hkscs: None -> <PyModule 'encodings.big5hkscs' c:\Python27\lib\encodings\big5hkscs.pyc imports=[('_codecs_hk', 0, 0, -1), ('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.bz2_codec: None -> <PyModule 'encodings.bz2_codec' c:\Python27\lib\encodings\bz2_codec.pyc imports=[('codecs', 0, 0, -1), ('bz2', 0, 0, -1)] binaries=[] datas=[]>
+encodings.charmap: None -> <PyModule 'encodings.charmap' c:\Python27\lib\encodings\charmap.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp037: None -> <PyModule 'encodings.cp037' c:\Python27\lib\encodings\cp037.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1006: None -> <PyModule 'encodings.cp1006' c:\Python27\lib\encodings\cp1006.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1026: None -> <PyModule 'encodings.cp1026' c:\Python27\lib\encodings\cp1026.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1140: None -> <PyModule 'encodings.cp1140' c:\Python27\lib\encodings\cp1140.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1250: None -> <PyModule 'encodings.cp1250' c:\Python27\lib\encodings\cp1250.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1251: None -> <PyModule 'encodings.cp1251' c:\Python27\lib\encodings\cp1251.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1252: None -> <PyModule 'encodings.cp1252' c:\Python27\lib\encodings\cp1252.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1253: None -> <PyModule 'encodings.cp1253' c:\Python27\lib\encodings\cp1253.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1254: None -> <PyModule 'encodings.cp1254' c:\Python27\lib\encodings\cp1254.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1255: None -> <PyModule 'encodings.cp1255' c:\Python27\lib\encodings\cp1255.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1256: None -> <PyModule 'encodings.cp1256' c:\Python27\lib\encodings\cp1256.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1257: None -> <PyModule 'encodings.cp1257' c:\Python27\lib\encodings\cp1257.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp1258: None -> <PyModule 'encodings.cp1258' c:\Python27\lib\encodings\cp1258.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp424: None -> <PyModule 'encodings.cp424' c:\Python27\lib\encodings\cp424.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp437: None -> <PyModule 'encodings.cp437' c:\Python27\lib\encodings\cp437.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp500: None -> <PyModule 'encodings.cp500' c:\Python27\lib\encodings\cp500.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp720: None -> <PyModule 'encodings.cp720' c:\Python27\lib\encodings\cp720.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp737: None -> <PyModule 'encodings.cp737' c:\Python27\lib\encodings\cp737.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp775: None -> <PyModule 'encodings.cp775' c:\Python27\lib\encodings\cp775.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp850: None -> <PyModule 'encodings.cp850' c:\Python27\lib\encodings\cp850.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp852: None -> <PyModule 'encodings.cp852' c:\Python27\lib\encodings\cp852.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp855: None -> <PyModule 'encodings.cp855' c:\Python27\lib\encodings\cp855.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp856: None -> <PyModule 'encodings.cp856' c:\Python27\lib\encodings\cp856.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp857: None -> <PyModule 'encodings.cp857' c:\Python27\lib\encodings\cp857.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp858: None -> <PyModule 'encodings.cp858' c:\Python27\lib\encodings\cp858.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp860: None -> <PyModule 'encodings.cp860' c:\Python27\lib\encodings\cp860.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp861: None -> <PyModule 'encodings.cp861' c:\Python27\lib\encodings\cp861.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp862: None -> <PyModule 'encodings.cp862' c:\Python27\lib\encodings\cp862.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp863: None -> <PyModule 'encodings.cp863' c:\Python27\lib\encodings\cp863.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp864: None -> <PyModule 'encodings.cp864' c:\Python27\lib\encodings\cp864.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp865: None -> <PyModule 'encodings.cp865' c:\Python27\lib\encodings\cp865.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp866: None -> <PyModule 'encodings.cp866' c:\Python27\lib\encodings\cp866.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp869: None -> <PyModule 'encodings.cp869' c:\Python27\lib\encodings\cp869.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp874: None -> <PyModule 'encodings.cp874' c:\Python27\lib\encodings\cp874.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp875: None -> <PyModule 'encodings.cp875' c:\Python27\lib\encodings\cp875.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp932: None -> <PyModule 'encodings.cp932' c:\Python27\lib\encodings\cp932.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp949: None -> <PyModule 'encodings.cp949' c:\Python27\lib\encodings\cp949.pyc imports=[('_codecs_kr', 0, 0, -1), ('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.cp950: None -> <PyModule 'encodings.cp950' c:\Python27\lib\encodings\cp950.pyc imports=[('_codecs_tw', 0, 0, -1), ('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.euc_jisx0213: None -> <PyModule 'encodings.euc_jisx0213' c:\Python27\lib\encodings\euc_jisx0213.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.euc_jis_2004: None -> <PyModule 'encodings.euc_jis_2004' c:\Python27\lib\encodings\euc_jis_2004.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.euc_jp: None -> <PyModule 'encodings.euc_jp' c:\Python27\lib\encodings\euc_jp.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.euc_kr: None -> <PyModule 'encodings.euc_kr' c:\Python27\lib\encodings\euc_kr.pyc imports=[('_codecs_kr', 0, 0, -1), ('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.gb18030: None -> <PyModule 'encodings.gb18030' c:\Python27\lib\encodings\gb18030.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_cn', 0, 0, -1)] binaries=[] datas=[]>
+encodings.gb2312: None -> <PyModule 'encodings.gb2312' c:\Python27\lib\encodings\gb2312.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_cn', 0, 0, -1)] binaries=[] datas=[]>
+encodings.gbk: None -> <PyModule 'encodings.gbk' c:\Python27\lib\encodings\gbk.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_cn', 0, 0, -1)] binaries=[] datas=[]>
+encodings.hex_codec: None -> <PyModule 'encodings.hex_codec' c:\Python27\lib\encodings\hex_codec.pyc imports=[('binascii', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.hp_roman8: None -> <PyModule 'encodings.hp_roman8' c:\Python27\lib\encodings\hp_roman8.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.hz: None -> <PyModule 'encodings.hz' c:\Python27\lib\encodings\hz.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_cn', 0, 0, -1)] binaries=[] datas=[]>
+encodings.idna: None -> <PyModule 'encodings.idna' c:\Python27\lib\encodings\idna.pyc imports=[('unicodedata.ucd_3_2_0', 0, 0, -1), ('re', 0, 0, -1), ('unicodedata', 0, 0, -1), ('codecs', 0, 0, -1), ('stringprep', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_jp: None -> <PyModule 'encodings.iso2022_jp' c:\Python27\lib\encodings\iso2022_jp.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_jp_1: None -> <PyModule 'encodings.iso2022_jp_1' c:\Python27\lib\encodings\iso2022_jp_1.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_jp_2: None -> <PyModule 'encodings.iso2022_jp_2' c:\Python27\lib\encodings\iso2022_jp_2.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_jp_2004: None -> <PyModule 'encodings.iso2022_jp_2004' c:\Python27\lib\encodings\iso2022_jp_2004.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_jp_3: None -> <PyModule 'encodings.iso2022_jp_3' c:\Python27\lib\encodings\iso2022_jp_3.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_jp_ext: None -> <PyModule 'encodings.iso2022_jp_ext' c:\Python27\lib\encodings\iso2022_jp_ext.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso2022_kr: None -> <PyModule 'encodings.iso2022_kr' c:\Python27\lib\encodings\iso2022_kr.pyc imports=[('_codecs_iso2022', 0, 0, -1), ('codecs', 0, 0, -1), ('_multibytecodec', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_1: None -> <PyModule 'encodings.iso8859_1' c:\Python27\lib\encodings\iso8859_1.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_10: None -> <PyModule 'encodings.iso8859_10' c:\Python27\lib\encodings\iso8859_10.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_11: None -> <PyModule 'encodings.iso8859_11' c:\Python27\lib\encodings\iso8859_11.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_13: None -> <PyModule 'encodings.iso8859_13' c:\Python27\lib\encodings\iso8859_13.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_14: None -> <PyModule 'encodings.iso8859_14' c:\Python27\lib\encodings\iso8859_14.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_15: None -> <PyModule 'encodings.iso8859_15' c:\Python27\lib\encodings\iso8859_15.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_16: None -> <PyModule 'encodings.iso8859_16' c:\Python27\lib\encodings\iso8859_16.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_2: None -> <PyModule 'encodings.iso8859_2' c:\Python27\lib\encodings\iso8859_2.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_3: None -> <PyModule 'encodings.iso8859_3' c:\Python27\lib\encodings\iso8859_3.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_4: None -> <PyModule 'encodings.iso8859_4' c:\Python27\lib\encodings\iso8859_4.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_5: None -> <PyModule 'encodings.iso8859_5' c:\Python27\lib\encodings\iso8859_5.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_6: None -> <PyModule 'encodings.iso8859_6' c:\Python27\lib\encodings\iso8859_6.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_7: None -> <PyModule 'encodings.iso8859_7' c:\Python27\lib\encodings\iso8859_7.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_8: None -> <PyModule 'encodings.iso8859_8' c:\Python27\lib\encodings\iso8859_8.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.iso8859_9: None -> <PyModule 'encodings.iso8859_9' c:\Python27\lib\encodings\iso8859_9.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.johab: None -> <PyModule 'encodings.johab' c:\Python27\lib\encodings\johab.pyc imports=[('_codecs_kr', 0, 0, -1), ('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.koi8_r: None -> <PyModule 'encodings.koi8_r' c:\Python27\lib\encodings\koi8_r.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.koi8_u: None -> <PyModule 'encodings.koi8_u' c:\Python27\lib\encodings\koi8_u.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.latin_1: None -> <PyModule 'encodings.latin_1' c:\Python27\lib\encodings\latin_1.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_arabic: None -> <PyModule 'encodings.mac_arabic' c:\Python27\lib\encodings\mac_arabic.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_centeuro: None -> <PyModule 'encodings.mac_centeuro' c:\Python27\lib\encodings\mac_centeuro.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_croatian: None -> <PyModule 'encodings.mac_croatian' c:\Python27\lib\encodings\mac_croatian.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_cyrillic: None -> <PyModule 'encodings.mac_cyrillic' c:\Python27\lib\encodings\mac_cyrillic.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_farsi: None -> <PyModule 'encodings.mac_farsi' c:\Python27\lib\encodings\mac_farsi.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_greek: None -> <PyModule 'encodings.mac_greek' c:\Python27\lib\encodings\mac_greek.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_iceland: None -> <PyModule 'encodings.mac_iceland' c:\Python27\lib\encodings\mac_iceland.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_latin2: None -> <PyModule 'encodings.mac_latin2' c:\Python27\lib\encodings\mac_latin2.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_roman: None -> <PyModule 'encodings.mac_roman' c:\Python27\lib\encodings\mac_roman.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_romanian: None -> <PyModule 'encodings.mac_romanian' c:\Python27\lib\encodings\mac_romanian.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mac_turkish: None -> <PyModule 'encodings.mac_turkish' c:\Python27\lib\encodings\mac_turkish.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.mbcs: None -> <PyModule 'encodings.mbcs' c:\Python27\lib\encodings\mbcs.pyc imports=[('codecs.mbcs_decode', 0, 0, -1), ('codecs', 0, 0, -1), ('codecs.mbcs_encode', 0, 0, -1)] binaries=[] datas=[]>
+encodings.palmos: None -> <PyModule 'encodings.palmos' c:\Python27\lib\encodings\palmos.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.ptcp154: None -> <PyModule 'encodings.ptcp154' c:\Python27\lib\encodings\ptcp154.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.punycode: None -> <PyModule 'encodings.punycode' c:\Python27\lib\encodings\punycode.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.quopri_codec: None -> <PyModule 'encodings.quopri_codec' c:\Python27\lib\encodings\quopri_codec.pyc imports=[('quopri', 0, 0, -1), ('cStringIO', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('StringIO', 0, 1, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.raw_unicode_escape: None -> <PyModule 'encodings.raw_unicode_escape' c:\Python27\lib\encodings\raw_unicode_escape.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.rot_13: None -> <PyModule 'encodings.rot_13' c:\Python27\lib\encodings\rot_13.pyc imports=[('sys', 0, 1, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.shift_jis: None -> <PyModule 'encodings.shift_jis' c:\Python27\lib\encodings\shift_jis.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.shift_jisx0213: None -> <PyModule 'encodings.shift_jisx0213' c:\Python27\lib\encodings\shift_jisx0213.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.shift_jis_2004: None -> <PyModule 'encodings.shift_jis_2004' c:\Python27\lib\encodings\shift_jis_2004.pyc imports=[('_multibytecodec', 0, 0, -1), ('codecs', 0, 0, -1), ('_codecs_jp', 0, 0, -1)] binaries=[] datas=[]>
+encodings.string_escape: None -> <PyModule 'encodings.string_escape' c:\Python27\lib\encodings\string_escape.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.tis_620: None -> <PyModule 'encodings.tis_620' c:\Python27\lib\encodings\tis_620.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.undefined: None -> <PyModule 'encodings.undefined' c:\Python27\lib\encodings\undefined.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.unicode_escape: None -> <PyModule 'encodings.unicode_escape' c:\Python27\lib\encodings\unicode_escape.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.unicode_internal: None -> <PyModule 'encodings.unicode_internal' c:\Python27\lib\encodings\unicode_internal.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_16: None -> <PyModule 'encodings.utf_16' c:\Python27\lib\encodings\utf_16.pyc imports=[('codecs', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_16_be: None -> <PyModule 'encodings.utf_16_be' c:\Python27\lib\encodings\utf_16_be.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_16_le: None -> <PyModule 'encodings.utf_16_le' c:\Python27\lib\encodings\utf_16_le.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_32: None -> <PyModule 'encodings.utf_32' c:\Python27\lib\encodings\utf_32.pyc imports=[('codecs', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_32_be: None -> <PyModule 'encodings.utf_32_be' c:\Python27\lib\encodings\utf_32_be.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_32_le: None -> <PyModule 'encodings.utf_32_le' c:\Python27\lib\encodings\utf_32_le.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_7: None -> <PyModule 'encodings.utf_7' c:\Python27\lib\encodings\utf_7.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_8: None -> <PyModule 'encodings.utf_8' c:\Python27\lib\encodings\utf_8.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.utf_8_sig: None -> <PyModule 'encodings.utf_8_sig' c:\Python27\lib\encodings\utf_8_sig.pyc imports=[('codecs', 0, 0, -1)] binaries=[] datas=[]>
+encodings.uu_codec: None -> <PyModule 'encodings.uu_codec' c:\Python27\lib\encodings\uu_codec.pyc imports=[('cStringIO.StringIO', 1, 0, -1), ('binascii.a2b_uu', 1, 0, -1), ('binascii', 1, 0, -1), ('binascii.b2a_uu', 1, 0, -1), ('binascii', 0, 0, -1), ('codecs', 0, 0, -1), ('cStringIO', 1, 0, -1)] binaries=[] datas=[]>
+encodings.zlib_codec: None -> <PyModule 'encodings.zlib_codec' c:\Python27\lib\encodings\zlib_codec.pyc imports=[('zlib', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+_codecs: None -> <BuiltinModule '_codecs' None imports=[] binaries=[] datas=[]>
+encodings.base64: None -> None
+base64: None -> <PyModule 'base64' c:\Python27\lib\base64.pyc imports=[('re', 0, 0, -1), ('string', 0, 0, -1), ('struct', 0, 0, -1), ('getopt', 1, 0, -1), ('sys', 1, 0, -1), ('binascii', 0, 0, -1)] binaries=[] datas=[]>
+getopt: None -> <PyModule 'getopt' c:\Python27\lib\getopt.pyc imports=[('sys', 0, 1, -1), ('os', 0, 0, -1)] binaries=[] datas=[]>
+binascii: None -> <BuiltinModule 'binascii' None imports=[] binaries=[] datas=[]>
+_struct: None -> <BuiltinModule '_struct' None imports=[] binaries=[] datas=[]>
+encodings._codecs_tw: None -> None
+_codecs_tw: None -> <BuiltinModule '_codecs_tw' None imports=[] binaries=[] datas=[]>
+encodings._multibytecodec: None -> None
+_multibytecodec: None -> <BuiltinModule '_multibytecodec' None imports=[] binaries=[] datas=[]>
+encodings._codecs_hk: None -> None
+_codecs_hk: None -> <BuiltinModule '_codecs_hk' None imports=[] binaries=[] datas=[]>
+encodings.bz2: None -> None
+bz2: None -> <ExtensionModule 'bz2' c:\Python27\DLLs\bz2.pyd imports=[] binaries=[] datas=[]>
+encodings._codecs_jp: None -> None
+_codecs_jp: None -> <BuiltinModule '_codecs_jp' None imports=[] binaries=[] datas=[]>
+encodings._codecs_kr: None -> None
+_codecs_kr: None -> <BuiltinModule '_codecs_kr' None imports=[] binaries=[] datas=[]>
+encodings._codecs_cn: None -> None
+_codecs_cn: None -> <BuiltinModule '_codecs_cn' None imports=[] binaries=[] datas=[]>
+encodings.binascii: None -> None
+encodings.unicodedata: None -> None
+unicodedata: None -> <ExtensionModule 'unicodedata' c:\Python27\DLLs\unicodedata.pyd imports=[] binaries=[] datas=[]>
+encodings.re: None -> None
+encodings.stringprep: None -> None
+stringprep: None -> <PyModule 'stringprep' c:\Python27\lib\stringprep.pyc imports=[('unicodedata', 0, 0, -1), ('unicodedata.ucd_3_2_0', 0, 0, -1)] binaries=[] datas=[]>
+encodings._codecs_iso2022: None -> None
+_codecs_iso2022: None -> <BuiltinModule '_codecs_iso2022' None imports=[] binaries=[] datas=[]>
+encodings.quopri: None -> None
+quopri: None -> <PyModule 'quopri' c:\Python27\lib\quopri.pyc imports=[('cStringIO.StringIO', 1, 0, -1), ('getopt', 1, 0, -1), ('binascii.a2b_qp', 0, 0, -1), ('binascii.b2a_qp', 0, 0, -1), ('sys', 1, 0, -1), ('binascii', 0, 0, -1), ('cStringIO', 1, 0, -1)] binaries=[] datas=[]>
+encodings.cStringIO: None -> None
+encodings.StringIO: None -> None
+encodings.sys: None -> None
+encodings.zlib: None -> None
+zlib: None -> <BuiltinModule 'zlib' None imports=[] binaries=[] datas=[]>
+weakref: None -> <PyModule 'weakref' c:\Python27\lib\weakref.pyc imports=[('_weakrefset', 0, 0, -1), ('_weakref.ProxyType', 0, 0, -1), ('exceptions.ReferenceError', 0, 0, -1), ('_weakref.getweakrefcount', 0, 0, -1), ('copy.deepcopy', 1, 0, -1), ('_weakref.ref', 0, 0, -1), ('_weakref.ReferenceType', 0, 0, -1), ('_weakrefset._IterationGuard', 0, 0, -1), ('exceptions', 0, 0, -1), ('_weakref.getweakrefs', 0, 0, -1), ('_weakref.CallableProxyType', 0, 0, -1), ('copy', 1, 0, -1), ('_weakrefset.WeakSet', 0, 0, -1), ('UserDict', 0, 0, -1), ('_weakref', 0, 0, -1), ('_weakref.proxy', 0, 0, -1)] binaries=[] datas=[]>
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+exceptions: None -> <BuiltinModule 'exceptions' None imports=[] binaries=[] datas=[]>
+readline: None -> None
+  DEL readline
+dis: None -> <PyModule 'dis' c:\Python27\lib\dis.pyc imports=[('opcode', 0, 0, -1), ('opcode.*', 0, 0, -1), ('opcode.__all__', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+imp: None -> <BuiltinModule 'imp' None imports=[] binaries=[] datas=[]>
+opcode: None -> <PyModule 'opcode' c:\Python27\lib\opcode.pyc imports=[] binaries=[] datas=[]>
+_heapq: None -> <BuiltinModule '_heapq' None imports=[] binaries=[] datas=[]>
+unittest.loader: None -> <PyModule 'unittest.loader' c:\Python27\lib\unittest\loader.pyc imports=[('re', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('fnmatch.fnmatch', 0, 0, -1), ('fnmatch', 0, 0, -1), ('functools.cmp_to_key', 0, 0, -1), ('suite', 0, 0, 1), ('traceback', 0, 0, -1), ('case', 0, 0, 1), ('functools', 0, 0, -1), ('', 0, 0, 1)] binaries=[] datas=[]>
+unittest.result: None -> <PyModule 'unittest.result' c:\Python27\lib\unittest\result.pyc imports=[('functools.wraps', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('StringIO.StringIO', 0, 0, -1), ('StringIO', 0, 0, -1), ('traceback', 0, 0, -1), ('util', 0, 0, 1), ('functools', 0, 0, -1), ('', 0, 0, 1)] binaries=[] datas=[]>
+unittest.case: None -> <PyModule 'unittest.case' c:\Python27\lib\unittest\case.pyc imports=[('util._count_diff_hashable', 0, 0, 1), ('collections', 0, 0, -1), ('re', 0, 0, -1), ('util._count_diff_all_purpose', 0, 0, 1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('', 0, 0, 1), ('warnings', 0, 0, -1), ('util.safe_repr', 0, 0, 1), ('util.unorderable_list_difference', 0, 0, 1), ('difflib', 0, 0, -1), ('util.strclass', 0, 0, 1), ('pprint', 0, 0, -1), ('result', 0, 0, 1), ('util', 0, 0, 1), ('functools', 0, 0, -1)] binaries=[] datas=[]>
+unittest.main: None -> <PyModule 'unittest.main' c:\Python27\lib\unittest\main.pyc imports=[('runner', 0, 0, 1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('', 0, 0, 1), ('loader', 0, 0, 1), ('optparse', 1, 0, -1), ('getopt', 1, 0, -1), ('signals.installHandler', 0, 0, 1), ('signals', 0, 0, 1)] binaries=[] datas=[]>
+unittest.signals: None -> <PyModule 'unittest.signals' c:\Python27\lib\unittest\signals.pyc imports=[('functools', 0, 0, -1), ('functools.wraps', 0, 0, -1), ('signal', 0, 0, -1), ('weakref', 0, 0, -1)] binaries=[] datas=[]>
+unittest.suite: None -> <PyModule 'unittest.suite' c:\Python27\lib\unittest\suite.pyc imports=[('util', 0, 0, 1), ('case', 0, 0, 1), ('', 0, 0, 1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+unittest.runner: None -> <PyModule 'unittest.runner' c:\Python27\lib\unittest\runner.pyc imports=[('result', 0, 0, 1), ('sys', 0, 0, -1), ('', 0, 0, 1), ('signals', 0, 0, 1), ('time', 0, 0, -1), ('signals.registerResult', 0, 0, 1)] binaries=[] datas=[]>
+unittest.re: None -> None
+unittest.sys: None -> None
+unittest.types: None -> None
+unittest.os: None -> None
+unittest.fnmatch: None -> None
+unittest.functools: None -> None
+unittest.traceback: None -> None
+unittest.util: None -> <PyModule 'unittest.util' c:\Python27\lib\unittest\util.pyc imports=[('collections', 0, 0, -1), ('collections.namedtuple', 0, 0, -1), ('collections.OrderedDict', 0, 0, -1)] binaries=[] datas=[]>
+unittest.collections: None -> None
+unittest.warnings: None -> None
+unittest.difflib: None -> None
+unittest.pprint: None -> None
+unittest.StringIO: None -> None
+unittest.optparse: None -> None
+unittest.getopt: None -> None
+unittest.time: None -> None
+unittest.signal: None -> None
+unittest.weakref: None -> None
+fcntl: None -> None
+  DEL fcntl
+io: None -> <PyModule 'io' c:\Python27\lib\io.pyc imports=[('_io.BytesIO', 0, 0, -1), ('_io.BufferedRWPair', 0, 0, -1), ('_io.FileIO', 0, 0, -1), ('_io', 0, 0, -1), ('_io.IncrementalNewlineDecoder', 0, 0, -1), ('_io.UnsupportedOperation', 0, 0, -1), ('_io.BufferedWriter', 0, 0, -1), ('abc', 0, 0, -1), ('_io.open', 0, 0, -1), ('_io.TextIOWrapper', 0, 0, -1), ('_io.BufferedRandom', 0, 0, -1), ('_io.DEFAULT_BUFFER_SIZE', 0, 0, -1), ('_io.BlockingIOError', 0, 0, -1), ('_io.BufferedReader', 0, 0, -1), ('_io.StringIO', 0, 0, -1)] binaries=[] datas=[]>
+hashlib: None -> <PyModule 'hashlib' c:\Python27\lib\hashlib.pyc imports=[('_sha256', 1, 1, -1), ('logging', 0, 1, -1), ('_hashlib.pbkdf2_hmac', 0, 0, -1), ('binascii', 0, 1, -1), ('_sha512', 1, 1, -1), ('_sha', 1, 1, -1), ('_md5', 1, 1, -1), ('struct', 0, 1, -1), ('_hashlib', 0, 0, -1)] binaries=[] datas=[]>
+math: None -> <BuiltinModule 'math' None imports=[] binaries=[] datas=[]>
+_random: None -> <BuiltinModule '_random' None imports=[] binaries=[] datas=[]>
+_sha256: None -> <BuiltinModule '_sha256' None imports=[] binaries=[] datas=[]>
+logging: None -> <PkgModule 'logging' c:\Python27\lib\logging\__init__.pyc imports=[('collections', 0, 0, -1), ('threading', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('warnings', 0, 0, -1), ('atexit', 0, 0, -1), ('thread', 0, 0, -1), ('cStringIO', 0, 0, -1), ('traceback', 0, 0, -1), ('codecs', 0, 0, -1), ('time', 0, 0, -1), ('weakref', 0, 0, -1)] binaries=[] datas=[]>
+_hashlib: None -> <ExtensionModule '_hashlib' c:\Python27\DLLs\_hashlib.pyd imports=[] binaries=[] datas=[]>
+_sha512: None -> <BuiltinModule '_sha512' None imports=[] binaries=[] datas=[]>
+_sha: None -> <BuiltinModule '_sha' None imports=[] binaries=[] datas=[]>
+_md5: None -> <BuiltinModule '_md5' None imports=[] binaries=[] datas=[]>
+logging.collections: None -> None
+logging.threading: None -> None
+logging.sys: None -> None
+logging.os: None -> None
+logging.warnings: None -> None
+logging.atexit: None -> None
+atexit: None -> <PyModule 'atexit' c:\Python27\lib\atexit.pyc imports=[('traceback', 1, 1, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+logging.thread: None -> None
+logging.cStringIO: None -> None
+logging.traceback: None -> None
+logging.codecs: None -> None
+logging.time: None -> None
+logging.weakref: None -> None
+_io: None -> <BuiltinModule '_io' None imports=[] binaries=[] datas=[]>
+marshal: None -> <BuiltinModule 'marshal' None imports=[] binaries=[] datas=[]>
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+pydoc: None -> <PyModule 'pydoc' c:\Python27\lib\pydoc.pyc imports=[('collections.deque', 0, 0, -1), ('string.rfind', 0, 0, -1), ('tty', 1, 0, -1), ('os', 0, 0, -1), ('warnings', 0, 0, -1), ('pkgutil', 0, 0, -1), ('string.rstrip', 0, 0, -1), ('locale', 0, 1, -1), ('getopt', 1, 0, -1), ('pydoc_data.topics', 1, 0, -1), ('string.find', 0, 0, -1), ('traceback.extract_tb', 0, 0, -1), ('sys', 0, 0, -1), ('formatter', 1, 1, -1), ('string.join', 0, 0, -1), ('string', 0, 0, -1), ('webbrowser', 1, 0, -1), ('repr', 0, 0, -1), ('string.expandtabs', 0, 0, -1), ('BaseHTTPServer', 1, 0, -1), ('collections', 0, 0, -1), ('string.split', 0, 0, -1), ('types', 0, 0, -1), ('StringIO', 1, 1, -1), ('repr.Repr', 0, 0, -1), ('string.strip', 0, 0, -1), ('re', 0, 0, -1), ('threading', 1, 0, -1), ('tempfile', 1, 0, -1), ('string.lower', 0, 0, -1), ('inspect', 0, 0, -1), ('select', 1, 0, -1), ('nturl2path', 1, 1, -1), ('imp', 0, 0, -1), ('mimetools', 1, 0, -1), ('__builtin__', 0, 0, -1), ('traceback', 0, 0, -1)] binaries=[] datas=[]>
+tty: None -> <PyModule 'tty' c:\Python27\lib\tty.pyc imports=[('termios.*', 0, 0, -1), ('termios', 0, 0, -1)] binaries=[] datas=[]>
+pkgutil: None -> <PyModule 'pkgutil' c:\Python27\lib\pkgutil.pyc imports=[('imp', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('os.path', 0, 0, -1), ('zipimport.zipimporter', 0, 0, -1), ('zipimport', 0, 0, -1), ('marshal', 1, 0, -1), ('types.ModuleType', 0, 0, -1), ('inspect', 1, 0, -1)] binaries=[] datas=[]>
+pydoc_data: None -> <PkgModule 'pydoc_data' c:\Python27\lib\pydoc_data\__init__.pyc imports=[] binaries=[] datas=[]>
+pydoc_data.topics: None -> <PyModule 'pydoc_data.topics' c:\Python27\lib\pydoc_data\topics.pyc imports=[] binaries=[] datas=[]>
+formatter: None -> <PyModule 'formatter' c:\Python27\lib\formatter.pyc imports=[('sys', 0, 0, -1)] binaries=[] datas=[]>
+webbrowser: None -> <PyModule 'webbrowser' c:\Python27\lib\webbrowser.pyc imports=[('sys', 0, 0, -1), ('copy', 1, 1, -1), ('os', 0, 0, -1), ('glob', 1, 0, -1), ('tempfile', 1, 0, -1), ('stat', 0, 0, -1), ('subprocess', 0, 0, -1), ('pwd', 1, 0, -1), ('getopt', 1, 0, -1), ('socket', 1, 0, -1), ('time', 0, 0, -1), ('shlex', 0, 0, -1)] binaries=[] datas=[]>
+BaseHTTPServer: None -> <PyModule 'BaseHTTPServer' c:\Python27\lib\BaseHTTPServer.pyc imports=[('sys', 0, 0, -1), ('warnings', 0, 0, -1), ('socket', 0, 0, -1), ('SocketServer', 0, 0, -1), ('warnings.catch_warnings', 0, 0, -1), ('mimetools', 0, 0, -1), ('warnings.filterwarnings', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+nturl2path: None -> <PyModule 'nturl2path' c:\Python27\lib\nturl2path.pyc imports=[('urllib', 1, 0, -1), ('string', 1, 0, -1)] binaries=[] datas=[]>
+mimetools: None -> <PyModule 'mimetools' c:\Python27\lib\mimetools.pyc imports=[('warnings.warnpy3k', 0, 0, -1), ('sys', 0, 0, -1), ('uu', 1, 1, -1), ('os', 0, 0, -1), ('rfc822', 0, 0, -1), ('quopri', 1, 1, -1), ('warnings', 0, 0, -1), ('dummy_thread', 0, 1, -1), ('socket', 1, 1, -1), ('thread', 0, 0, -1), ('warnings.catch_warnings', 0, 0, -1), ('time', 1, 0, -1), ('base64', 1, 1, -1), ('warnings.filterwarnings', 0, 0, -1), ('tempfile', 0, 0, -1)] binaries=[] datas=[]>
+termios: None -> None
+  DEL termios
+termios: None -> None
+  DEL termios
+zipimport: None -> <BuiltinModule 'zipimport' None imports=[] binaries=[] datas=[]>
+glob: None -> <PyModule 'glob' c:\Python27\lib\glob.pyc imports=[('os', 0, 0, -1), ('re', 0, 0, -1), ('sys', 0, 0, -1), ('fnmatch', 0, 0, -1)] binaries=[] datas=[]>
+pwd: None -> None
+  DEL pwd
+socket: None -> <PyModule 'socket' c:\Python27\lib\socket.pyc imports=[('_ssl.SSL_ERROR_EOF', 0, 1, -1), ('functools.partial', 0, 0, -1), ('_ssl.RAND_add', 0, 1, -1), ('os', 0, 0, -1), ('warnings', 0, 0, -1), ('_ssl.RAND_egd', 0, 1, -1), ('_ssl', 0, 1, -1), ('sys', 0, 0, -1), ('ssl', 1, 0, -1), ('cStringIO', 0, 0, -1), ('_ssl.SSL_ERROR_INVALID_ERROR_CODE', 0, 1, -1), ('_ssl.SSL_ERROR_WANT_X509_LOOKUP', 0, 1, -1), ('_ssl.SSL_ERROR_WANT_CONNECT', 0, 1, -1), ('_ssl.SSL_ERROR_SYSCALL', 0, 1, -1), ('_ssl.SSL_ERROR_WANT_WRITE', 0, 1, -1), ('_socket.*', 0, 0, -1), ('types', 0, 0, -1), ('_ssl.SSL_ERROR_WANT_READ', 0, 1, -1), ('_ssl', 0, 0, -1), ('_socket', 0, 0, -1), ('_ssl.RAND_status', 0, 1, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('errno', 0, 0, -1), ('_ssl.SSL_ERROR_SSL', 0, 1, -1), ('_ssl.SSL_ERROR_ZERO_RETURN', 0, 1, -1), ('functools', 0, 0, -1), ('types.MethodType', 0, 0, -1), ('_ssl.SSLError', 0, 1, -1), ('StringIO', 0, 1, -1)] binaries=[] datas=[]>
+_ssl: None -> <ExtensionModule '_ssl' c:\Python27\DLLs\_ssl.pyd imports=[] binaries=[] datas=[]>
+ssl: None -> <PyModule 'ssl' c:\Python27\lib\ssl.pyc imports=[('_ssl.SSLSyscallError', 0, 0, -1), ('_ssl.OPENSSL_VERSION', 0, 0, -1), ('_ssl.RAND_status', 0, 0, -1), ('os', 0, 0, -1), ('socket._fileobject', 0, 0, -1), ('_ssl.CERT_OPTIONAL', 0, 0, -1), ('_ssl.HAS_NPN', 0, 0, -1), ('_ssl.SSLWantReadError', 0, 0, -1), ('_ssl.SSLEOFError', 0, 0, -1), ('socket.SOCK_STREAM', 0, 0, -1), ('_ssl.OPENSSL_VERSION_INFO', 0, 0, -1), ('calendar', 1, 0, -1), ('contextlib', 0, 0, -1), ('_ssl.RAND_egd', 0, 0, -1), ('sys', 0, 0, -1), ('_ssl.HAS_ECDH', 0, 0, -1), ('socket.SO_TYPE', 0, 0, -1), ('contextlib.closing', 0, 0, -1), ('time.strptime', 1, 0, -1), ('socket.error', 0, 0, -1), ('_ssl', 0, 1, -1), ('textwrap', 0, 0, -1), ('_ssl.HAS_ALPN', 0, 0, -1), ('_ssl.RAND_add', 0, 0, -1), ('socket.create_connection', 0, 0, -1), ('_ssl.OPENSSL_VERSION_NUMBER', 0, 0, -1), ('_ssl._SSLContext', 0, 0, -1), ('collections', 0, 0, -1), ('_ssl.CERT_REQUIRED', 0, 0, -1), ('_ssl.SSLError', 0, 0, -1), ('_ssl.txt2obj', 0, 0, -1), ('_ssl.SSLZeroReturnError', 0, 0, -1), ('_ssl._OPENSSL_API_VERSION', 0, 0, -1), ('_ssl.enum_crls', 0, 1, -1), ('_ssl.nid2obj', 0, 0, -1), ('_ssl.enum_certificates', 0, 1, -1), ('_ssl', 0, 0, -1), ('base64', 0, 0, -1), ('socket', 0, 0, -1), ('calendar.timegm', 1, 0, -1), ('errno', 0, 0, -1), ('collections.namedtuple', 0, 0, -1), ('_ssl.CERT_NONE', 0, 0, -1), ('socket._delegate_methods', 0, 0, -1), ('re', 0, 0, -1), ('_ssl.SSLWantWriteError', 0, 0, -1), ('time', 1, 0, -1), ('socket.socket', 0, 0, -1), ('_ssl.HAS_SNI', 0, 0, -1), ('socket.AF_INET', 0, 0, -1), ('socket.SOL_SOCKET', 0, 0, -1)] binaries=[] datas=[]>
+_socket: None -> <ExtensionModule '_socket' c:\Python27\DLLs\_socket.pyd imports=[] binaries=[] datas=[]>
+contextlib: None -> <PyModule 'contextlib' c:\Python27\lib\contextlib.pyc imports=[('functools.wraps', 0, 0, -1), ('functools', 0, 0, -1), ('warnings', 0, 0, -1), ('sys', 0, 0, -1), ('warnings.warn', 0, 0, -1)] binaries=[] datas=[]>
+SocketServer: None -> <PyModule 'SocketServer' c:\Python27\lib\SocketServer.pyc imports=[('threading', 0, 0, -1), ('sys', 0, 0, -1), ('select', 0, 0, -1), ('os', 0, 0, -1), ('StringIO', 1, 1, -1), ('StringIO.StringIO', 1, 1, -1), ('cStringIO.StringIO', 1, 0, -1), ('socket', 0, 0, -1), ('errno', 0, 0, -1), ('cStringIO', 1, 0, -1), ('dummy_threading', 0, 1, -1), ('traceback', 1, 0, -1)] binaries=[] datas=[]>
+dummy_threading: None -> <PyModule 'dummy_threading' c:\Python27\lib\dummy_threading.pyc imports=[('dummy_thread', 0, 0, -1), ('threading', 0, 0, -1), ('sys', 0, 0, -1), ('_dummy_threading', 0, 0, -1), ('_dummy_threading.__all__', 0, 0, -1), ('_dummy_threading.*', 0, 0, -1), ('sys.modules', 0, 0, -1)] binaries=[] datas=[]>
+_dummy_threading: None -> None
+  DEL _dummy_threading
+_dummy_threading: None -> None
+  DEL _dummy_threading
+_dummy_threading: None -> None
+  DEL _dummy_threading
+uu: None -> <PyModule 'uu' c:\Python27\lib\uu.pyc imports=[('optparse', 1, 0, -1), ('binascii', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1)] binaries=[] datas=[]>
+rfc822: None -> <PyModule 'rfc822' c:\Python27\lib\rfc822.pyc imports=[('sys', 0, 1, -1), ('warnings', 0, 0, -1), ('warnings.warnpy3k', 0, 0, -1), ('time', 0, 0, -1), ('os', 0, 1, -1)] binaries=[] datas=[]>
+urllib: None -> <PyModule 'urllib' c:\Python27\lib\urllib.pyc imports=[('ssl', 0, 0, -1), ('cStringIO.StringIO', 1, 0, -1), ('os', 0, 0, -1), ('email.utils', 1, 0, -1), ('StringIO', 1, 1, -1), ('nturl2path.url2pathname', 0, 1, -1), ('re', 1, 0, -1), ('cStringIO', 1, 1, -1), ('_scproxy._get_proxy_settings', 0, 1, -1), ('tempfile', 1, 1, -1), ('ftplib', 1, 0, -1), ('fnmatch', 1, 0, -1), ('re', 1, 1, -1), ('sys', 0, 0, -1), ('_scproxy', 0, 1, -1), ('mimetools', 1, 0, -1), ('warnings.warnpy3k', 1, 0, -1), ('string', 0, 0, -1), ('cStringIO.StringIO', 1, 1, -1), ('nturl2path.pathname2url', 0, 1, -1), ('warnings', 1, 0, -1), ('time', 0, 0, -1), ('_scproxy._get_proxies', 0, 1, -1), ('rourl2path.pathname2url', 0, 1, -1), ('urlparse', 0, 0, -1), ('mimetypes', 1, 0, -1), ('rourl2path', 0, 1, -1), ('socket', 0, 0, -1), ('base64', 0, 0, -1), ('ftplib', 1, 1, -1), ('getpass', 1, 0, -1), ('cStringIO', 1, 0, -1), ('re', 0, 0, -1), ('httplib', 1, 0, -1), ('urlparse.urljoin', 0, 0, -1), ('rourl2path.url2pathname', 0, 1, -1), ('nturl2path', 0, 1, -1), ('_winreg', 1, 0, -1), ('mimetools', 1, 1, -1), ('fnmatch.fnmatch', 1, 0, -1), ('socket', 1, 0, -1), ('StringIO.StringIO', 1, 1, -1)] binaries=[] datas=[]>
+email: None -> <PkgModule 'email' c:\Python27\lib\email\__init__.pyc imports=[('email.mime', 0, 0, -1), ('email.parser.Parser', 1, 0, -1), ('sys', 0, 0, -1), ('email.parser', 1, 0, -1), ('email.charset', 0, 0, -1), ('email.encoders', 0, 0, -1), ('email.errors', 0, 0, -1), ('email.feedparser', 0, 0, -1), ('email.generator', 0, 0, -1), ('email.header', 0, 0, -1), ('email.iterators', 0, 0, -1), ('email.message', 0, 0, -1), ('email.parser', 0, 0, -1), ('email.utils', 0, 0, -1), ('email.base64mime', 0, 0, -1), ('email.quoprimime', 0, 0, -1), ('email.mime.audio', 0, 0, -1), ('email.mime.base', 0, 0, -1), ('email.mime.image', 0, 0, -1), ('email.mime.message', 0, 0, -1), ('email.mime.multipart', 0, 0, -1), ('email.mime.nonmultipart', 0, 0, -1), ('email.mime.text', 0, 0, -1)] binaries=[] datas=[]>
+email.utils: None -> <PyModule 'email.utils' c:\Python27\lib\email\utils.pyc imports=[('email._parseaddr', 0, 0, -1), ('email.encoders', 0, 0, -1), ('re', 0, 0, -1), ('email._parseaddr.parsedate', 0, 0, -1), ('email._parseaddr.parsedate_tz', 0, 0, -1), ('email._parseaddr.quote', 0, 0, -1), ('os', 0, 0, -1), ('urllib', 1, 0, -1), ('email._parseaddr.mktime_tz', 0, 0, -1), ('warnings', 0, 0, -1), ('quopri.decodestring', 0, 0, -1), ('socket', 0, 0, -1), ('email.encoders._qencode', 0, 0, -1), ('random', 0, 0, -1), ('urllib', 0, 0, -1), ('base64', 0, 0, -1), ('email.encoders._bencode', 0, 0, -1), ('time', 0, 0, -1), ('quopri', 0, 0, -1), ('email._parseaddr.AddressList', 0, 0, -1)] binaries=[] datas=[]>
+_scproxy: None -> None
+  DEL _scproxy
+ftplib: None -> <PyModule 'ftplib' c:\Python27\lib\ftplib.pyc imports=[('ssl', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('re', 1, 1, -1), ('socket', 0, 0, -1), ('socket._GLOBAL_DEFAULT_TIMEOUT', 0, 0, -1), ('SOCKS', 0, 0, -1), ('socket', 0, 1, -1), ('socket.getfqdn', 0, 0, -1)] binaries=[] datas=[]>
+_scproxy: None -> None
+  DEL _scproxy
+_scproxy: None -> None
+  DEL _scproxy
+rourl2path: None -> None
+  DEL rourl2path
+urlparse: None -> <PyModule 'urlparse' c:\Python27\lib\urlparse.pyc imports=[('collections', 0, 0, -1), ('re', 0, 0, -1), ('collections.namedtuple', 0, 0, -1)] binaries=[] datas=[]>
+mimetypes: None -> <PyModule 'mimetypes' c:\Python27\lib\mimetypes.pyc imports=[('_winreg', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('urllib', 0, 0, -1), ('posixpath', 0, 0, -1), ('getopt', 0, 1, -1)] binaries=[] datas=[]>
+rourl2path: None -> None
+  DEL rourl2path
+getpass: None -> <PyModule 'getpass' c:\Python27\lib\getpass.pyc imports=[('sys', 0, 0, -1), ('os', 0, 0, -1), ('EasyDialogs', 0, 1, -1), ('warnings', 0, 0, -1), ('EasyDialogs.AskPassword', 0, 1, -1), ('msvcrt', 1, 0, -1), ('msvcrt', 0, 1, -1), ('pwd', 1, 0, -1), ('termios', 0, 0, -1), ('os', 1, 0, -1)] binaries=[] datas=[]>
+httplib: None -> <PyModule 'httplib' c:\Python27\lib\httplib.pyc imports=[('sys.py3kwarning', 0, 0, -1), ('re', 0, 0, -1), ('sys', 0, 0, -1), ('os', 0, 0, -1), ('array', 0, 0, -1), ('warnings', 0, 0, -1), ('ssl', 0, 0, -1), ('socket', 0, 0, -1), ('cStringIO', 0, 0, -1), ('mimetools', 0, 0, -1), ('array.array', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('StringIO', 0, 1, -1), ('urlparse.urlsplit', 0, 0, -1), ('urlparse', 0, 0, -1), ('_ssl', 0, 0, -1), ('ssl', 0, 0, -1)] binaries=[] datas=[]>
+rourl2path: None -> None
+  DEL rourl2path
+_winreg: None -> <BuiltinModule '_winreg' None imports=[] binaries=[] datas=[]>
+email.email: None -> None
+email.mime: None -> <PkgModule 'email.mime' c:\Python27\lib\email\mime\__init__.pyc imports=[] binaries=[] datas=[]>
+email.parser: None -> <PyModule 'email.parser' c:\Python27\lib\email\parser.pyc imports=[('email.message', 0, 0, -1), ('warnings', 0, 0, -1), ('cStringIO', 0, 0, -1), ('email.feedparser', 0, 0, -1), ('cStringIO.StringIO', 0, 0, -1), ('email.feedparser.FeedParser', 0, 0, -1), ('email.message.Message', 0, 0, -1)] binaries=[] datas=[]>
+email.sys: None -> None
+email.charset: None -> <PyModule 'email.charset' c:\Python27\lib\email\charset.pyc imports=[('email.encoders', 0, 0, -1), ('email.quoprimime', 0, 0, -1), ('email', 0, 0, -1), ('email.errors', 0, 0, -1), ('email.base64mime', 0, 0, -1), ('email.encoders.encode_7or8bit', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+email.encoders: None -> <PyModule 'email.encoders' c:\Python27\lib\email\encoders.pyc imports=[('base64', 0, 0, -1), ('quopri.encodestring', 0, 0, -1), ('quopri', 0, 0, -1)] binaries=[] datas=[]>
+email.errors: None -> <PyModule 'email.errors' c:\Python27\lib\email\errors.pyc imports=[] binaries=[] datas=[]>
+email.feedparser: None -> <PyModule 'email.feedparser' c:\Python27\lib\email\feedparser.pyc imports=[('email.errors', 0, 0, -1), ('re', 0, 0, -1), ('email', 0, 0, -1), ('email.message', 0, 0, -1)] binaries=[] datas=[]>
+email.generator: None -> <PyModule 'email.generator' c:\Python27\lib\email\generator.pyc imports=[('re', 0, 0, -1), ('sys', 0, 0, -1), ('warnings', 0, 0, -1), ('email.header.Header', 0, 0, -1), ('email.header', 0, 0, -1), ('cStringIO.StringIO', 0, 0, -1), ('cStringIO', 0, 0, -1), ('random', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+email.header: None -> <PyModule 'email.header' c:\Python27\lib\email\header.pyc imports=[('re', 0, 0, -1), ('email.quoprimime', 0, 0, -1), ('email.errors', 0, 0, -1), ('email.charset.Charset', 0, 0, -1), ('email.base64mime', 0, 0, -1), ('email.errors.HeaderParseError', 0, 0, -1), ('binascii', 0, 0, -1), ('email.charset', 0, 0, -1)] binaries=[] datas=[]>
+email.iterators: None -> <PyModule 'email.iterators' c:\Python27\lib\email\iterators.pyc imports=[('cStringIO.StringIO', 0, 0, -1), ('cStringIO', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+email.message: None -> <PyModule 'email.message' c:\Python27\lib\email\message.pyc imports=[('re', 0, 0, -1), ('email.iterators', 1, 0, -1), ('email', 0, 0, -1), ('email.errors', 0, 0, -1), ('email.iterators.walk', 1, 0, -1), ('warnings', 0, 0, -1), ('email.generator.Generator', 1, 0, -1), ('cStringIO', 0, 0, -1), ('email.utils', 0, 0, -1), ('cStringIO.StringIO', 0, 0, -1), ('binascii', 0, 0, -1), ('email.charset', 0, 0, -1), ('uu', 0, 0, -1), ('email.generator', 1, 0, -1), ('email.iterators', 0, 0, -1), ('email.generator', 0, 0, -1)] binaries=[] datas=[]>
+email.base64mime: None -> <PyModule 'email.base64mime' c:\Python27\lib\email\base64mime.pyc imports=[('email.utils.fix_eols', 0, 0, -1), ('binascii', 0, 0, -1), ('email.utils', 0, 0, -1), ('binascii.a2b_base64', 0, 0, -1), ('binascii.b2a_base64', 0, 0, -1)] binaries=[] datas=[]>
+email.quoprimime: None -> <PyModule 'email.quoprimime' c:\Python27\lib\email\quoprimime.pyc imports=[('string.hexdigits', 0, 0, -1), ('re', 0, 0, -1), ('email.utils.fix_eols', 0, 0, -1), ('string', 0, 0, -1), ('email.utils', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.audio: None -> <PyModule 'email.mime.audio' c:\Python27\lib\email\mime\audio.pyc imports=[('email.encoders', 0, 0, -1), ('email', 0, 0, -1), ('sndhdr', 0, 0, -1), ('email.mime.nonmultipart.MIMENonMultipart', 0, 0, -1), ('cStringIO', 0, 0, -1), ('email.mime.nonmultipart', 0, 0, -1), ('cStringIO.StringIO', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.base: None -> <PyModule 'email.mime.base' c:\Python27\lib\email\mime\base.pyc imports=[('email', 0, 0, -1), ('email.message', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.image: None -> <PyModule 'email.mime.image' c:\Python27\lib\email\mime\image.pyc imports=[('email.encoders', 0, 0, -1), ('email.mime.nonmultipart.MIMENonMultipart', 0, 0, -1), ('imghdr', 0, 0, -1), ('email.mime.nonmultipart', 0, 0, -1), ('email', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.message: None -> <PyModule 'email.mime.message' c:\Python27\lib\email\mime\message.pyc imports=[('email.mime.nonmultipart.MIMENonMultipart', 0, 0, -1), ('email.mime.nonmultipart', 0, 0, -1), ('email', 0, 0, -1), ('email.message', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.multipart: None -> <PyModule 'email.mime.multipart' c:\Python27\lib\email\mime\multipart.pyc imports=[('email.mime.base', 0, 0, -1), ('email.mime.base.MIMEBase', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.nonmultipart: None -> <PyModule 'email.mime.nonmultipart' c:\Python27\lib\email\mime\nonmultipart.pyc imports=[('email.errors', 0, 0, -1), ('email.mime.base', 0, 0, -1), ('email.mime.base.MIMEBase', 0, 0, -1), ('email', 0, 0, -1)] binaries=[] datas=[]>
+email.mime.text: None -> <PyModule 'email.mime.text' c:\Python27\lib\email\mime\text.pyc imports=[('email.encoders', 0, 0, -1), ('email.mime.nonmultipart.MIMENonMultipart', 0, 0, -1), ('email.encoders.encode_7or8bit', 0, 0, -1), ('email.mime.nonmultipart', 0, 0, -1)] binaries=[] datas=[]>
+email.warnings: None -> None
+email.cStringIO: None -> None
+email.re: None -> None
+email.binascii: None -> None
+email.uu: None -> None
+email.random: None -> None
+email.time: None -> None
+email.string: None -> None
+email._parseaddr: None -> <PyModule 'email._parseaddr' c:\Python27\lib\email\_parseaddr.pyc imports=[('calendar', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+email.os: None -> None
+email.urllib: None -> None
+email.quopri: None -> None
+email.socket: None -> None
+email.base64: None -> None
+email.calendar: None -> None
+email.codecs: None -> None
+email.mime.email: None -> None
+email.mime.sndhdr: None -> None
+sndhdr: None -> <PyModule 'sndhdr' c:\Python27\lib\sndhdr.pyc imports=[('sys', 1, 0, -1), ('aifc', 1, 0, -1), ('glob', 1, 1, -1), ('os', 1, 0, -1)] binaries=[] datas=[]>
+email.mime.cStringIO: None -> None
+aifc: None -> <PyModule 'aifc' c:\Python27\lib\aifc.pyc imports=[('cl', 1, 1, -1), ('struct', 0, 0, -1), ('audioop', 1, 0, -1), ('chunk.Chunk', 0, 0, -1), ('__builtin__', 0, 0, -1), ('sys', 0, 1, -1), ('cl', 1, 0, -1), ('math', 1, 0, -1), ('chunk', 0, 0, -1), ('audioop', 1, 1, -1)] binaries=[] datas=[]>
+cl: None -> None
+  DEL cl
+audioop: None -> <BuiltinModule 'audioop' None imports=[] binaries=[] datas=[]>
+chunk: None -> <PyModule 'chunk' c:\Python27\lib\chunk.pyc imports=[('struct', 1, 0, -1)] binaries=[] datas=[]>
+cl: None -> None
+  DEL cl
+email.mime.imghdr: None -> None
+imghdr: None -> <PyModule 'imghdr' c:\Python27\lib\imghdr.pyc imports=[('sys', 1, 0, -1), ('glob', 1, 1, -1), ('os', 1, 0, -1)] binaries=[] datas=[]>
+SOCKS: None -> None
+  DEL SOCKS
+EasyDialogs: None -> None
+  DEL EasyDialogs
+EasyDialogs: None -> None
+  DEL EasyDialogs
+pwd: None -> None
+  DEL pwd
+termios: None -> None
+  DEL termios
+__main__: <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\_pyi_bootstrap.py imports=[('sys', 0, 0, -1), ('os', 0, 0, -1), ('pyi_archive', 0, 0, -1), ('pyi_os_path', 0, 0, -1), ('site', 0, 0, -1), ('pyi_importers', 0, 0, -1), ('warnings', 0, 1, -1), ('encodings', 0, 0, -1)] binaries=[] datas=[]> -> <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_importers.py imports=[('pyi_archive.ZlibArchive', 0, 0, -1), ('imp', 0, 0, -1), ('sys', 0, 0, -1), ('pyi_archive.ArchiveReadError', 0, 0, -1), ('pyi_archive', 0, 0, -1), ('pyi_os_path', 0, 0, -1)] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+_emx_link: None -> None
+  DEL _emx_link
+_emx_link: None -> None
+  DEL _emx_link
+fcntl: None -> None
+  DEL fcntl
+readline: None -> None
+  DEL readline
+pwd: None -> None
+  DEL pwd
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+readline: None -> None
+  DEL readline
+fcntl: None -> None
+  DEL fcntl
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+__main__: <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_importers.py imports=[('pyi_archive.ZlibArchive', 0, 0, -1), ('imp', 0, 0, -1), ('sys', 0, 0, -1), ('pyi_archive.ArchiveReadError', 0, 0, -1), ('pyi_archive', 0, 0, -1), ('pyi_os_path', 0, 0, -1)] binaries=[] datas=[]> -> <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_archive.py imports=[('imp', 0, 0, -1), ('sys', 0, 0, -1), ('marshal', 0, 0, -1), ('os', 1, 1, -1), ('struct', 0, 0, -1), ('imp', 1, 0, -1)] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+_emx_link: None -> None
+  DEL _emx_link
+_emx_link: None -> None
+  DEL _emx_link
+fcntl: None -> None
+  DEL fcntl
+readline: None -> None
+  DEL readline
+pwd: None -> None
+  DEL pwd
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+readline: None -> None
+  DEL readline
+fcntl: None -> None
+  DEL fcntl
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+__main__: <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_archive.py imports=[('imp', 0, 0, -1), ('sys', 0, 0, -1), ('marshal', 0, 0, -1), ('os', 1, 1, -1), ('struct', 0, 0, -1), ('imp', 1, 0, -1)] binaries=[] datas=[]> -> <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_carchive.py imports=[('zlib', 0, 0, -1), ('os.path', 1, 0, -1), ('pyi_archive', 0, 0, -1), ('sys', 0, 0, -1), ('struct', 0, 0, -1)] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+_emx_link: None -> None
+  DEL _emx_link
+_emx_link: None -> None
+  DEL _emx_link
+fcntl: None -> None
+  DEL fcntl
+readline: None -> None
+  DEL readline
+pwd: None -> None
+  DEL pwd
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+readline: None -> None
+  DEL readline
+fcntl: None -> None
+  DEL fcntl
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+__main__: <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_carchive.py imports=[('zlib', 0, 0, -1), ('os.path', 1, 0, -1), ('pyi_archive', 0, 0, -1), ('sys', 0, 0, -1), ('struct', 0, 0, -1)] binaries=[] datas=[]> -> <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_os_path.py imports=[('sys', 0, 0, -1), ('posix.environ', 0, 1, -1), ('nt.listdir', 0, 1, -1), ('nt.environ', 0, 1, -1), ('posix', 0, 1, -1), ('posix.listdir', 0, 1, -1), ('nt', 0, 1, -1)] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+__main__: <PyScript '__main__' c:\Python27\lib\site-packages\pyinstaller-2.1-py2.7.egg\PyInstaller\loader\pyi_os_path.py imports=[('sys', 0, 0, -1), ('posix.environ', 0, 1, -1), ('nt.listdir', 0, 1, -1), ('nt.environ', 0, 1, -1), ('posix', 0, 1, -1), ('posix.listdir', 0, 1, -1), ('nt', 0, 1, -1)] binaries=[] datas=[]> -> <PyScript '__main__' tray.py imports=[('os', 0, 0, -1), ('pathDlg', 1, 0, -1), ('hashlib', 0, 0, -1), ('crawler_by_time_adr', 1, 0, -1), ('readyaml.readlogininfo', 0, 0, -1), ('threading', 0, 0, -1), ('wx', 0, 0, -1), ('readconfig.readconfiginfo', 0, 0, -1), ('sd3', 1, 1, -1), ('psur', 1, 1, -1), ('readconfig', 0, 0, -1), ('readyaml', 0, 0, -1), ('configxml', 0, 0, -1), ('adr_regulate', 1, 1, -1), ('logininfoDialog', 1, 0, -1), ('main', 0, 0, -1), ('mdr_appraise', 1, 1, -1), ('login_new_adr', 0, 0, -1), ('main_adr', 0, 0, -1), ('Ddbdialog', 1, 0, -1), ('checkitemmdr', 0, 0, -1), ('adr_appraise', 1, 1, -1), ('queryDlg', 1, 1, -1), ('zoe2', 1, 1, -1), ('datepicker', 1, 0, -1), ('mdrsql', 0, 0, -1), ('sd4', 1, 1, -1)] binaries=[] datas=[]>
+pathDlg: None -> <PyModule 'pathDlg' C:\Users\Administrator\Desktop\Robot project\adr-crawler\pathDlg.pyc imports=[('ConfigParser', 0, 0, -1), ('wx', 0, 0, -1), ('os', 1, 1, -1)] binaries=[] datas=[]>
+crawler_by_time_adr: None -> <PyModule 'crawler_by_time_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\crawler_by_time_adr.pyc imports=[('database_adr', 0, 0, -1), ('adr_adr', 0, 0, -1), ('common.*', 0, 0, -1), ('logging', 0, 0, -1), ('login_new_adr', 0, 0, -1), ('login2', 0, 0, -1), ('common', 0, 0, -1)] binaries=[] datas=[]>
+readyaml: None -> <PyModule 'readyaml' C:\Users\Administrator\Desktop\Robot project\adr-crawler\readyaml.pyc imports=[('yaml', 0, 0, -1)] binaries=[] datas=[]>
+wx: None -> <PkgModule 'wx' c:\Python27\lib\site-packages\wx-3.0-msw\wx\__init__.pyc imports=[('__version__', 0, 0, -1), ('wx._core', 0, 0, -1), ('wx._core.*', 0, 0, -1)] binaries=[] datas=[]>
+readconfig: None -> <PyModule 'readconfig' C:\Users\Administrator\Desktop\Robot project\adr-crawler\readconfig.pyc imports=[('yaml', 0, 0, -1)] binaries=[] datas=[]>
+sd3: None -> <PyModule 'sd3' C:\Users\Administrator\Desktop\Robot project\adr-crawler\sd3.pyc imports=[('datetime', 1, 0, -1), ('ConfigParser', 0, 0, -1), ('os', 0, 0, -1), ('wx', 0, 0, -1), ('time', 0, 0, -1), ('wx.calendar', 0, 0, -1)] binaries=[] datas=[]>
+psur: None -> <PyModule 'psur' C:\Users\Administrator\Desktop\Robot project\adr-crawler\psur.pyc imports=[('gzip', 1, 0, -1), ('gzip.GzipFile', 1, 0, -1), ('mdrtime.*', 0, 0, -1), ('mdrtime', 0, 0, -1), ('random', 1, 0, -1), ('mdrtime', 0, 1, -1), ('utils_psur.*', 0, 0, -1), ('utils_psur', 0, 0, -1), ('cStringIO.StringIO', 1, 0, -1), ('pathDlg', 1, 0, -1), ('utils.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('utils', 0, 0, -1), ('cStringIO', 1, 0, -1)] binaries=[] datas=[]>
+configxml: None -> <PyModule 'configxml' C:\Users\Administrator\Desktop\Robot project\adr-crawler\configxml.pyc imports=[('xml.dom.minidom', 0, 0, -1), ('base64', 1, 0, -1), ('mysql.connector', 0, 0, -1)] binaries=[] datas=[]>
+adr_regulate: None -> <PyModule 'adr_regulate' C:\Users\Administrator\Desktop\Robot project\adr-crawler\adr_regulate.pyc imports=[('adr_adr', 0, 0, -1), ('config', 0, 0, -1), ('deletedance', 0, 0, -1), ('simplejson', 0, 0, -1), ('login_new_adr', 0, 0, -1), ('urllib', 0, 0, -1), ('datetime', 0, 0, -1), ('mdrsql', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+logininfoDialog: None -> <PyModule 'logininfoDialog' C:\Users\Administrator\Desktop\Robot project\adr-crawler\logininfoDialog.pyc imports=[('yaml', 0, 0, -1), ('hashlib', 0, 0, -1), ('wx', 0, 0, -1)] binaries=[] datas=[]>
+main: None -> <PyModule 'main' C:\Users\Administrator\Desktop\Robot project\adr-crawler\main.pyc imports=[('mdrtime.*', 0, 0, -1), ('mdrtime', 0, 0, -1), ('deletedance', 0, 0, -1), ('mdr_parse', 0, 0, -1), ('utils.*', 0, 0, -1), ('report_query', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('login2.login', 0, 0, -1)] binaries=[] datas=[]>
+mdr_appraise: None -> <PyModule 'mdr_appraise' C:\Users\Administrator\Desktop\Robot project\adr-crawler\mdr_appraise.pyc imports=[('sys', 0, 0, -1), ('urllib', 0, 0, -1), ('mdr_parse', 0, 0, -1), ('mdrsql', 0, 0, -1), ('report_query_full', 0, 0, -1), ('datetime', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+login_new_adr: None -> <PyModule 'login_new_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\login_new_adr.pyc imports=[('HTMLParser', 0, 0, -1), ('database_adr', 0, 0, -1), ('logging', 0, 0, -1), ('HTMLParser.HTMLParser', 0, 0, -1), ('StringIO', 0, 0, -1), ('calendar', 0, 0, -1), ('common.*', 0, 0, -1), ('gzip', 0, 0, -1), ('utils.*', 0, 0, -1), ('random', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('time', 0, 0, -1), ('common', 0, 0, -1)] binaries=[] datas=[]>
+main_adr: None -> <PyModule 'main_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\main_adr.pyc imports=[('adr_adr', 0, 0, -1), ('common.*', 0, 0, -1), ('logging', 0, 0, -1), ('login_new_adr', 0, 0, -1), ('login2', 0, 0, -1), ('common', 0, 0, -1)] binaries=[] datas=[]>
+Ddbdialog: None -> <PyModule 'Ddbdialog' C:\Users\Administrator\Desktop\Robot project\adr-crawler\Ddbdialog.pyc imports=[('os', 0, 0, -1), ('base64', 1, 0, -1), ('wx', 0, 0, -1), ('configxml', 0, 0, -1), ('xml.dom.minidom', 1, 0, -1)] binaries=[] datas=[]>
+checkitemmdr: None -> <PyModule 'checkitemmdr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\checkitemmdr.pyc imports=[('codecs', 0, 0, -1), ('calendar', 0, 0, -1), ('utils.*', 0, 0, -1), ('config.*', 0, 0, -1), ('config', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('time', 0, 0, -1), ('login2.login', 0, 0, -1)] binaries=[] datas=[]>
+adr_appraise: None -> <PyModule 'adr_appraise' C:\Users\Administrator\Desktop\Robot project\adr-crawler\adr_appraise.pyc imports=[('adr_regulate', 0, 0, -1), ('sys', 0, 0, -1), ('adr_adr', 0, 0, -1), ('config', 0, 0, -1), ('login2', 0, 1, -1), ('re', 0, 0, -1), ('logging', 0, 0, -1), ('login2', 1, 0, -1), ('login_new_adr', 0, 0, -1), ('urllib', 0, 0, -1), ('datetime', 0, 0, -1), ('mdrsql', 0, 0, -1)] binaries=[] datas=[]>
+queryDlg: None -> <PyModule 'queryDlg' C:\Users\Administrator\Desktop\Robot project\adr-crawler\queryDlg.pyc imports=[('mdrsql', 0, 0, -1), ('threading', 1, 0, -1), ('wx.grid', 0, 0, -1), ('wx', 0, 0, -1), ('psur_extradownload', 1, 0, -1)] binaries=[] datas=[]>
+zoe2: None -> <PyModule 'zoe2' C:\Users\Administrator\Desktop\Robot project\adr-crawler\zoe2.pyc imports=[('calendar', 0, 0, -1), ('time', 0, 0, -1), ('acdownload', 0, 0, -1), ('utils.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('datetime', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('codecs', 0, 0, -1), ('login2.login', 0, 0, -1)] binaries=[] datas=[]>
+datepicker: None -> <PyModule 'datepicker' C:\Users\Administrator\Desktop\Robot project\adr-crawler\datepicker.pyc imports=[('ConfigParser', 0, 0, -1), ('wx.lib.scrolledpanel', 0, 0, -1), ('wx', 0, 0, -1), ('wx.lib.masked', 0, 0, -1)] binaries=[] datas=[]>
+mdrsql: None -> <PyModule 'mdrsql' C:\Users\Administrator\Desktop\Robot project\adr-crawler\mdrsql.pyc imports=[('config', 0, 0, -1), ('config.*', 0, 0, -1)] binaries=[] datas=[]>
+sd4: None -> <PyModule 'sd4' C:\Users\Administrator\Desktop\Robot project\adr-crawler\sd4.pyc imports=[('time', 0, 0, -1), ('ConfigParser', 0, 0, -1), ('wx', 0, 0, -1)] binaries=[] datas=[]>
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+posix: None -> None
+  DEL posix
+_emx_link: None -> None
+  DEL _emx_link
+_emx_link: None -> None
+  DEL _emx_link
+fcntl: None -> None
+  DEL fcntl
+readline: None -> None
+  DEL readline
+pwd: None -> None
+  DEL pwd
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+readline: None -> None
+  DEL readline
+fcntl: None -> None
+  DEL fcntl
+org: None -> None
+  DEL org
+org: None -> None
+  DEL org
+ConfigParser: None -> <PyModule 'ConfigParser' c:\Python27\lib\ConfigParser.pyc imports=[('collections', 0, 0, -1), ('re', 0, 0, -1), ('UserDict', 0, 0, -1), ('collections.OrderedDict', 0, 0, -1)] binaries=[] datas=[]>
+wx.__version__: None -> <PyModule 'wx.__version__' c:\Python27\lib\site-packages\wx-3.0-msw\wx\__version__.pyc imports=[] binaries=[] datas=[]>
+wx.wx: None -> None
+wx._core: None -> <PyModule 'wx._core' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_core.pyc imports=[('__version__.*', 0, 0, -1), ('warnings', 0, 0, -1), ('locale', 0, 1, -1), ('types', 1, 0, -1), ('sys', 0, 0, -1), ('_controls', 0, 0, -1), ('_windows', 0, 0, -1), ('_windows.*', 0, 0, -1), ('_misc.*', 0, 0, -1), ('warnings', 1, 0, -1), ('signal', 1, 1, -1), ('_gdi', 0, 0, -1), ('atexit', 0, 0, -1), ('_controls.*', 0, 0, -1), ('types', 0, 0, -1), ('__version__', 0, 0, -1), ('_misc', 0, 0, -1), ('warnings', 0, 1, -1), ('_core_', 0, 0, -1), ('codecs', 0, 1, -1), ('new', 0, 0, -1), ('_gdi.*', 0, 0, -1)] binaries=[] datas=[]>
+wx.warnings: None -> None
+wx.locale: None -> None
+wx.types: None -> None
+wx.sys: None -> None
+wx._controls: None -> <PyModule 'wx._controls' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_controls.pyc imports=[('new', 0, 0, -1), ('_controls_', 0, 0, -1), ('_core', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+wx._windows: None -> <PyModule 'wx._windows' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_windows.pyc imports=[('_windows_', 0, 0, -1), ('new', 0, 0, -1), ('_core', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+wx._misc: None -> <PyModule 'wx._misc' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_misc.pyc imports=[('new', 0, 0, -1), ('_core', 0, 0, -1), ('_misc_', 0, 0, -1), ('types', 0, 0, -1)] binaries=[] datas=[]>
+wx.signal: None -> None
+wx._gdi: None -> <PyModule 'wx._gdi' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_gdi.pyc imports=[('_gdi_', 0, 0, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('new', 0, 0, -1), ('_core', 0, 0, -1), ('wx', 1, 0, -1)] binaries=[] datas=[]>
+wx.atexit: None -> None
+wx._core_: None -> <ExtensionModule 'wx._core_' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_core_.pyd imports=[] binaries=[] datas=[]>
+wx.codecs: None -> None
+wx.new: None -> None
+new: None -> <PyModule 'new' c:\Python27\lib\new.pyc imports=[('types.CodeType', 0, 0, -1), ('types.MethodType', 0, 0, -1), ('types', 0, 0, -1), ('types.InstanceType', 0, 0, -1), ('warnings', 0, 0, -1), ('types.FunctionType', 0, 0, -1), ('types.ModuleType', 0, 0, -1), ('warnings.warnpy3k', 0, 0, -1), ('types.ClassType', 0, 0, -1)] binaries=[] datas=[]>
+wx._controls_: None -> <ExtensionModule 'wx._controls_' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_controls_.pyd imports=[] binaries=[] datas=[]>
+wx._windows_: None -> <ExtensionModule 'wx._windows_' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_windows_.pyd imports=[] binaries=[] datas=[]>
+wx._misc_: None -> <ExtensionModule 'wx._misc_' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_misc_.pyd imports=[] binaries=[] datas=[]>
+wx._gdi_: None -> <ExtensionModule 'wx._gdi_' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_gdi_.pyd imports=[] binaries=[] datas=[]>
+wx.os: None -> None
+database_adr: None -> <PyModule 'database_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\database_adr.pyc imports=[('re', 0, 0, -1), ('sys', 0, 0, -1), ('mysql.connector.*', 0, 0, -1), ('logging', 0, 0, -1), ('xml.dom.minidom', 0, 0, -1), ('mysql.connector', 0, 0, -1), ('traceback', 0, 0, -1), ('codecs', 0, 0, -1), ('config', 0, 0, -1)] binaries=[] datas=[]>
+adr_adr: None -> <PyModule 'adr_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\adr_adr.pyc imports=[('HTMLParser', 0, 0, -1), ('re', 0, 0, -1), ('mdrsql', 1, 1, -1), ('sys', 0, 0, -1), ('database_adr', 0, 0, -1), ('time', 1, 1, -1), ('utils_adr', 0, 0, -1), ('logging', 0, 0, -1), ('adrparseradr_adr', 0, 0, -1), ('traceback', 0, 0, -1), ('login_new_adr', 0, 0, -1), ('HTMLParser.HTMLParser', 0, 0, -1)] binaries=[] datas=[]>
+common: None -> <PyModule 'common' C:\Users\Administrator\Desktop\Robot project\adr-crawler\common.pyc imports=[('mdrtime.*', 0, 0, -1), ('mdrtime', 0, 0, -1), ('cookielib', 0, 0, -1), ('os', 0, 0, -1), ('urllib2', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+login2: None -> <PyModule 'login2' C:\Users\Administrator\Desktop\Robot project\adr-crawler\login2.pyc imports=[('utils', 0, 0, -1), ('common.*', 0, 0, -1), ('utils.*', 0, 0, -1), ('readyaml', 0, 0, -1), ('readyaml.readlogininfo', 0, 0, -1), ('common', 0, 0, -1)] binaries=[] datas=[]>
+mysql: None -> <PkgModule 'mysql' c:\Python27\lib\site-packages\mysql\__init__.pyc imports=[] binaries=[] datas=[]>
+mysql.connector: None -> <PkgModule 'mysql.connector' c:\Python27\lib\site-packages\mysql\connector\__init__.pyc imports=[('errors.ProgrammingError', 0, 0, 1), ('optionfiles', 0, 0, 1), ('errors.IntegrityError', 0, 0, 1), ('_mysql_connector', 0, 0, -1), ('dbapi.Timestamp', 0, 0, 1), ('dbapi.DateFromTicks', 0, 0, 1), ('errors.PoolError', 0, 0, 1), ('connection.MySQLConnection', 0, 0, 1), ('pooling.CONNECTION_POOL_LOCK', 1, 0, 1), ('constants.CharacterSet', 0, 0, 1), ('optionfiles.read_option_files', 0, 0, 1), ('pooling.generate_pool_name', 1, 0, 1), ('errors.InternalError', 0, 0, 1), ('constants', 1, 0, 1), ('errors.NotSupportedError', 0, 0, 1), ('dbapi.STRING', 0, 0, 1), ('constants.FieldType', 0, 0, 1), ('constants.RefreshOption', 0, 0, 1), ('dbapi.paramstyle', 0, 0, 1), ('fabric', 1, 1, 1), ('dbapi.ROWID', 0, 0, 1), ('dbapi.apilevel', 0, 0, 1), ('fabric.connect', 1, 1, 1), ('dbapi', 0, 0, 1), ('constants.FieldFlag', 0, 0, 1), ('dbapi.Time', 0, 0, 1), ('errors.Error', 0, 0, 1), ('dbapi.DATETIME', 0, 0, 1), ('dbapi.BINARY', 0, 0, 1), ('', 0, 0, 1), ('errors.DataError', 0, 0, 1), ('errors.DatabaseError', 0, 0, 1), ('pooling', 1, 0, 1), ('constants.CNX_POOL_ARGS', 1, 0, 1), ('errors.Warning', 0, 0, 1), ('constants', 0, 0, 1), ('pooling.MySQLConnectionPool', 1, 0, 1), ('version', 0, 0, 1), ('dbapi.Date', 0, 0, 1), ('constants.ClientFlag', 0, 0, 1), ('connection_cext', 0, 0, 1), ('dbapi.Binary', 0, 0, 1), ('dbapi.threadsafety', 0, 0, 1), ('errors.custom_error_exception', 0, 0, 1), ('errors', 0, 0, 1), ('dbapi.TimeFromTicks', 0, 0, 1), ('dbapi.NUMBER', 0, 0, 1), ('errors.InterfaceError', 0, 0, 1), ('connection_cext.CMySQLConnection', 0, 0, 1), ('connection', 0, 0, 1), ('dbapi.TimestampFromTicks', 0, 0, 1), ('errors.OperationalError', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.CMySQLConnection: None -> None
+mysql.connector.ROWID: None -> None
+mysql.connector.DATETIME: None -> None
+mysql.connector.NUMBER: None -> None
+mysql.connector.BINARY: None -> None
+mysql.connector.STRING: None -> None
+mysql.connector.TimeFromTicks: None -> None
+mysql.connector.TimestampFromTicks: None -> None
+mysql.connector.DateFromTicks: None -> None
+mysql.connector.DateFromTicks: None -> None
+mysql.connector.Binary: None -> None
+mysql.connector.Timestamp: None -> None
+mysql.connector.Time: None -> None
+mysql.connector.Date: None -> None
+mysql.connector.paramstyle: None -> None
+mysql.connector.threadsafety: None -> None
+mysql.connector.apilevel: None -> None
+mysql.connector.connect: None -> None
+mysql.connector.InternalError: None -> None
+mysql.connector.OperationalError: None -> None
+mysql.connector.ProgrammingError: None -> None
+mysql.connector.IntegrityError: None -> None
+mysql.connector.DataError: None -> None
+mysql.connector.NotSupportedError: None -> None
+mysql.connector.DatabaseError: None -> None
+mysql.connector.InterfaceError: None -> None
+mysql.connector.Warning: None -> None
+mysql.connector.Error: None -> None
+mysql.connector.HAVE_CEXT: None -> None
+mysql.connector.RefreshOption: None -> None
+mysql.connector.CharacterSet: None -> None
+mysql.connector.ClientFlag: None -> None
+mysql.connector.FieldFlag: None -> None
+mysql.connector.FieldType: None -> None
+mysql.connector.custom_error_exception: None -> None
+mysql.connector.Connect: None -> None
+mysql.connector.MySQLConnection: None -> None
+xml: None -> <PkgModule 'xml' c:\Python27\lib\xml\__init__.pyc imports=[('sys', 0, 1, -1), ('_xmlplus', 0, 0, -1), ('xml.sax.xmlreader', 0, 0, -1), ('xml.sax.expatreader', 0, 0, -1)] binaries=[] datas=[]>
+xml.dom: None -> <PkgModule 'xml.dom' c:\Python27\lib\xml\dom\__init__.pyc imports=[('domreg', 0, 0, -1), ('domreg.registerDOMImplementation', 0, 0, -1), ('domreg.getDOMImplementation', 0, 0, -1)] binaries=[] datas=[]>
+xml.dom.minidom: None -> <PyModule 'xml.dom.minidom' c:\Python27\lib\xml\dom\minidom.pyc imports=[('xml.dom.minicompat', 0, 0, -1), ('xml.dom.expatbuilder', 1, 1, -1), ('xml.dom.xmlbuilder.DOMImplementationLS', 0, 0, -1), ('xml.dom', 0, 0, -1), ('xml.dom.xmlbuilder', 0, 0, -1), ('xml.dom.domreg', 0, 0, -1), ('StringIO.StringIO', 1, 0, -1), ('xml.dom.EMPTY_NAMESPACE', 0, 0, -1), ('xml.dom.XMLNS_NAMESPACE', 0, 0, -1), ('xml.dom.pulldom', 1, 0, -1), ('StringIO', 1, 0, -1), ('xml.dom.EMPTY_PREFIX', 0, 0, -1), ('xml.dom.xmlbuilder.DocumentLS', 0, 0, -1), ('xml.dom', 1, 0, -1), ('xml.dom.minicompat.*', 0, 0, -1), ('codecs', 1, 1, -1), ('xml.dom', 1, 1, -1)] binaries=[] datas=[]>
+config: None -> <PyModule 'config' C:\Users\Administrator\Desktop\Robot project\adr-crawler\config.pyc imports=[('xml.dom.minidom', 0, 0, -1), ('base64', 1, 0, -1), ('mysql.connector', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.errors: None -> <PyModule 'mysql.connector.errors' c:\Python27\lib\site-packages\mysql\connector\errors.pyc imports=[('utils', 0, 0, 1), ('', 0, 0, 1), ('locales.get_client_error', 0, 0, 1), ('catch23', 0, 0, 1), ('locales', 0, 0, 1), ('catch23.PY2', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.optionfiles: None -> <PyModule 'mysql.connector.optionfiles' c:\Python27\lib\site-packages\mysql\connector\optionfiles.pyc imports=[('configparser.MissingSectionHeaderError', 0, 1, -1), ('re', 0, 0, -1), ('constants.CNX_FABRIC_ARGS', 0, 0, 1), ('constants.CNX_POOL_ARGS', 0, 0, 1), ('configparser', 0, 1, -1), ('os', 0, 0, -1), ('constants.DEFAULT_CONFIGURATION', 0, 0, 1), ('configparser.ConfigParser', 0, 1, -1), ('ConfigParser', 0, 1, -1), ('ConfigParser.SafeConfigParser', 0, 1, -1), ('catch23', 0, 0, 1), ('constants', 0, 0, 1), ('ConfigParser.MissingSectionHeaderError', 0, 1, -1), ('catch23.PY2', 0, 0, 1), ('codecs', 0, 0, -1), ('io', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector._mysql_connector: None -> None
+_mysql_connector: None -> <ExtensionModule '_mysql_connector' c:\Python27\lib\site-packages\_mysql_connector.pyd imports=[] binaries=[] datas=[]>
+mysql.connector.dbapi: None -> <PyModule 'mysql.connector.dbapi' c:\Python27\lib\site-packages\mysql\connector\dbapi.pyc imports=[('constants', 0, 0, 1), ('datetime', 0, 0, -1), ('', 0, 0, 1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.connection: None -> <PyModule 'mysql.connector.connection' c:\Python27\lib\site-packages\mysql\connector\connection.pyc imports=[('constants.NET_BUFFER_LENGTH', 0, 0, 1), ('constants.ServerFlag', 0, 0, 1), ('conversion.MySQLConverter', 0, 0, 1), ('cursor.MySQLCursor', 0, 0, 1), ('constants.ServerCmd', 0, 0, 1), ('protocol', 0, 0, 1), ('network', 0, 0, 1), ('cursor.MySQLCursorNamedTuple', 0, 0, 1), ('catch23.isstr', 0, 0, 1), ('abstracts', 0, 0, 1), ('network.MySQLUnixSocket', 0, 0, 1), ('cursor.MySQLCursorPrepared', 0, 0, 1), ('network.MySQLTCPSocket', 0, 0, 1), ('utils.int4store', 0, 0, 1), ('cursor.CursorBase', 0, 0, 1), ('cursor.MySQLCursorBufferedNamedTuple', 0, 0, 1), ('os', 0, 0, -1), ('catch23.PY2', 0, 0, 1), ('time', 0, 0, -1), ('cursor.MySQLCursorBufferedRaw', 0, 0, 1), ('cursor.MySQLCursorDict', 0, 0, 1), ('constants.flag_is_set', 0, 0, 1), ('cursor.MySQLCursorRaw', 0, 0, 1), ('', 0, 0, 1), ('catch23', 0, 0, 1), ('conversion', 0, 0, 1), ('cursor.MySQLCursorBuffered', 0, 0, 1), ('io.IOBase', 0, 0, -1), ('constants', 0, 0, 1), ('cursor', 0, 0, 1), ('authentication.get_auth_plugin', 0, 0, 1), ('constants.ShutdownType', 0, 0, 1), ('constants.ClientFlag', 0, 0, 1), ('utils', 0, 0, 1), ('authentication', 0, 0, 1), ('abstracts.MySQLConnectionAbstract', 0, 0, 1), ('errors', 0, 0, 1), ('cursor.MySQLCursorBufferedDict', 0, 0, 1), ('protocol.MySQLProtocol', 0, 0, 1), ('io', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.pooling: None -> <PyModule 'mysql.connector.pooling' c:\Python27\lib\site-packages\mysql\connector\pooling.pyc imports=[('threading', 0, 0, -1), ('uuid.uuid4', 0, 0, -1), ('queue', 0, 0, -1), ('', 0, 0, 1), ('re', 0, 0, -1), ('uuid', 0, 0, -1), ('errors', 0, 0, 1), ('connection.MySQLConnection', 0, 0, 1), ('Queue', 0, 1, -1), ('connection', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.constants: None -> <PyModule 'mysql.connector.constants' c:\Python27\lib\site-packages\mysql\connector\constants.pyc imports=[('errors.ProgrammingError', 0, 0, 1), ('charsets.MYSQL_CHARACTER_SETS', 0, 0, 1), ('charsets', 0, 0, 1), ('errors', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.fabric: None -> <PkgModule 'mysql.connector.fabric' c:\Python27\lib\site-packages\mysql\connector\fabric\__init__.pyc imports=[('collections', 0, 0, -1), ('connection.SCOPE_GLOBAL', 0, 0, 1), ('connection.MODE_READONLY', 0, 0, 1), ('connection.MODE_READWRITE', 0, 0, 1), ('connection.FabricConnection', 0, 0, 1), ('connection.Fabric', 0, 0, 1), ('connection.STATUS_PRIMARY', 0, 0, 1), ('connection.SCOPE_LOCAL', 0, 0, 1), ('connection.FabricSet', 0, 0, 1), ('connection.MySQLFabricConnection', 0, 0, 1), ('collections.namedtuple', 0, 0, -1), ('connection', 0, 0, 1), ('connection.STATUS_SECONDARY', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.fabric.connect: None -> None
+  DEL mysql.connector.fabric.connect
+mysql.connector.version: None -> <PyModule 'mysql.connector.version' c:\Python27\lib\site-packages\mysql\connector\version.pyc imports=[] binaries=[] datas=[]>
+mysql.connector.connection_cext: None -> <PyModule 'mysql.connector.connection_cext' c:\Python27\lib\site-packages\mysql\connector\connection_cext.pyc imports=[('cursor_cext.CMySQLCursor', 0, 0, 1), ('_mysql_connector', 0, 0, -1), ('cursor_cext.CMySQLCursorRaw', 0, 0, 1), ('protocol', 0, 0, 1), ('cursor_cext', 0, 0, 1), ('cursor_cext.CMySQLCursorBufferedDict', 0, 0, 1), ('abstracts', 0, 0, 1), ('cursor_cext.CMySQLCursorNamedTuple', 0, 0, 1), ('constants.CharacterSet', 0, 0, 1), ('constants.ServerFlag', 0, 0, 1), ('catch23', 0, 0, 1), ('constants.FieldFlag', 0, 0, 1), ('cursor_cext.CMySQLCursorDict', 0, 0, 1), ('', 0, 0, 1), ('cursor_cext.CMySQLCursorBufferedNamedTuple', 0, 0, 1), ('cursor_cext.CMySQLCursorPrepared', 0, 0, 1), ('abstracts.MySQLCursorAbstract', 0, 0, 1), ('catch23.INT_TYPES', 0, 0, 1), ('constants', 0, 0, 1), ('constants.ShutdownType', 0, 0, 1), ('constants.ClientFlag', 0, 0, 1), ('cursor_cext.CMySQLCursorBufferedRaw', 0, 0, 1), ('cursor_cext.CMySQLCursorBuffered', 0, 0, 1), ('abstracts.MySQLConnectionAbstract', 0, 0, 1), ('errors', 0, 0, 1), ('protocol.MySQLProtocol', 0, 0, 1), ('_mysql_connector.MySQLInterfaceError', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.utils: None -> <PyModule 'mysql.connector.utils' c:\Python27\lib\site-packages\mysql\connector\utils.pyc imports=[('__future__', 0, 0, -1), ('catch23.struct_unpack', 0, 0, 1), ('__future__.print_function', 0, 0, -1), ('struct', 0, 0, -1), ('catch23', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.locales: None -> <PkgModule 'mysql.connector.locales' c:\Python27\lib\site-packages\mysql\connector\locales\__init__.pyc imports=[('', 0, 0, 2), ('errorcode', 0, 0, 2)] binaries=[] datas=[]>
+mysql.connector.locales.get_client_error: None -> None
+  DEL mysql.connector.locales.get_client_error
+mysql.connector.catch23: None -> <PyModule 'mysql.connector.catch23' c:\Python27\lib\site-packages\mysql\connector\catch23.pyc imports=[('custom_types.HexLiteral', 0, 0, 1), ('sys', 0, 0, -1), ('decimal.Decimal', 0, 0, -1), ('struct', 0, 0, -1), ('custom_types', 0, 0, 1), ('decimal', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.__future__: None -> None
+mysql.connector.struct: None -> None
+mysql.connector.custom_types: None -> <PyModule 'mysql.connector.custom_types' c:\Python27\lib\site-packages\mysql\connector\custom_types.pyc imports=[('sys', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.sys: None -> None
+mysql.connector.decimal: None -> None
+decimal: None -> <PyModule 'decimal' c:\Python27\lib\decimal.pyc imports=[('collections', 0, 0, -1), ('threading', 0, 0, -1), ('itertools.chain', 1, 0, -1), ('math', 0, 0, -1), ('itertools.repeat', 1, 0, -1), ('doctest', 0, 1, -1), ('re', 0, 0, -1), ('itertools', 1, 0, -1), ('sys', 0, 1, -1), ('collections.namedtuple', 0, 0, -1), ('locale', 0, 0, -1), ('numbers', 0, 0, -1)] binaries=[] datas=[]>
+numbers: None -> <PyModule 'numbers' c:\Python27\lib\numbers.pyc imports=[('__future__.division', 0, 0, -1), ('abc', 0, 0, -1), ('abc.abstractproperty', 0, 0, -1), ('__future__', 0, 0, -1), ('abc.abstractmethod', 0, 0, -1), ('abc.ABCMeta', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.errorcode: None -> <PyModule 'mysql.connector.errorcode' c:\Python27\lib\site-packages\mysql\connector\errorcode.pyc imports=[] binaries=[] datas=[]>
+mysql.connector.configparser: None -> None
+configparser: None -> None
+  DEL configparser
+mysql.connector.re: None -> None
+configparser: None -> None
+  DEL configparser
+mysql.connector.os: None -> None
+configparser: None -> None
+  DEL configparser
+mysql.connector.ConfigParser: None -> None
+mysql.connector.codecs: None -> None
+mysql.connector.io: None -> None
+mysql.connector.charsets: None -> <PyModule 'mysql.connector.charsets' c:\Python27\lib\site-packages\mysql\connector\charsets.pyc imports=[] binaries=[] datas=[]>
+mysql.connector.datetime: None -> None
+mysql.connector.time: None -> None
+mysql.connector.conversion: None -> <PyModule 'mysql.connector.conversion' c:\Python27\lib\site-packages\mysql\connector\conversion.pyc imports=[('custom_types.HexLiteral', 0, 0, 1), ('catch23.NUMERIC_TYPES', 0, 0, 1), ('catch23.struct_unpack', 0, 0, 1), ('constants.CharacterSet', 0, 0, 1), ('decimal.Decimal', 0, 0, -1), ('custom_types', 0, 0, 1), ('constants.FieldType', 0, 0, 1), ('datetime', 0, 0, -1), ('catch23', 0, 0, 1), ('constants', 0, 0, 1), ('catch23.PY2', 0, 0, 1), ('decimal', 0, 0, -1), ('time', 0, 0, -1), ('constants.FieldFlag', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.cursor: None -> <PyModule 'mysql.connector.cursor' c:\Python27\lib\site-packages\mysql\connector\cursor.pyc imports=[('collections', 0, 0, -1), ('re', 0, 0, -1), ('weakref', 0, 0, -1), ('', 0, 0, 1), ('errors', 0, 0, 1), ('abstracts.MySQLCursorAbstract', 0, 0, 1), ('abstracts', 0, 0, 1), ('catch23', 0, 0, 1), ('catch23.PY2', 0, 0, 1), ('collections.namedtuple', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.protocol: None -> <PyModule 'mysql.connector.protocol' c:\Python27\lib\site-packages\mysql\connector\protocol.pyc imports=[('constants.ClientFlag', 0, 0, 1), ('utils', 0, 0, 1), ('authentication.get_auth_plugin', 0, 0, 1), ('catch23.struct_unpack', 0, 0, 1), ('decimal.Decimal', 0, 0, -1), ('errors.get_exception', 0, 0, 1), ('constants.FieldType', 0, 0, 1), ('constants.ServerCmd', 0, 0, 1), ('struct', 0, 0, -1), ('errors', 0, 0, 1), ('datetime', 0, 0, -1), ('constants.MAX_MYSQL_TABLE_COLUMNS', 0, 0, 1), ('catch23', 0, 0, 1), ('constants', 0, 0, 1), ('catch23.PY2', 0, 0, 1), ('decimal', 0, 0, -1), ('authentication', 0, 0, 1), ('', 0, 0, 1), ('constants.FieldFlag', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.network: None -> <PyModule 'mysql.connector.network' c:\Python27\lib\site-packages\mysql\connector\network.pyc imports=[('catch23.init_bytearray', 0, 0, 1), ('collections', 0, 0, -1), ('ssl', 0, 0, -1), ('sys', 0, 0, -1), ('collections.deque', 0, 0, -1), ('', 0, 0, 1), ('catch23.struct_unpack', 0, 0, 1), ('struct', 0, 0, -1), ('errors', 0, 0, 1), ('constants', 0, 0, 1), ('socket', 0, 0, -1), ('catch23', 0, 0, 1), ('zlib', 0, 0, -1), ('catch23.PY2', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.abstracts: None -> <PyModule 'mysql.connector.abstracts' c:\Python27\lib\site-packages\mysql\connector\abstracts.pyc imports=[('catch23.make_abc', 0, 0, 1), ('re', 0, 0, -1), ('optionfiles', 0, 0, 1), ('', 0, 0, 1), ('conversion', 0, 0, 1), ('constants.CharacterSet', 0, 0, 1), ('abc.abstractproperty', 0, 0, -1), ('constants.ClientFlag', 0, 0, 1), ('errors', 0, 0, 1), ('abc', 0, 0, -1), ('constants', 0, 0, 1), ('catch23.BYTE_TYPES', 0, 0, 1), ('optionfiles.MySQLOptionsParser', 0, 0, 1), ('catch23', 0, 0, 1), ('conversion.MySQLConverterBase', 0, 0, 1), ('abc.abstractmethod', 0, 0, -1), ('abc.ABCMeta', 0, 0, -1), ('time', 0, 0, -1), ('constants.DEFAULT_CONFIGURATION', 0, 0, 1)] binaries=[] datas=[]>
+mysql.connector.authentication: None -> <PyModule 'mysql.connector.authentication' c:\Python27\lib\site-packages\mysql\connector\authentication.pyc imports=[('', 0, 0, 1), ('struct', 0, 0, -1), ('errors', 0, 0, 1), ('hashlib', 0, 0, -1), ('catch23.isstr', 0, 0, 1), ('catch23', 0, 0, 1), ('catch23.PY2', 0, 0, 1), ('hashlib.sha1', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.collections: None -> None
+mysql.connector.weakref: None -> None
+mysql.connector.abc: None -> None
+mysql.connector.hashlib: None -> None
+mysql.connector.ssl: None -> None
+mysql.connector.socket: None -> None
+mysql.connector.zlib: None -> None
+mysql.connector.threading: None -> None
+mysql.connector.uuid: None -> None
+uuid: None -> <PyModule 'uuid' c:\Python27\lib\uuid.pyc imports=[('ctypes', 0, 0, -1), ('hashlib.sha1', 1, 0, -1), ('sys', 0, 0, -1), ('hashlib', 1, 0, -1), ('os', 0, 0, -1), ('ctypes.util', 0, 0, -1), ('re', 1, 0, -1), ('win32wnet', 1, 0, -1), ('netbios', 1, 0, -1), ('ctypes', 1, 0, -1), ('random', 1, 1, -1), ('time', 1, 0, -1), ('sys', 1, 0, -1), ('hashlib.md5', 1, 0, -1), ('random', 1, 0, -1), ('socket', 1, 0, -1), ('os', 1, 0, -1), ('os', 0, 1, -1)] binaries=[] datas=[]>
+mysql.connector.queue: None -> None
+queue: None -> None
+  DEL queue
+mysql.connector.Queue: None -> None
+Queue: None -> <PyModule 'Queue' c:\Python27\lib\Queue.pyc imports=[('collections', 0, 0, -1), ('threading', 0, 0, -1), ('collections.deque', 0, 0, -1), ('time.time', 0, 0, -1), ('heapq', 0, 0, -1), ('dummy_threading', 0, 1, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+ctypes: None -> <PkgModule 'ctypes' c:\Python27\lib\ctypes\__init__.pyc imports=[('_ctypes.set_errno', 0, 0, -1), ('_ctypes._cast_addr', 0, 0, -1), ('_ctypes.FUNCFLAG_USE_ERRNO', 0, 0, -1), ('_ctypes._memmove_addr', 0, 0, -1), ('os', 0, 0, -1), ('struct', 0, 0, -1), ('_ctypes.get_last_error', 0, 1, -1), ('ctypes._endian.BigEndianStructure', 0, 0, -1), ('_ctypes._memset_addr', 0, 0, -1), ('_ctypes._wstring_at_addr', 0, 0, -1), ('_ctypes.set_conversion_mode', 0, 0, -1), ('_ctypes.alignment', 0, 0, -1), ('sys', 0, 0, -1), ('_ctypes.Structure', 0, 0, -1), ('_ctypes._string_at_addr', 0, 0, -1), ('_ctypes._SimpleCData', 0, 1, -1), ('_ctypes.FUNCFLAG_USE_LASTERROR', 0, 0, -1), ('_ctypes.CFuncPtr', 0, 0, -1), ('_ctypes.Union', 0, 0, -1), ('struct.calcsize', 1, 0, -1), ('_ctypes', 0, 0, -1), ('_ctypes.ArgumentError', 0, 0, -1), ('_ctypes.dlopen', 0, 1, -1), ('struct', 1, 0, -1), ('_ctypes.RTLD_GLOBAL', 0, 0, -1), ('_ctypes.LoadLibrary', 0, 1, -1), ('_ctypes.get_errno', 0, 0, -1), ('_ctypes.resize', 0, 0, -1), ('_ctypes.POINTER', 0, 0, -1), ('_ctypes.set_last_error', 0, 1, -1), ('_ctypes.FUNCFLAG_CDECL', 0, 0, -1), ('_ctypes.FormatError', 0, 1, -1), ('_ctypes.pointer', 0, 0, -1), ('_ctypes.RTLD_LOCAL', 0, 0, -1), ('_ctypes._pointer_type_cache', 0, 0, -1), ('_ctypes._check_HRESULT', 0, 1, -1), ('_ctypes._SimpleCData', 0, 0, -1), ('struct.calcsize', 0, 0, -1), ('ctypes._endian.LittleEndianStructure', 0, 0, -1), ('_ctypes.FUNCFLAG_PYTHONAPI', 0, 0, -1), ('_ctypes.FUNCFLAG_STDCALL', 0, 1, -1), ('_ctypes', 0, 1, -1), ('ctypes._endian', 0, 0, -1), ('_ctypes.sizeof', 0, 0, -1), ('_ctypes.addressof', 0, 0, -1), ('_ctypes.__version__', 0, 0, -1), ('_ctypes._Pointer', 0, 0, -1), ('_ctypes.byref', 0, 0, -1), ('_ctypes.Array', 0, 0, -1)] binaries=[] datas=[]>
+ctypes.util: None -> <PyModule 'ctypes.util' c:\Python27\lib\ctypes\util.pyc imports=[('struct', 1, 0, -1), ('sys', 0, 0, -1), ('errno', 0, 1, -1), ('os', 0, 0, -1), ('ctypes.macholib.dyld', 0, 1, -1), ('re', 0, 1, -1), ('tempfile', 0, 1, -1), ('ctypes.macholib.dyld.dyld_find', 0, 1, -1), ('ctypes', 1, 0, -1), ('imp', 1, 0, -1), ('ctypes.cdll', 1, 0, -1)] binaries=[] datas=[]>
+win32wnet: None -> <ExtensionModule 'win32wnet' c:\Python27\lib\site-packages\win32\win32wnet.pyd imports=[] binaries=[] datas=[]>
+netbios: None -> <PyModule 'netbios' c:\Python27\lib\site-packages\win32\lib\netbios.pyc imports=[('sys', 0, 0, -1), ('struct', 0, 0, -1), ('win32wnet', 0, 0, -1)] binaries=[] datas=[]>
+ctypes._ctypes: None -> None
+_ctypes: None -> <ExtensionModule '_ctypes' c:\Python27\DLLs\_ctypes.pyd imports=[] binaries=[] datas=[]>
+ctypes.os: None -> None
+ctypes.struct: None -> None
+ctypes.ctypes: None -> None
+ctypes._endian: None -> <PyModule 'ctypes._endian' c:\Python27\lib\ctypes\_endian.pyc imports=[('ctypes', 0, 0, -1), ('ctypes.*', 0, 0, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+ctypes.sys: None -> None
+ctypes.errno: None -> None
+ctypes.macholib: None -> <PkgModule 'ctypes.macholib' c:\Python27\lib\ctypes\macholib\__init__.pyc imports=[] binaries=[] datas=[]>
+ctypes.macholib.dyld: None -> <PyModule 'ctypes.macholib.dyld' c:\Python27\lib\ctypes\macholib\dyld.pyc imports=[('framework', 0, 0, -1), ('itertools', 0, 0, -1), ('dylib.dylib_info', 0, 0, -1), ('os', 0, 0, -1), ('itertools.*', 0, 0, -1), ('dylib', 0, 0, -1), ('framework.framework_info', 0, 0, -1)] binaries=[] datas=[]>
+ctypes.re: None -> None
+ctypes.tempfile: None -> None
+ctypes.imp: None -> None
+ctypes.cdll: None -> None
+  DEL ctypes.cdll
+ctypes.macholib.framework: None -> <PyModule 'ctypes.macholib.framework' c:\Python27\lib\ctypes\macholib\framework.pyc imports=[('re', 0, 0, -1)] binaries=[] datas=[]>
+ctypes.macholib.itertools: None -> None
+ctypes.macholib.dylib: None -> <PyModule 'ctypes.macholib.dylib' c:\Python27\lib\ctypes\macholib\dylib.pyc imports=[('re', 0, 0, -1)] binaries=[] datas=[]>
+ctypes.macholib.os: None -> None
+ctypes.macholib.re: None -> None
+_dummy_threading: None -> None
+  DEL _dummy_threading
+_dummy_threading: None -> None
+  DEL _dummy_threading
+_dummy_threading: None -> None
+  DEL _dummy_threading
+mysql.connector.fabric.collections: None -> None
+mysql.connector.fabric.connection: None -> <PyModule 'mysql.connector.fabric.connection' c:\Python27\lib\site-packages\mysql\connector\fabric\connection.pyc imports=[('bisect.bisect', 0, 0, -1), ('collections', 0, 0, -1), ('xmlrpclib.Transport', 0, 0, -1), ('balancing.WeightedRoundRobin', 0, 0, 1), ('errors.DatabaseError', 0, 0, 2), ('uuid', 0, 0, -1), ('connection.MySQLConnection', 0, 0, 2), ('pooling.MySQLConnectionPool', 0, 0, 2), ('catch23.PY2', 0, 0, 2), ('httplib', 0, 0, -1), ('', 0, 0, 2), ('cursor.MySQLCursorBufferedRaw', 0, 0, 2), ('connection', 0, 0, 2), ('cursor.MySQLCursorBuffered', 0, 0, 2), ('errors.InterfaceError', 0, 0, 2), ('http.client', 0, 1, -1), ('httplib.HTTPSConnection', 0, 1, -1), ('xmlrpc.client.Fault', 0, 1, -1), ('sys', 0, 0, -1), ('pooling', 0, 0, 2), ('errorcode', 0, 0, 2), ('FabricShard', 0, 0, 1), ('conversion', 0, 0, 2), ('cursor.MySQLCursor', 0, 0, 2), ('http.client.BadStatusLine', 0, 1, -1), ('cursor', 0, 0, 2), ('conversion.MySQLConverter', 0, 0, 2), ('catch23.isunicode', 0, 0, 2), ('caching.FabricCache', 0, 0, 1), ('urllib2', 0, 0, -1), ('base64', 0, 0, -1), ('xmlrpc.client', 0, 1, -1), ('time', 0, 0, -1), ('bisect', 0, 0, -1), ('xmlrpclib.ServerProxy', 0, 0, -1), ('FabricMySQLServer', 0, 0, 1), ('hashlib.md5', 0, 0, -1), ('catch23.UNICODE_TYPES', 0, 0, 2), ('httplib', 0, 1, -1), ('http.client.HTTPSConnection', 0, 1, -1), ('cursor.MySQLCursorRaw', 0, 0, 2), ('', 0, 0, 1), ('mysql.connector', 0, 0, -1), ('socket', 0, 0, -1), ('httplib.BadStatusLine', 0, 0, -1), ('caching', 0, 0, 1), ('datetime', 0, 0, -1), ('errors.InternalError', 0, 0, 2), ('xmlrpclib.Fault', 0, 0, -1), ('urllib.request', 0, 1, -1), ('version', 0, 0, 2), ('catch23', 0, 0, 2), ('errors.Error', 0, 0, 2), ('xmlrpc.client.ServerProxy', 0, 1, -1), ('xmlrpc.client.Transport', 0, 1, -1), ('logging', 0, 0, -1), ('hashlib', 0, 0, -1), ('errors', 0, 0, 2), ('balancing', 0, 0, 1), ('base64.b16decode', 0, 0, -1), ('xmlrpclib', 0, 0, -1), ('errors.MySQLFabricError', 0, 0, 2), ('errors.NotSupportedError', 0, 0, 2)] binaries=[] datas=[]>
+mysql.connector.fabric.bisect: None -> None
+bisect: None -> <PyModule 'bisect' c:\Python27\lib\bisect.pyc imports=[('_bisect', 0, 0, -1), ('_bisect.*', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.fabric.xmlrpclib: None -> None
+xmlrpclib: None -> <PyModule 'xmlrpclib' c:\Python27\lib\xmlrpclib.pyc imports=[('xmllib', 1, 0, -1), ('httplib', 0, 0, -1), ('base64', 1, 1, -1), ('sys.modules', 0, 0, -1), ('sys', 0, 0, -1), ('string', 0, 0, -1), ('cStringIO', 0, 0, -1), ('base64', 0, 0, -1), ('time', 0, 0, -1), ('xml.parsers', 0, 0, -1), ('types', 0, 0, -1), ('gzip', 0, 0, -1), ('socket', 0, 0, -1), ('datetime', 0, 0, -1), ('errno', 0, 0, -1), ('types.*', 0, 0, -1), ('re', 0, 0, -1), ('xml.parsers.expat', 0, 0, -1), ('urllib', 1, 0, -1), ('operator', 0, 0, -1), ('_xmlrpclib', 0, 0, -1), ('StringIO', 0, 1, -1)] binaries=[] datas=[]>
+mysql.connector.fabric.balancing: None -> <PyModule 'mysql.connector.fabric.balancing' c:\Python27\lib\site-packages\mysql\connector\fabric\balancing.pyc imports=[('decimal', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.fabric.uuid: None -> None
+mysql.connector.fabric.httplib: None -> None
+mysql.connector.fabric.http: None -> None
+http: None -> None
+  DEL http
+mysql.connector.fabric.xmlrpc: None -> None
+xmlrpc: None -> None
+  DEL xmlrpc
+mysql.connector.fabric.sys: None -> None
+mysql.connector.fabric.FabricShard: None -> None
+FabricShard: None -> None
+  DEL FabricShard
+http: None -> None
+  DEL http
+mysql.connector.fabric.caching: None -> <PyModule 'mysql.connector.fabric.caching' c:\Python27\lib\site-packages\mysql\connector\fabric\caching.pyc imports=[('threading', 0, 0, -1), ('FabricShard', 0, 0, 1), ('', 0, 0, 1), ('datetime.timedelta', 0, 0, -1), ('hashlib.sha1', 0, 0, -1), ('logging', 0, 0, -1), ('hashlib', 0, 0, -1), ('datetime', 0, 0, -1), ('bisect', 0, 0, -1), ('datetime.datetime', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.fabric.urllib2: None -> None
+urllib2: None -> <PyModule 'urllib2' c:\Python27\lib\urllib2.pyc imports=[('urllib.splithost', 0, 0, -1), ('ssl', 0, 0, -1), ('urllib.splitattr', 0, 0, -1), ('os', 0, 0, -1), ('email.utils', 1, 0, -1), ('urllib.unwrap', 0, 0, -1), ('warnings', 0, 0, -1), ('urllib.splittag', 0, 0, -1), ('posixpath', 0, 0, -1), ('hashlib', 0, 0, -1), ('urllib.ftpwrapper', 0, 0, -1), ('urllib', 0, 0, -1), ('random', 0, 0, -1), ('types', 1, 0, -1), ('urllib.unquote', 0, 0, -1), ('cookielib', 1, 0, -1), ('urllib.quote', 0, 0, -1), ('sys', 0, 0, -1), ('urllib.localhost', 0, 0, -1), ('urllib.splittype', 0, 0, -1), ('cStringIO', 0, 0, -1), ('base64', 0, 0, -1), ('ftplib', 1, 0, -1), ('time', 0, 0, -1), ('bisect', 0, 0, -1), ('urlparse', 0, 0, -1), ('mimetypes', 1, 0, -1), ('urllib.splituser', 0, 0, -1), ('socket', 0, 0, -1), ('urllib.proxy_bypass', 0, 0, -1), ('urllib.getproxies', 0, 0, -1), ('mimetools', 0, 0, -1), ('StringIO.StringIO', 0, 1, -1), ('cStringIO.StringIO', 0, 0, -1), ('urllib.splitpasswd', 0, 0, -1), ('urllib.addinfourl', 0, 0, -1), ('urllib.splitvalue', 0, 0, -1), ('re', 0, 0, -1), ('urllib.splitport', 0, 0, -1), ('httplib', 0, 0, -1), ('urllib.url2pathname', 0, 0, -1), ('StringIO', 0, 1, -1), ('urllib.toBytes', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.fabric.base64: None -> None
+xmlrpc: None -> None
+  DEL xmlrpc
+mysql.connector.fabric.time: None -> None
+mysql.connector.fabric.FabricMySQLServer: None -> None
+FabricMySQLServer: None -> None
+  DEL FabricMySQLServer
+mysql.connector.fabric.hashlib: None -> None
+http: None -> None
+  DEL http
+mysql.connector.fabric.mysql: None -> None
+mysql.connector.fabric.socket: None -> None
+mysql.connector.fabric.datetime: None -> None
+mysql.connector.fabric.urllib: None -> None
+xmlrpc: None -> None
+  DEL xmlrpc
+xmlrpc: None -> None
+  DEL xmlrpc
+mysql.connector.fabric.logging: None -> None
+_bisect: None -> <BuiltinModule '_bisect' None imports=[] binaries=[] datas=[]>
+xmllib: None -> <PyModule 'xmllib' c:\Python27\lib\xmllib.pyc imports=[('re', 0, 0, -1), ('time', 1, 0, -1), ('warnings', 0, 0, -1), ('string', 0, 0, -1), ('getopt', 1, 0, -1), ('sys', 1, 0, -1), ('time.time', 1, 0, -1)] binaries=[] datas=[]>
+xml.parsers: None -> <PkgModule 'xml.parsers' c:\Python27\lib\xml\parsers\__init__.pyc imports=[] binaries=[] datas=[]>
+gzip: None -> <PyModule 'gzip' c:\Python27\lib\gzip.pyc imports=[('sys', 0, 0, -1), ('os', 0, 0, -1), ('struct', 0, 0, -1), ('__builtin__', 0, 0, -1), ('zlib', 0, 0, -1), ('warnings', 1, 0, -1), ('errno', 1, 1, -1), ('time', 0, 0, -1), ('io', 0, 0, -1)] binaries=[] datas=[]>
+xml.parsers.expat: None -> <PyModule 'xml.parsers.expat' c:\Python27\lib\xml\parsers\expat.pyc imports=[('pyexpat', 0, 0, -1), ('pyexpat.*', 0, 0, -1)] binaries=[] datas=[]>
+_xmlrpclib: None -> None
+  DEL _xmlrpclib
+xml.sys: None -> None
+xml._xmlplus: None -> None
+_xmlplus: None -> None
+  DEL _xmlplus
+xml.xml: None -> None
+xml.sax: None -> <PkgModule 'xml.sax' c:\Python27\lib\xml\sax\__init__.pyc imports=[('handler', 0, 0, -1), ('_exceptions.SAXNotSupportedException', 0, 0, -1), ('cStringIO', 1, 0, -1), ('handler.ErrorHandler', 0, 0, -1), ('handler.ContentHandler', 0, 0, -1), ('xml.sax.expatreader', 0, 1, -1), ('_exceptions.SAXReaderNotAvailable', 0, 0, -1), ('_exceptions.SAXNotRecognizedException', 0, 0, -1), ('StringIO', 1, 1, -1), ('cStringIO.StringIO', 1, 0, -1), ('_exceptions.SAXParseException', 0, 0, -1), ('_exceptions', 0, 0, -1), ('sys', 1, 1, -1), ('org.python.core', 1, 0, -1), ('xmlreader', 0, 0, -1), ('_exceptions.SAXException', 0, 0, -1), ('os', 0, 0, -1), ('org.python.core.imp', 1, 0, -1), ('xmlreader.InputSource', 0, 0, -1), ('StringIO.StringIO', 1, 1, -1), ('sys', 0, 0, -1)] binaries=[] datas=[]>
+xml.sax.xmlreader: None -> <PyModule 'xml.sax.xmlreader' c:\Python27\lib\xml\sax\xmlreader.pyc imports=[('handler', 0, 0, -1), ('_exceptions.SAXNotSupportedException', 0, 0, -1), ('saxutils', 1, 0, -1), ('_exceptions.SAXNotRecognizedException', 0, 0, -1), ('_exceptions', 0, 0, -1)] binaries=[] datas=[]>
+xml.sax.expatreader: None -> <PyModule 'xml.sax.expatreader' c:\Python27\lib\xml\sax\expatreader.pyc imports=[('xml.sax.handler', 0, 0, -1), ('xml.sax.handler.property_xml_string', 0, 0, -1), ('xml.sax.handler.feature_external_pes', 0, 0, -1), ('sys', 0, 0, -1), ('xml.sax.xmlreader', 0, 0, -1), ('xml.sax.handler.feature_string_interning', 0, 0, -1), ('xml.sax._exceptions', 0, 0, -1), ('weakref', 0, 1, -1), ('xml.sax', 0, 0, -1), ('xml.sax.handler.feature_namespace_prefixes', 0, 0, -1), ('xml.sax.saxutils', 0, 0, -1), ('xml.parsers', 0, 0, -1), ('xml.sax._exceptions.*', 0, 0, -1), ('xml.sax.handler.feature_validation', 0, 0, -1), ('xml.sax.handler.property_interning_dict', 0, 0, -1), ('xml.sax.handler.feature_namespaces', 0, 0, -1), ('xml.sax.saxutils', 0, 1, -1), ('_weakref', 0, 0, -1), ('xml.sax.handler.feature_external_ges', 0, 0, -1), ('xml.parsers.expat', 0, 0, -1)] binaries=[] datas=[]>
+xml.sax.handler: None -> <PyModule 'xml.sax.handler' c:\Python27\lib\xml\sax\handler.pyc imports=[] binaries=[] datas=[]>
+xml.sax._exceptions: None -> <PyModule 'xml.sax._exceptions' c:\Python27\lib\xml\sax\_exceptions.pyc imports=[('java.lang.Exception', 0, 1, -1), ('sys', 0, 0, -1), ('java.lang', 0, 1, -1)] binaries=[] datas=[]>
+xml.sax.cStringIO: None -> None
+xml.sax.xml: None -> None
+xml.sax.StringIO: None -> None
+xml.sax.sys: None -> None
+xml.sax.org: None -> None
+org: None -> None
+  DEL org
+xml.sax.os: None -> None
+org: None -> None
+  DEL org
+xml.sax.java: None -> None
+java: None -> None
+  DEL java
+java: None -> None
+  DEL java
+xml.sax.weakref: None -> None
+xml.sax.saxutils: None -> <PyModule 'xml.sax.saxutils' c:\Python27\lib\xml\sax\saxutils.pyc imports=[('handler', 0, 0, -1), ('sys', 0, 0, -1), ('sys', 1, 1, -1), ('types', 0, 0, -1), ('os', 0, 0, -1), ('xmlreader', 0, 0, -1), ('urllib', 0, 0, -1), ('io', 0, 0, -1), ('urlparse', 0, 0, -1)] binaries=[] datas=[]>
+xml.sax._weakref: None -> None
+xml.sax.types: None -> None
+xml.sax.urllib: None -> None
+xml.sax.io: None -> None
+xml.sax.urlparse: None -> None
+_scproxy: None -> None
+  DEL _scproxy
+_scproxy: None -> None
+  DEL _scproxy
+_scproxy: None -> None
+  DEL _scproxy
+rourl2path: None -> None
+  DEL rourl2path
+rourl2path: None -> None
+  DEL rourl2path
+rourl2path: None -> None
+  DEL rourl2path
+cl: None -> None
+  DEL cl
+cl: None -> None
+  DEL cl
+SOCKS: None -> None
+  DEL SOCKS
+EasyDialogs: None -> None
+  DEL EasyDialogs
+EasyDialogs: None -> None
+  DEL EasyDialogs
+pwd: None -> None
+  DEL pwd
+termios: None -> None
+  DEL termios
+xml.parsers.pyexpat: None -> None
+pyexpat: None -> <ExtensionModule 'pyexpat' c:\Python27\DLLs\pyexpat.pyd imports=[('xmlparse', 0, 0, -1), ('xmltok', 0, 0, -1)] binaries=[] datas=[]>
+xmlparse: None -> None
+  DEL xmlparse
+xmltok: None -> None
+  DEL xmltok
+mysql.connector.fabric.decimal: None -> None
+mysql.connector.fabric.threading: None -> None
+FabricShard: None -> None
+  DEL FabricShard
+cookielib: None -> <PyModule 'cookielib' c:\Python27\lib\cookielib.pyc imports=[('StringIO', 1, 0, -1), ('re', 0, 0, -1), ('urlparse', 0, 0, -1), ('logging', 1, 1, -1), ('copy', 0, 0, -1), ('calendar', 0, 0, -1), ('traceback', 1, 0, -1), ('threading', 0, 0, -1), ('_MozillaCookieJar', 0, 0, -1), ('_LWPCookieJar', 0, 0, -1), ('httplib', 0, 0, -1), ('_LWPCookieJar.lwp_cookie_str', 0, 0, -1), ('urllib', 0, 0, -1), ('_MozillaCookieJar.MozillaCookieJar', 0, 0, -1), ('warnings', 1, 0, -1), ('dummy_threading', 0, 1, -1), ('time', 0, 0, -1), ('_LWPCookieJar.LWPCookieJar', 0, 0, -1), ('calendar.timegm', 0, 0, -1)] binaries=[] datas=[]>
+_MozillaCookieJar: None -> <PyModule '_MozillaCookieJar' c:\Python27\lib\_MozillaCookieJar.pyc imports=[('re', 0, 0, -1), ('cookielib.FileCookieJar', 0, 0, -1), ('cookielib', 0, 0, -1), ('cookielib.Cookie', 0, 0, -1), ('cookielib._warn_unhandled_exception', 0, 0, -1), ('cookielib.LoadError', 0, 0, -1), ('cookielib.MISSING_FILENAME_TEXT', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+_LWPCookieJar: None -> <PyModule '_LWPCookieJar' c:\Python27\lib\_LWPCookieJar.pyc imports=[('re', 0, 0, -1), ('cookielib.FileCookieJar', 0, 0, -1), ('cookielib', 0, 0, -1), ('cookielib.iso2time', 0, 0, -1), ('cookielib.Cookie', 0, 0, -1), ('cookielib._warn_unhandled_exception', 0, 0, -1), ('cookielib.LoadError', 0, 0, -1), ('cookielib.split_header_words', 0, 0, -1), ('cookielib.time2isoz', 0, 0, -1), ('cookielib.MISSING_FILENAME_TEXT', 0, 0, -1), ('time', 0, 0, -1), ('cookielib.join_header_words', 0, 0, -1)] binaries=[] datas=[]>
+mysql.connector.cursor_cext: None -> <PyModule 'mysql.connector.cursor_cext' c:\Python27\lib\site-packages\mysql\connector\cursor_cext.pyc imports=[('cursor.RE_SQL_ON_DUPLICATE', 0, 0, 1), ('_mysql_connector', 0, 0, -1), ('cursor.RE_SQL_COMMENT', 0, 0, 1), ('cursor.RE_PY_PARAM', 0, 0, 1), ('abstracts', 0, 0, 1), ('errorcode', 0, 0, 1), ('cursor.RE_SQL_INSERT_VALUES', 0, 0, 1), ('cursor.RE_SQL_INSERT_STMT', 0, 0, 1), ('cursor.RE_SQL_SPLIT_STMTS', 0, 0, 1), ('catch23', 0, 0, 1), ('catch23.isunicode', 0, 0, 1), ('catch23.PY2', 0, 0, 1), ('collections', 0, 0, -1), ('weakref', 0, 0, -1), ('errorcode.CR_NO_RESULT_SET', 0, 0, 1), ('', 0, 0, 1), ('abstracts.MySQLCursorAbstract', 0, 0, 1), ('cursor', 0, 0, 1), ('collections.namedtuple', 0, 0, -1), ('re', 0, 0, -1), ('abstracts.MySQLConnectionAbstract', 0, 0, 1), ('errors', 0, 0, 1), ('_mysql_connector.MySQLInterfaceError', 0, 0, -1)] binaries=[] datas=[]>
+xml.dom.domreg: None -> <PyModule 'xml.dom.domreg' c:\Python27\lib\xml\dom\domreg.pyc imports=[('xml.dom.minicompat', 0, 0, -1), ('xml.dom.minicompat.*', 0, 0, -1), ('os', 1, 0, -1), ('xml.dom.minidom', 0, 0, -1), ('xml.dom.DOMImplementation', 0, 0, -1)] binaries=[] datas=[]>
+xml.dom.xml: None -> None
+xml.dom.minicompat: None -> <PyModule 'xml.dom.minicompat' c:\Python27\lib\xml\dom\minicompat.pyc imports=[('xml.dom', 0, 0, -1)] binaries=[] datas=[]>
+xml.dom.os: None -> None
+xml.dom.DOMImplementation: None -> None
+  DEL xml.dom.DOMImplementation
+xml.dom.expatbuilder: None -> <PyModule 'xml.dom.expatbuilder' c:\Python27\lib\xml\dom\expatbuilder.pyc imports=[('xml.dom.minidom._append_child', 0, 0, -1), ('xml.parsers', 0, 0, -1), ('xml.parsers.expat', 0, 0, -1), ('xml.dom', 0, 0, -1), ('xml.dom.xmlbuilder', 0, 0, -1), ('xml.dom.minicompat', 0, 0, -1), ('xml.dom.NodeFilter', 0, 0, -1), ('xml.dom.NodeFilter.NodeFilter', 0, 0, -1), ('xml.dom.EMPTY_NAMESPACE', 0, 0, -1), ('xml.dom.EMPTY_PREFIX', 0, 0, -1), ('xml.dom.minidom._set_attribute_node', 0, 0, -1), ('xml.dom.XMLNS_NAMESPACE', 0, 0, -1), ('xml.dom.minidom', 0, 0, -1), ('xml.dom.Node', 0, 0, -1), ('xml.dom.minicompat.*', 0, 0, -1)] binaries=[] datas=[]>
+xml.dom.xmlbuilder: None -> <PyModule 'xml.dom.xmlbuilder' c:\Python27\lib\xml\dom\xmlbuilder.pyc imports=[('urllib2', 1, 0, -1), ('xml.dom.expatbuilder', 1, 0, -1), ('xml.dom', 0, 0, -1), ('copy', 0, 0, -1), ('xml.dom.NodeFilter.NodeFilter', 0, 0, -1), ('xml.dom.NodeFilter', 0, 0, -1), ('urllib2', 1, 1, -1), ('urlparse', 1, 0, -1), ('posixpath', 1, 0, -1)] binaries=[] datas=[]>
+xml.dom.StringIO: None -> None
+xml.dom.EMPTY_NAMESPACE: None -> None
+  DEL xml.dom.EMPTY_NAMESPACE
+xml.dom.XMLNS_NAMESPACE: None -> None
+  DEL xml.dom.XMLNS_NAMESPACE
+xml.dom.pulldom: None -> <PyModule 'xml.dom.pulldom' c:\Python27\lib\xml\dom\pulldom.pyc imports=[('xml.sax.handler', 0, 0, -1), ('cStringIO.StringIO', 1, 0, -1), ('types', 0, 0, -1), ('StringIO.StringIO', 1, 1, -1), ('StringIO', 1, 1, -1), ('xml.sax', 0, 0, -1), ('xml.dom.minidom', 1, 1, -1), ('xml.dom', 1, 0, -1), ('cStringIO', 1, 0, -1), ('xml.dom.XML_NAMESPACE', 1, 0, -1)] binaries=[] datas=[]>
+xml.dom.EMPTY_PREFIX: None -> None
+  DEL xml.dom.EMPTY_PREFIX
+xml.dom.codecs: None -> None
+xml.dom.NodeFilter: None -> <PyModule 'xml.dom.NodeFilter' c:\Python27\lib\xml\dom\NodeFilter.pyc imports=[] binaries=[] datas=[]>
+xml.dom.EMPTY_NAMESPACE: None -> None
+  DEL xml.dom.EMPTY_NAMESPACE
+xml.dom.EMPTY_PREFIX: None -> None
+  DEL xml.dom.EMPTY_PREFIX
+xml.dom.XMLNS_NAMESPACE: None -> None
+  DEL xml.dom.XMLNS_NAMESPACE
+xml.dom.Node: None -> None
+xml.dom.urllib2: None -> None
+xml.dom.copy: None -> None
+xml.dom.urlparse: None -> None
+xml.dom.posixpath: None -> None
+xml.dom.cStringIO: None -> None
+xml.dom.types: None -> None
+xml.dom.XML_NAMESPACE: None -> None
+  DEL xml.dom.XML_NAMESPACE
+HTMLParser: None -> <PyModule 'HTMLParser' c:\Python27\lib\HTMLParser.pyc imports=[('markupbase', 0, 0, -1), ('htmlentitydefs', 1, 0, -1), ('re', 0, 0, -1)] binaries=[] datas=[]>
+utils_adr: None -> <PyModule 'utils_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\utils_adr.pyc imports=[('HTMLParser', 0, 0, -1), ('re', 0, 0, -1), ('sys', 0, 0, -1), ('StringIO', 0, 0, -1), ('gzip', 0, 0, -1), ('logging', 0, 0, -1), ('urllib2', 0, 0, -1), ('urllib', 0, 0, -1), ('random', 0, 0, -1), ('HTMLParser.HTMLParser', 0, 0, -1)] binaries=[] datas=[]>
+adrparseradr_adr: None -> <PyModule 'adrparseradr_adr' C:\Users\Administrator\Desktop\Robot project\adr-crawler\adrparseradr_adr.pyc imports=[('HTMLParser', 0, 0, -1), ('re', 0, 0, -1), ('HTMLParser.HTMLParser', 0, 0, -1)] binaries=[] datas=[]>
+markupbase: None -> <PyModule 'markupbase' c:\Python27\lib\markupbase.pyc imports=[('re', 0, 0, -1)] binaries=[] datas=[]>
+htmlentitydefs: None -> <PyModule 'htmlentitydefs' c:\Python27\lib\htmlentitydefs.pyc imports=[] binaries=[] datas=[]>
+utils: None -> <PyModule 'utils' C:\Users\Administrator\Desktop\Robot project\adr-crawler\utils.pyc imports=[('re', 0, 0, -1), ('json', 0, 0, -1), ('os', 0, 0, -1), ('common.*', 0, 0, -1), ('socket', 0, 0, -1), ('bs4.BeautifulSoup', 0, 0, -1), ('config.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('urllib', 0, 0, -1), ('config', 0, 0, -1), ('time', 0, 0, -1), ('bs4', 0, 0, -1), ('common', 0, 0, -1)] binaries=[] datas=[]>
+mdrtime: None -> <PyModule 'mdrtime' C:\Users\Administrator\Desktop\Robot project\adr-crawler\mdrtime.pyc imports=[('datetime', 0, 0, -1), ('time', 0, 0, -1)] binaries=[] datas=[]>
+json: None -> <PkgModule 'json' c:\Python27\lib\json\__init__.pyc imports=[('encoder', 0, 0, 1), ('encoder.JSONEncoder', 0, 0, 1), ('decoder.JSONDecoder', 0, 0, 1), ('decoder', 0, 0, 1)] binaries=[] datas=[]>
+bs4: None -> <PkgModule 'bs4' c:\Python27\lib\site-packages\bs4\__init__.pyc imports=[('element.ResultSet', 0, 0, 1), ('re', 0, 0, -1), ('builder', 0, 0, 1), ('element.NavigableString', 0, 0, 1), ('dammit', 0, 0, 1), ('element.SoupStrainer', 0, 0, 1), ('os', 0, 0, -1), ('builder.builder_registry', 0, 0, 1), ('element', 0, 0, 1), ('builder.ParserRejectedMarkup', 0, 0, 1), ('element.PageElement', 0, 0, 1), ('element.Declaration', 0, 0, 1), ('element.ProcessingInstruction', 0, 0, 1), ('element.Tag', 0, 0, 1), ('sys', 0, 1, -1), ('element.Comment', 0, 0, 1), ('warnings', 0, 0, -1), ('element.Doctype', 0, 0, 1), ('element.DEFAULT_OUTPUT_ENCODING', 0, 0, 1), ('element.CData', 0, 0, 1), ('dammit.UnicodeDammit', 0, 0, 1)] binaries=[] datas=[]>
+bs4.BeautifulSoup: None -> None
+  DEL bs4.BeautifulSoup
+json.encoder: None -> <PyModule 'json.encoder' c:\Python27\lib\json\encoder.pyc imports=[('_json.encode_basestring_ascii', 0, 0, -1), ('_json', 0, 0, -1), ('re', 0, 0, -1), ('_json.make_encoder', 0, 0, -1)] binaries=[] datas=[]>
+json.decoder: None -> <PyModule 'json.decoder' c:\Python27\lib\json\decoder.pyc imports=[('re', 0, 0, -1), ('json', 0, 0, -1), ('sys', 0, 0, -1), ('_json.scanstring', 0, 0, -1), ('struct', 0, 0, -1), ('json.scanner', 0, 0, -1), ('_json', 0, 0, -1)] binaries=[] datas=[]>
+json._json: None -> None
+_json: None -> <BuiltinModule '_json' None imports=[] binaries=[] datas=[]>
+json.re: None -> None
+json.json: None -> None
+json.sys: None -> None
+json.struct: None -> None
+json.scanner: None -> <PyModule 'json.scanner' c:\Python27\lib\json\scanner.pyc imports=[('_json', 0, 0, -1), ('re', 0, 0, -1), ('_json.make_scanner', 0, 0, -1)] binaries=[] datas=[]>
+bs4.element: None -> <PyModule 'bs4.element' c:\Python27\lib\site-packages\bs4\element.pyc imports=[('collections', 0, 0, -1), ('re', 0, 0, -1), ('sys', 0, 0, -1), ('warnings', 0, 0, -1), ('bs4.dammit.EntitySubstitution', 0, 0, -1), ('bs4.dammit', 0, 0, -1)] binaries=[] datas=[]>
+bs4.re: None -> None
+bs4.builder: None -> <PkgModule 'bs4.builder' c:\Python27\lib\site-packages\bs4\builder\__init__.pyc imports=[('collections', 0, 0, -1), ('itertools', 0, 0, -1), ('sys', 0, 0, -1), ('collections.defaultdict', 0, 0, -1), ('bs4.element', 0, 0, -1), ('bs4.element.ContentMetaAttributeValue', 0, 0, -1), ('_lxml', 0, 0, 1), ('', 0, 0, 1), ('bs4.element.whitespace_re', 0, 0, -1), ('_htmlparser', 0, 0, 1), ('bs4.element.CharsetMetaAttributeValue', 0, 0, -1), ('_html5lib', 0, 0, 1)] binaries=[] datas=[]>
+bs4.dammit: None -> <PyModule 'bs4.dammit' c:\Python27\lib\site-packages\bs4\dammit.pyc imports=[('htmlentitydefs.codepoint2name', 0, 0, -1), ('re', 0, 0, -1), ('cchardet', 0, 0, -1), ('string', 0, 0, -1), ('logging', 0, 0, -1), ('chardet', 0, 1, -1), ('iconv_codec', 0, 0, -1), ('htmlentitydefs', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+bs4.os: None -> None
+bs4.builder.builder_registry: None -> None
+  DEL bs4.builder.builder_registry
+bs4.builder.ParserRejectedMarkup: None -> None
+  DEL bs4.builder.ParserRejectedMarkup
+bs4.sys: None -> None
+bs4.warnings: None -> None
+bs4.collections: None -> None
+bs4.bs4: None -> None
+bs4.htmlentitydefs: None -> None
+bs4.cchardet: None -> None
+cchardet: None -> None
+  DEL cchardet
+bs4.string: None -> None
+bs4.logging: None -> None
+bs4.chardet: None -> None
+chardet: None -> None
+  DEL chardet
+bs4.iconv_codec: None -> None
+iconv_codec: None -> None
+  DEL iconv_codec
+bs4.codecs: None -> None
+bs4.builder.collections: None -> None
+bs4.builder.itertools: None -> None
+bs4.builder.sys: None -> None
+bs4.builder.bs4: None -> None
+bs4.builder._lxml: None -> <PyModule 'bs4.builder._lxml' c:\Python27\lib\site-packages\bs4\builder\_lxml.pyc imports=[('collections', 0, 0, -1), ('bs4.element.NamespacedAttribute', 0, 0, -1), ('bs4.builder.XML', 0, 0, -1), ('bs4.builder.PERMISSIVE', 0, 0, -1), ('bs4.builder.HTMLTreeBuilder', 0, 0, -1), ('lxml.etree', 0, 0, -1), ('StringIO.StringIO', 0, 0, -1), ('bs4.element', 0, 0, -1), ('StringIO', 0, 0, -1), ('bs4.builder.FAST', 0, 0, -1), ('bs4.builder.HTML', 0, 0, -1), ('lxml', 0, 0, -1), ('bs4.element.Comment', 0, 0, -1), ('bs4.dammit.EncodingDetector', 0, 0, -1), ('bs4.builder.TreeBuilder', 0, 0, -1), ('io.BytesIO', 0, 0, -1), ('bs4.element.Doctype', 0, 0, -1), ('bs4.builder', 0, 0, -1), ('bs4.dammit', 0, 0, -1), ('bs4.builder.ParserRejectedMarkup', 0, 0, -1), ('io', 0, 0, -1)] binaries=[] datas=[]>
+bs4.builder._htmlparser: None -> <PyModule 'bs4.builder._htmlparser' c:\Python27\lib\site-packages\bs4\builder\_htmlparser.pyc imports=[('bs4.element', 0, 0, -1), ('bs4.element.CData', 0, 0, -1), ('warnings', 0, 0, -1), ('html.parser.tagfind', 0, 1, -1), ('HTMLParser', 0, 0, -1), ('html.parser.attrfind', 0, 1, -1), ('sys', 0, 0, -1), ('bs4.builder.HTMLTreeBuilder', 0, 0, -1), ('bs4.dammit.EntitySubstitution', 0, 0, -1), ('re', 0, 1, -1), ('bs4.element.Doctype', 0, 0, -1), ('bs4.element.Declaration', 0, 0, -1), ('bs4.builder.STRICT', 0, 0, -1), ('bs4.element.ProcessingInstruction', 0, 0, -1), ('bs4.builder', 0, 0, -1), ('bs4.dammit.UnicodeDammit', 0, 0, -1), ('bs4.dammit', 0, 0, -1), ('HTMLParser.HTMLParseError', 0, 0, -1), ('bs4.builder.HTML', 0, 0, -1), ('html.parser', 0, 1, -1), ('bs4.element.Comment', 0, 0, -1), ('HTMLParser.HTMLParser', 0, 0, -1)] binaries=[] datas=[]>
+bs4.builder._html5lib: None -> <PyModule 'bs4.builder._html5lib' c:\Python27\lib\site-packages\bs4\builder\_html5lib.pyc imports=[('bs4.element.Tag', 0, 0, -1), ('bs4.element.NamespacedAttribute', 0, 0, -1), ('bs4.builder.HTMLTreeBuilder', 0, 0, -1), ('bs4.builder.PERMISSIVE', 0, 0, -1), ('bs4.element', 0, 0, -1), ('html5lib.constants.namespaces', 0, 0, -1), ('warnings', 0, 0, -1), ('bs4.builder.HTML_5', 0, 0, -1), ('bs4.builder.HTML', 0, 0, -1), ('html5lib.constants', 0, 0, -1), ('bs4.builder', 0, 0, -1), ('bs4.element.Comment', 0, 0, -1), ('bs4.element.NavigableString', 0, 0, -1), ('html5lib', 0, 0, -1), ('bs4.element.Doctype', 0, 0, -1)] binaries=[] datas=[]>
+bs4.builder.XML: None -> None
+  DEL bs4.builder.XML
+bs4.builder.PERMISSIVE: None -> None
+  DEL bs4.builder.PERMISSIVE
+bs4.builder.HTMLTreeBuilder: None -> None
+  DEL bs4.builder.HTMLTreeBuilder
+bs4.builder.lxml: None -> None
+lxml: None -> None
+  DEL lxml
+bs4.builder.StringIO: None -> None
+bs4.builder.FAST: None -> None
+  DEL bs4.builder.FAST
+bs4.builder.HTML: None -> None
+  DEL bs4.builder.HTML
+lxml: None -> None
+  DEL lxml
+bs4.builder.TreeBuilder: None -> None
+  DEL bs4.builder.TreeBuilder
+bs4.builder.io: None -> None
+bs4.builder.ParserRejectedMarkup: None -> None
+  DEL bs4.builder.ParserRejectedMarkup
+bs4.builder.warnings: None -> None
+bs4.builder.html: None -> None
+html: None -> None
+  DEL html
+bs4.builder.HTMLParser: None -> None
+html: None -> None
+  DEL html
+bs4.builder.HTMLTreeBuilder: None -> None
+  DEL bs4.builder.HTMLTreeBuilder
+bs4.builder.re: None -> None
+bs4.builder.STRICT: None -> None
+  DEL bs4.builder.STRICT
+bs4.builder.HTML: None -> None
+  DEL bs4.builder.HTML
+html: None -> None
+  DEL html
+bs4.builder.HTMLTreeBuilder: None -> None
+  DEL bs4.builder.HTMLTreeBuilder
+bs4.builder.PERMISSIVE: None -> None
+  DEL bs4.builder.PERMISSIVE
+bs4.builder.html5lib: None -> None
+html5lib: None -> None
+  DEL html5lib
+bs4.builder.HTML_5: None -> None
+  DEL bs4.builder.HTML_5
+bs4.builder.HTML: None -> None
+  DEL bs4.builder.HTML
+html5lib: None -> None
+  DEL html5lib
+html5lib: None -> None
+  DEL html5lib
+yaml: None -> <PkgModule 'yaml' c:\Python27\lib\site-packages\yaml\__init__.pyc imports=[('cyaml', 0, 0, -1), ('nodes.*', 0, 0, -1), ('events.*', 0, 0, -1), ('tokens', 0, 0, -1), ('events', 0, 0, -1), ('loader.*', 0, 0, -1), ('StringIO.StringIO', 1, 1, -1), ('nodes', 0, 0, -1), ('StringIO', 1, 1, -1), ('error.*', 0, 0, -1), ('tokens.*', 0, 0, -1), ('cStringIO', 1, 1, -1), ('loader', 0, 0, -1), ('dumper', 0, 0, -1), ('cStringIO.StringIO', 1, 1, -1), ('dumper.*', 0, 0, -1), ('cyaml.*', 0, 0, -1), ('error', 0, 0, -1)] binaries=[] datas=[]>
+yaml.cyaml: None -> <PyModule 'yaml.cyaml' c:\Python27\lib\site-packages\yaml\cyaml.pyc imports=[('resolver.*', 0, 0, -1), ('serializer.*', 0, 0, -1), ('serializer', 0, 0, -1), ('constructor', 0, 0, -1), ('_yaml', 0, 0, -1), ('representer.*', 0, 0, -1), ('_yaml.CEmitter', 0, 0, -1), ('representer', 0, 0, -1), ('constructor.*', 0, 0, -1), ('_yaml.CParser', 0, 0, -1), ('resolver', 0, 0, -1)] binaries=[] datas=[]>
+yaml.nodes: None -> <PyModule 'yaml.nodes' c:\Python27\lib\site-packages\yaml\nodes.pyc imports=[] binaries=[] datas=[]>
+yaml.events: None -> <PyModule 'yaml.events' c:\Python27\lib\site-packages\yaml\events.pyc imports=[] binaries=[] datas=[]>
+yaml.tokens: None -> <PyModule 'yaml.tokens' c:\Python27\lib\site-packages\yaml\tokens.pyc imports=[] binaries=[] datas=[]>
+yaml.loader: None -> <PyModule 'yaml.loader' c:\Python27\lib\site-packages\yaml\loader.pyc imports=[('resolver', 0, 0, -1), ('scanner.*', 0, 0, -1), ('composer.*', 0, 0, -1), ('parser.*', 0, 0, -1), ('scanner', 0, 0, -1), ('resolver.*', 0, 0, -1), ('parser', 0, 0, -1), ('constructor.*', 0, 0, -1), ('constructor', 0, 0, -1), ('reader', 0, 0, -1), ('reader.*', 0, 0, -1), ('composer', 0, 0, -1)] binaries=[] datas=[]>
+yaml.StringIO: None -> None
+yaml.error: None -> <PyModule 'yaml.error' c:\Python27\lib\site-packages\yaml\error.pyc imports=[] binaries=[] datas=[]>
+yaml.cStringIO: None -> None
+yaml.dumper: None -> <PyModule 'yaml.dumper' c:\Python27\lib\site-packages\yaml\dumper.pyc imports=[('serializer.*', 0, 0, -1), ('emitter', 0, 0, -1), ('serializer', 0, 0, -1), ('resolver.*', 0, 0, -1), ('emitter.*', 0, 0, -1), ('representer.*', 0, 0, -1), ('representer', 0, 0, -1), ('resolver', 0, 0, -1)] binaries=[] datas=[]>
+yaml.resolver: None -> <PyModule 'yaml.resolver' c:\Python27\lib\site-packages\yaml\resolver.pyc imports=[('nodes.*', 0, 0, -1), ('re', 0, 0, -1), ('nodes', 0, 0, -1), ('error', 0, 0, -1), ('error.*', 0, 0, -1)] binaries=[] datas=[]>
+yaml.serializer: None -> <PyModule 'yaml.serializer' c:\Python27\lib\site-packages\yaml\serializer.pyc imports=[('nodes.*', 0, 0, -1), ('events.*', 0, 0, -1), ('events', 0, 0, -1), ('nodes', 0, 0, -1), ('error.YAMLError', 0, 0, -1), ('error', 0, 0, -1)] binaries=[] datas=[]>
+yaml.constructor: None -> <PyModule 'yaml.constructor' c:\Python27\lib\site-packages\yaml\constructor.pyc imports=[('nodes.*', 0, 0, -1), ('re', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('nodes', 0, 0, -1), ('error.*', 0, 0, -1), ('datetime', 0, 0, -1), ('binascii', 0, 0, -1), ('error', 0, 0, -1)] binaries=[] datas=[]>
+yaml._yaml: None -> None
+_yaml: None -> <ExtensionModule '_yaml' c:\Python27\lib\site-packages\_yaml.pyd imports=[] binaries=[] datas=[]>
+yaml.representer: None -> <PyModule 'yaml.representer' c:\Python27\lib\site-packages\yaml\representer.pyc imports=[('nodes.*', 0, 0, -1), ('sys', 0, 0, -1), ('types', 0, 0, -1), ('nodes', 0, 0, -1), ('error.*', 0, 0, -1), ('copy_reg', 0, 0, -1), ('datetime', 0, 0, -1), ('error', 0, 0, -1)] binaries=[] datas=[]>
+yaml.re: None -> None
+yaml.sys: None -> None
+yaml.types: None -> None
+yaml.datetime: None -> None
+yaml.binascii: None -> None
+yaml.copy_reg: None -> None
+yaml.scanner: None -> <PyModule 'yaml.scanner' c:\Python27\lib\site-packages\yaml\scanner.pyc imports=[('tokens.*', 0, 0, -1), ('error', 0, 0, -1), ('error.MarkedYAMLError', 0, 0, -1), ('tokens', 0, 0, -1)] binaries=[] datas=[]>
+yaml.composer: None -> <PyModule 'yaml.composer' c:\Python27\lib\site-packages\yaml\composer.pyc imports=[('nodes.*', 0, 0, -1), ('events.*', 0, 0, -1), ('error.MarkedYAMLError', 0, 0, -1), ('events', 0, 0, -1), ('nodes', 0, 0, -1), ('error', 0, 0, -1)] binaries=[] datas=[]>
+yaml.parser: None -> <PyModule 'yaml.parser' c:\Python27\lib\site-packages\yaml\parser.pyc imports=[('events.*', 0, 0, -1), ('error.MarkedYAMLError', 0, 0, -1), ('events', 0, 0, -1), ('scanner.*', 0, 0, -1), ('scanner', 0, 0, -1), ('tokens.*', 0, 0, -1), ('error', 0, 0, -1), ('tokens', 0, 0, -1)] binaries=[] datas=[]>
+yaml.reader: None -> <PyModule 'yaml.reader' c:\Python27\lib\site-packages\yaml\reader.pyc imports=[('codecs', 0, 0, -1), ('error.Mark', 0, 0, -1), ('error.YAMLError', 0, 0, -1), ('error', 0, 0, -1), ('re', 0, 0, -1)] binaries=[] datas=[]>
+yaml.codecs: None -> None
+yaml.emitter: None -> <PyModule 'yaml.emitter' c:\Python27\lib\site-packages\yaml\emitter.pyc imports=[('events.*', 0, 0, -1), ('error.YAMLError', 0, 0, -1), ('error', 0, 0, -1), ('events', 0, 0, -1)] binaries=[] datas=[]>
+wx.calendar: None -> <PyModule 'wx.calendar' c:\Python27\lib\site-packages\wx-3.0-msw\wx\calendar.pyc imports=[('datetime', 1, 0, -1), ('_calendar', 0, 0, -1), ('new', 0, 0, -1), ('types', 0, 0, -1), ('_core', 0, 0, -1), ('_misc', 0, 0, -1)] binaries=[] datas=[]>
+wx.datetime: None -> None
+wx._calendar: None -> <ExtensionModule 'wx._calendar' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_calendar.pyd imports=[] binaries=[] datas=[]>
+utils_psur: None -> <PyModule 'utils_psur' C:\Users\Administrator\Desktop\Robot project\adr-crawler\utils_psur.pyc imports=[('os', 1, 0, -1), ('bs4.BeautifulSoup', 0, 0, -1), ('utils.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('codecs', 0, 0, -1), ('bs4', 0, 0, -1), ('login2.login', 0, 0, -1)] binaries=[] datas=[]>
+bs4.BeautifulSoup: None -> None
+  DEL bs4.BeautifulSoup
+deletedance: None -> <PyModule 'deletedance' C:\Users\Administrator\Desktop\Robot project\adr-crawler\deletedance.pyc imports=[('mdrtime.*', 0, 0, -1), ('mdrtime', 0, 0, -1), ('config', 0, 0, -1), ('mdrsql.mdr_select', 0, 0, -1), ('config.*', 0, 0, -1), ('mdrsql', 0, 0, -1)] binaries=[] datas=[]>
+simplejson: None -> <PkgModule 'simplejson' c:\Python27\lib\site-packages\simplejson\__init__.pyc imports=[('decoder.JSONDecoder', 0, 0, -1), ('encoder', 0, 0, -1), ('encoder.JSONEncoder', 0, 0, -1), ('decoder', 0, 0, -1)] binaries=[] datas=[]>
+simplejson.decoder: None -> <PyModule 'simplejson.decoder' c:\Python27\lib\site-packages\simplejson\decoder.pyc imports=[('simplejson.scanner.make_scanner', 0, 0, -1), ('re', 0, 0, -1), ('sys', 0, 0, -1), ('simplejson._speedups.scanstring', 0, 0, -1), ('struct', 0, 0, -1), ('simplejson._speedups', 0, 0, -1), ('simplejson.scanner', 0, 0, -1)] binaries=[] datas=[]>
+simplejson.encoder: None -> <PyModule 'simplejson.encoder' c:\Python27\lib\site-packages\simplejson\encoder.pyc imports=[('simplejson._speedups', 0, 0, -1), ('re', 0, 0, -1), ('simplejson._speedups.encode_basestring_ascii', 0, 0, -1), ('simplejson._speedups.make_encoder', 0, 0, -1)] binaries=[] datas=[]>
+simplejson.simplejson: None -> None
+simplejson.scanner: None -> <PyModule 'simplejson.scanner' c:\Python27\lib\site-packages\simplejson\scanner.pyc imports=[('simplejson._speedups', 0, 0, -1), ('re', 0, 0, -1), ('simplejson._speedups.make_scanner', 0, 0, -1)] binaries=[] datas=[]>
+simplejson.re: None -> None
+simplejson.sys: None -> None
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+simplejson.struct: None -> None
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+simplejson._speedups: None -> None
+  DEL simplejson._speedups
+mdr_parse: None -> <PyModule 'mdr_parse' C:\Users\Administrator\Desktop\Robot project\adr-crawler\mdr_parse.pyc imports=[('os', 0, 0, -1), ('deletedance', 0, 0, -1), ('urllib', 0, 0, -1), ('simplejson', 0, 0, -1), ('config.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('config', 0, 0, -1), ('time', 0, 0, -1), ('utils', 0, 0, -1), ('codecs', 0, 0, -1), ('deletedance.dodelete', 0, 0, -1)] binaries=[] datas=[]>
+report_query: None -> <PyModule 'report_query' C:\Users\Administrator\Desktop\Robot project\adr-crawler\report_query.pyc imports=[('mdr_parse', 0, 0, -1), ('config', 0, 0, -1), ('deletedance', 0, 0, -1), ('gather.mdr_get_page_count', 0, 0, -1), ('simplejson', 0, 0, -1), ('utils.*', 0, 0, -1), ('config.*', 0, 0, -1), ('os', 0, 0, -1), ('gather', 0, 0, -1), ('time', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('codecs', 0, 0, -1), ('deletedance.dodelete', 0, 0, -1)] binaries=[] datas=[]>
+gather: None -> <PyModule 'gather' C:\Users\Administrator\Desktop\Robot project\adr-crawler\gather.pyc imports=[('mdrtime.*', 0, 0, -1), ('mdrtime', 0, 0, -1), ('utils.*', 0, 0, -1), ('datetime', 0, 0, -1), ('utils', 0, 0, -1), ('codecs', 0, 0, -1)] binaries=[] datas=[]>
+report_query_full: None -> <PyModule 'report_query_full' C:\Users\Administrator\Desktop\Robot project\adr-crawler\report_query_full.pyc imports=[('config', 0, 0, -1), ('deletedance', 0, 0, -1), ('simplejson', 0, 0, -1), ('utils.*', 0, 0, -1), ('config.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('os', 0, 0, -1), ('gather', 0, 0, -1), ('time', 0, 0, -1), ('utils', 0, 0, -1), ('codecs', 0, 0, -1), ('deletedance.dodelete', 0, 0, -1)] binaries=[] datas=[]>
+wx.grid: None -> <PyModule 'wx.grid' c:\Python27\lib\site-packages\wx-3.0-msw\wx\grid.pyc imports=[('new', 0, 0, -1), ('types', 0, 0, -1), ('_core', 0, 0, -1), ('_windows', 0, 0, -1), ('_grid', 0, 0, -1)] binaries=[] datas=[]>
+psur_extradownload: None -> <PyModule 'psur_extradownload' C:\Users\Administrator\Desktop\Robot project\adr-crawler\psur_extradownload.pyc imports=[('psur', 0, 0, -1), ('utils.*', 0, 0, -1), ('login2', 0, 0, -1), ('utils', 0, 0, -1), ('login2.login', 0, 0, -1)] binaries=[] datas=[]>
+wx._grid: None -> <ExtensionModule 'wx._grid' c:\Python27\lib\site-packages\wx-3.0-msw\wx\_grid.pyd imports=[] binaries=[] datas=[]>
+acdownload: None -> <PyModule 'acdownload' C:\Users\Administrator\Desktop\Robot project\adr-crawler\acdownload.pyc imports=[('deletedance', 0, 0, -1), ('mdr_parse', 0, 0, -1), ('utils.*', 0, 0, -1), ('mdrsql', 0, 0, -1), ('report_query_full', 0, 0, -1), ('utils', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib: None -> <PkgModule 'wx.lib' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\__init__.pyc imports=[] binaries=[] datas=[]>
+wx.lib.scrolledpanel: None -> <PyModule 'wx.lib.scrolledpanel' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\scrolledpanel.pyc imports=[('wx', 0, 0, -1), ('math', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.masked: None -> <PkgModule 'wx.lib.masked' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\__init__.pyc imports=[('combobox.MaskedComboBoxSelectEvent', 0, 0, -1), ('combobox.BaseMaskedComboBox', 0, 0, -1), ('ctrl.controlTypes', 0, 0, -1), ('timectrl.EVT_TIMEUPDATE', 0, 0, -1), ('timectrl.wxEVT_TIMEVAL_UPDATED', 0, 0, -1), ('timectrl.TimeUpdatedEvent', 0, 0, -1), ('textctrl.BaseMaskedTextCtrl', 0, 0, -1), ('maskededit.*', 0, 0, -1), ('timectrl', 0, 0, -1), ('numctrl.NumCtrl', 0, 0, -1), ('timectrl.TimeCtrl', 0, 0, -1), ('ctrl.Ctrl', 0, 0, -1), ('combobox.PreMaskedComboBox', 0, 0, -1), ('ipaddrctrl', 0, 0, -1), ('numctrl.NumberUpdatedEvent', 0, 0, -1), ('textctrl.TextCtrl', 0, 0, -1), ('ctrl', 0, 0, -1), ('textctrl.PreMaskedTextCtrl', 0, 0, -1), ('combobox', 0, 0, -1), ('textctrl', 0, 0, -1), ('maskededit', 0, 0, -1), ('numctrl', 0, 0, -1), ('combobox.ComboBox', 0, 0, -1), ('numctrl.wxEVT_COMMAND_MASKED_NUMBER_UPDATED', 0, 0, -1), ('numctrl.EVT_NUM', 0, 0, -1), ('ipaddrctrl.IpAddrCtrl', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.wx: None -> None
+wx.lib.math: None -> None
+wx.lib.masked.combobox: None -> <PyModule 'wx.lib.masked.combobox' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\combobox.pyc imports=[('wx', 0, 0, -1), ('wx.tools.dbg', 0, 0, -1), ('types', 0, 0, -1), ('wx.lib.masked', 0, 0, -1), ('wx.tools.dbg.Logger', 0, 0, -1), ('string', 0, 0, -1), ('wx.lib.masked.*', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.masked.ctrl: None -> <PyModule 'wx.lib.masked.ctrl' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\ctrl.pyc imports=[('wx.lib.masked.NumCtrl', 0, 0, -1), ('wx.lib.masked', 0, 0, -1), ('wx.lib.masked.IpAddrCtrl', 0, 0, -1), ('wx.lib.masked.TimeCtrl', 0, 0, -1), ('wx.lib.masked.TextCtrl', 0, 0, -1), ('wx.lib.masked.ComboBox', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.masked.timectrl: None -> <PyModule 'wx.lib.masked.timectrl' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\timectrl.pyc imports=[('wx.lib.masked', 0, 0, -1), ('wx', 0, 0, -1), ('mx', 0, 0, -1), ('wx.tools.dbg', 0, 0, -1), ('wx.tools.dbg.Logger', 0, 0, -1), ('copy', 0, 0, -1), ('types', 0, 0, -1), ('string', 0, 0, -1), ('wx.lib.masked.BaseMaskedTextCtrl', 0, 0, -1), ('sys', 1, 0, -1), ('wx.lib.masked.Field', 0, 0, -1), ('mx.DateTime', 0, 0, -1), ('traceback', 0, 1, -1)] binaries=[] datas=[]>
+wx.lib.masked.textctrl: None -> <PyModule 'wx.lib.masked.textctrl' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\textctrl.pyc imports=[('wx.lib.masked.*', 0, 0, -1), ('wx.lib.masked', 0, 0, -1), ('wx', 0, 0, -1), ('wx.tools.dbg', 0, 0, -1), ('wx.tools.dbg.Logger', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.masked.maskededit: None -> <PyModule 'wx.lib.masked.maskededit' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\maskededit.pyc imports=[('re', 0, 0, -1), ('wx', 0, 0, -1), ('wx.tools.dbg', 0, 0, -1), ('types', 0, 0, -1), ('copy', 0, 0, -1), ('wx.tools.dbg.Logger', 0, 0, -1), ('string', 0, 0, -1), ('difflib', 0, 0, -1), ('wx.lib.rcsizer', 1, 0, -1), ('wx.lib.rcsizer.RowColSizer', 1, 0, -1)] binaries=[] datas=[]>
+wx.lib.masked.numctrl: None -> <PyModule 'wx.lib.masked.numctrl' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\numctrl.pyc imports=[('wx.lib.masked', 0, 0, -1), ('wx', 0, 0, -1), ('sys', 0, 0, -1), ('wx.tools.dbg', 0, 0, -1), ('types', 0, 0, -1), ('copy', 0, 0, -1), ('wx.tools.dbg.Logger', 0, 0, -1), ('string', 0, 0, -1), ('sys.maxint', 0, 0, -1), ('wx.lib.masked.BaseMaskedTextCtrl', 0, 0, -1), ('wx.lib.masked.MaskedEditMixin', 0, 0, -1), ('wx.lib.masked.Field', 0, 0, -1), ('traceback', 0, 1, -1)] binaries=[] datas=[]>
+wx.lib.masked.ipaddrctrl: None -> <PyModule 'wx.lib.masked.ipaddrctrl' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\masked\ipaddrctrl.pyc imports=[('wx', 0, 0, -1), ('wx.tools.dbg', 0, 0, -1), ('types', 0, 0, -1), ('wx.lib.masked', 0, 0, -1), ('wx.tools.dbg.Logger', 0, 0, -1), ('wx.lib.masked.BaseMaskedTextCtrl', 0, 0, -1), ('string', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.masked.wx: None -> None
+wx.tools: None -> <PkgModule 'wx.tools' c:\Python27\lib\site-packages\wx-3.0-msw\wx\tools\__init__.pyc imports=[] binaries=[] datas=[]>
+wx.tools.dbg: None -> <PyModule 'wx.tools.dbg' c:\Python27\lib\site-packages\wx-3.0-msw\wx\tools\dbg.pyc imports=[('sys', 0, 1, -1), ('wx', 0, 1, -1), ('sys', 1, 0, -1), ('wxPython.wx', 1, 1, -1), ('wxPython.wx.wxLogMessage', 1, 1, -1)] binaries=[] datas=[]>
+wx.lib.masked.types: None -> None
+wx.lib.masked.string: None -> None
+wx.tools.sys: None -> None
+wx.tools.wx: None -> None
+wx.tools.wxPython: None -> None
+wxPython: None -> None
+  DEL wxPython
+wxPython: None -> None
+  DEL wxPython
+wx.lib.masked.NumCtrl: None -> None
+  DEL wx.lib.masked.NumCtrl
+wx.lib.masked.IpAddrCtrl: None -> None
+  DEL wx.lib.masked.IpAddrCtrl
+wx.lib.masked.TimeCtrl: None -> None
+  DEL wx.lib.masked.TimeCtrl
+wx.lib.masked.TextCtrl: None -> None
+  DEL wx.lib.masked.TextCtrl
+wx.lib.masked.ComboBox: None -> None
+  DEL wx.lib.masked.ComboBox
+wx.lib.masked.mx: None -> None
+mx: None -> None
+  DEL mx
+wx.lib.masked.copy: None -> None
+wx.lib.masked.BaseMaskedTextCtrl: None -> None
+  DEL wx.lib.masked.BaseMaskedTextCtrl
+wx.lib.masked.sys: None -> None
+wx.lib.masked.Field: None -> None
+  DEL wx.lib.masked.Field
+mx: None -> None
+  DEL mx
+wx.lib.masked.traceback: None -> None
+wx.lib.masked.re: None -> None
+wx.lib.masked.difflib: None -> None
+wx.lib.rcsizer: None -> <PyModule 'wx.lib.rcsizer' c:\Python27\lib\site-packages\wx-3.0-msw\wx\lib\rcsizer.pyc imports=[('wx', 0, 0, -1), ('operator', 0, 0, -1)] binaries=[] datas=[]>
+wx.lib.operator: None -> None
+wx.lib.masked.BaseMaskedTextCtrl: None -> None
+  DEL wx.lib.masked.BaseMaskedTextCtrl
+wx.lib.masked.MaskedEditMixin: None -> None
+  DEL wx.lib.masked.MaskedEditMixin
+wx.lib.masked.Field: None -> None
+  DEL wx.lib.masked.Field
+wx.lib.masked.BaseMaskedTextCtrl: None -> None
+  DEL wx.lib.masked.BaseMaskedTextCtrl

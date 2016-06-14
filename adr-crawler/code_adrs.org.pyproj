@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{1a5410db-d343-4706-bc91-cb3e1c15f496}</ProjectGuid>
+    <ProjectHome />
+    <StartupFile>tray.py</StartupFile>
+    <SearchPath />
+    <WorkingDirectory>.</WorkingDirectory>
+    <OutputPath>.</OutputPath>
+    <ProjectTypeGuids>{888888a0-9f3d-457c-b088-3a5042f75d52}</ProjectTypeGuids>
+    <LaunchProvider>Standard Python launcher</LaunchProvider>
+    <InterpreterId />
+    <InterpreterVersion />
+    <Name>code_adrs.org</Name>
+    <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)' == 'Debug'" />
+  <PropertyGroup Condition="'$(Configuration)' == 'Release'" />
+  <PropertyGroup>
+    <VisualStudioVersion Condition=" '$(VisualStudioVersion)' == '' ">10.0</VisualStudioVersion>
+    <PtvsTargetsFile>$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets</PtvsTargetsFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="capacha.png" />
+    <Content Include="code2.txt" />
+    <Content Include="log.txt" />
+    <Content Include="readme.txt" />
+    <Content Include="report_log_2014.txt" />
+    <Content Include="source\capacha.png" />
+    <Content Include="source\code2.txt" />
+    <Content Include="source\timeconfig_end.ini" />
+    <Content Include="source\timeconfig_minute.ini" />
+    <Content Include="source\timeconfig_minute_adr.ini" />
+    <Content Include="source\timeconfig_start.ini" />
+    <Content Include="source\wx.ico" />
+    <Content Include="timeconfig_end.ini" />
+    <Content Include="timeconfig_minute.ini" />
+    <Content Include="timeconfig_minute_adr.ini" />
+    <Content Include="timeconfig_start.ini" />
+    <Content Include="wx.ico" />
+    <Content Include="版本说明.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="acdownload.py" />
+    <Compile Include="adr24.py" />
+    <Compile Include="adrparseradr_adr.py" />
+    <Compile Include="adr_adr.py" />
+    <Compile Include="adr_appraise.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="adr_regulate.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="checkitemmdr.py" />
+    <Compile Include="common.py" />
+    <Compile Include="config.py" />
+    <Compile Include="configxml.py" />
+    <Compile Include="crawler_by_time_adr.py" />
+    <Compile Include="database_adr.py" />
+    <Compile Include="datepicker.py" />
+    <Compile Include="Ddbdialog.py" />
+    <Compile Include="deletedance.py" />
+    <Compile Include="gather.py" />
+    <Compile Include="inimysql2.py" />
+    <Compile Include="login.py" />
+    <Compile Include="login2.py" />
+    <Compile Include="logininfoDialog.py" />
+    <Compile Include="login_new_adr.py" />
+    <Compile Include="main.py" />
+    <Compile Include="main_adr.py" />
+    <Compile Include="mdr24.py" />
+    <Compile Include="mdrsql.py" />
+    <Compile Include="mdrtime.py" />
+    <Compile Include="mdr_appraise.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mdr_calibrate.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="mdr_parse.py" />
+    <Compile Include="myschedule.py" />
+    <Compile Include="pathDlg.py" />
+    <Compile Include="psur.py" />
+    <Compile Include="psur_extradownload.py" />
+    <Compile Include="psur_old.py" />
+    <Compile Include="queryDlg.py" />
+    <Compile Include="readconfig.py" />
+    <Compile Include="readyaml.py" />
+    <Compile Include="report_query.py" />
+    <Compile Include="report_query_full.py" />
+    <Compile Include="sd3.py" />
+    <Compile Include="sd4.py" />
+    <Compile Include="test.py" />
+    <Compile Include="tray.py" />
+    <Compile Include="utils.py" />
+    <Compile Include="utils_adr.py" />
+    <Compile Include="utils_psur.py" />
+    <Compile Include="zoe2.py" />
+    <Compile Include="zoe3.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="source" />
+  </ItemGroup>
+  <Import Project="$(PtvsTargetsFile)" Condition="Exists($(PtvsTargetsFile))" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.Common.targets" Condition="!Exists($(PtvsTargetsFile))" />
+</Project>
